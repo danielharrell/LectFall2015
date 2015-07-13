@@ -1,11 +1,10 @@
 
-Title: Two Ideas of Liberal Education  
-Author: Daniel Harrell
-Date: July 13, 2011
-Base Header Level: 3
+% What Makes Liberal Education Liberal?
+% Daniel Harrell
+% October 16, 2015
 
-A lecture I gave on the Annapolis campus of St. John's College on July
-13, 2011...
+A lecture I gave on the Annapolis campus of St. John's College on October
+16, 2015...
 
 ***
 
@@ -17,13 +16,13 @@ A lecture I gave on the Annapolis campus of St. John's College on July
 
 ***
 
-In what sense are we freed through a
-liberal education?  In my lecture tonight, I want to discuss
-one answer to this question, which nonetheless leads, I
-think, to two ideas, opposed ideas, of what liberal
-education is. The lecture is accordingly divided into two
-parts: a first part where I discuss the answer; then a
-second part where I discuss the two ideas.
+What makes liberal education liberal? In my lecture tonight,
+I want to discuss one way of answering this question, which
+leads, I think, to a second question: what makes liberal
+education education? The lecture is accordingly divided into
+two parts: a first part where I discuss the answer to
+the first question; then
+a second part where I discuss the two ideas.
 
 
 ## Part One [one]
@@ -218,11 +217,10 @@ questions we can ask of the world that remain questions even
 when answered.
 
 Let me try to spell all this out one last way before moving
-on. There
-is, we can suppose, a way that the world is simply there for
-us, or present to us.  And this establishes what we might
-call a horizon of acquaintance with things, within which they
-are always already present, and in that sense
+on. There is, we can suppose, a way that the world is simply
+there for us, or present to us. And this establishes what we
+might call a horizon of acquaintance with things, within
+which they are always already present, and in that sense
 unquestionable. This is not to deny the existence of
 questions within such a horizon, but rather to say that any
 such question has some answer in front of it, that relies on
@@ -230,13 +228,12 @@ the very presence of what is being questioned. And because
 of this presence, the answer can in effect supplant the
 question, in what we might regard as the continual advance
 in knowledge that we can make within this horizon, just
-insofar as our questions about the world *have*
-answers.  We could even identify this horizon, I think, with
-everything there is to *learn* about the world. And if
-this were the only horizon available to us, liberal
-education would be, in a literal sense of the word,
-*mathematical*, where we learn the things that
-*can* be learned.
+insofar as our questions about the world *have* answers.  We
+could even identify this horizon, I think, with everything
+there is to *learn* about the world. And if this were the
+only horizon available to us, liberal education would be, in
+a literal sense of the word, *mathematical*, where we learn
+the things that *can* be learned.
 
 But this is not, it turns out, the only horizon available to
 us. And this changes---or converts---the idea of liberal
@@ -251,28 +248,26 @@ horizon available to us---if "horizon" is still the
 word---that encompasses our horizon of acquaintance. And
 within this larger horizon, we could say that things are
 inherently questionable, which is to say, that things are
-present to us only insofar as they are questionable. This
-is not to deny the existence of answers within such a
-horizon, but rather to say that any such answer has some
-question behind it, that relies on the very questionability
-of what is present. And because of this questionability, the
-answer is prevented from supplanting the question. What the
-answer does instead, we could say, is address the
-question. And within this horizon, then, there is no
-advance, in the usual sense, in our knowledge of things, but
-rather a deepening of it. We might think of this deepening
-as a continual clarification, within this horizon, of why,
-and to what extent, our knowledge of things *is*
-knowledge. And this clarification is possible just insofar
-as our answers have questions about the world behind them,
-to which they *are* the answers. We could even identify
-this horizon, I think, with everything there is to
-*wonder* about the world,
-or *ask* about the
-world, that makes us learn, in making us want
-to learn, and in that way able to learn. And since
-this is a second horizon available to us that encompasses
-the first, liberal education is no longer mathematical, but
+present to us only insofar as they are questionable. This is
+not to deny the existence of answers within such a horizon,
+but rather to say that any such answer has some question
+behind it, that relies on the very questionability of what
+is present. And because of this questionability, the answer
+is prevented from supplanting the question. What the answer
+does instead, we could say, is address the question. And
+within this horizon, then, there is no advance, in the usual
+sense, in our knowledge of things, but rather a deepening of
+it. We might think of this deepening as a continual
+clarification, within this horizon, of why, and to what
+extent, our knowledge of things *is* knowledge. And this
+clarification is possible just insofar as our answers have
+questions about the world behind them, to which they *are*
+the answers. We could even identify this horizon, I think,
+with everything there is to *wonder* about the world, or
+*ask* about the world, that makes us learn, in making us
+want to learn, and in that way able to learn. And since this
+is a second horizon available to us that encompasses the
+first, liberal education is no longer mathematical, but
 again philosophical, where we might say, if paradoxically,
 that we learn the things that *can't* be learned.
 
@@ -670,8 +665,8 @@ In any case, the way I might capture this difference in
 light of my discussion above as as follows. Under both ideas
 of liberal education, great books establish our horizon of
 acquaintance with things. But under one idea, which we could
-identify with Klein,  emph{this founding has already
-happened}, and needs to be recollected, demanding a
+identify with Klein, *this founding has already
+happened*, and needs to be recollected, demanding a
 particular sort of encounter with great books, which I
 characterized as "careful" reading above.  But under the
 other idea, which we could identify with Buchanan,
@@ -785,6 +780,7 @@ John's College Press, 1983), 107.
 [^Winfree_Quote8]: Smith, 105--106.
 
 [^Winfree_Quote9]: Smith, 116.
+
 % The Lost Idea of a Liberal Art
 % Daniel Harrell
 % July 8, 2015
