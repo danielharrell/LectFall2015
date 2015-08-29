@@ -1,5 +1,5 @@
 
-% What Makes Liberal Education Liberal?
+% What Makes A Liberal Education Liberal?
 % Daniel Harrell
 % October 16, 2015
 
@@ -16,14 +16,8 @@ A lecture I gave on the Annapolis campus of St. John's College on October
 
 ***
 
-What makes liberal education liberal? In my lecture tonight,
-I want to discuss one way of answering this question, which
-leads, I think, to a second question: what makes liberal
-education education? The lecture is accordingly divided into
-two parts: a first part where I discuss the answer to
-the first question; then
-a second part where I discuss the two ideas.
-
+What makes a liberal education liberal? Perhaps the simplest
+we could give
 
 ## Part One [one]
 
