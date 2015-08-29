@@ -1,5 +1,5 @@
 
-% What Makes A Liberal Education Liberal?
+% What is a question?
 % Daniel Harrell
 % October 16, 2015
 
@@ -16,8 +16,44 @@ A lecture I gave on the Annapolis campus of St. John's College on October
 
 ***
 
-What makes a liberal education liberal? Perhaps the simplest
-we could give
+There is certainly more than one way to explain why we do
+what we do at St. John's College, and why we would call it
+education. These ways, I think, can even contradict one
+another, suggesting that we find ourselves brought together
+by *what* we do, yet go our separate ways in any reckoning
+of *why*. There is no doubt, for example, that we have no
+departments at the college, no majors, and no electives
+unless you count preceptorial. But *why* this is so is not
+so easy to say. And what *I* might say is not necessarily
+what a fellow tutor might say, or what a student might say,
+or what the president of the college might say. And there is
+no guarantee that what we severally say will cohere. One of
+us might claim that we have no departments or majors or
+electives, in order to foster a community of learning. But
+then another of us might reply that there is no such thing
+as a community of learning, since learning can only be done
+on one's own; and that the true reason for our lack of
+departments and majors and electives lies not in a sense of
+community, but rather in a conception of knowledge. But then
+the first of us might rejoin that we can have no conception
+of knowledge without knowledge, yet knowledge is just what
+we lack, in being what we seek, not what we possess. 
+
+What is the point of questions if they have no answers? and what we seek, not what we possess. Indeed, our
+lack of such divisions and specialities is sometimes There
+will be, to borrow a term from Wittgenstein, there is no
+guarantee that what I might say about it is what a fellow
+tutor might say, or a student might say, . And what I myself
+might say about it is not what a fellow tutor might say, or
+whatrather than by why we do it.  at the college more
+evident to us than why we do it. to suggest that what we do
+at the college has more integrity than the kind of education
+we pursue here at St. John's College, and more than one way
+to explain what makes it education. Perhaps even ways that
+contradict one another, suggesting that  And perhaps even
+ways that contradict one another. , and perhaps even ways
+that contradict one another,   What makes a liberal
+education liberal? Perhaps the simplest we could give
 
 ## Part One [one]
 
