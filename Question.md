@@ -16,46 +16,83 @@ A lecture I gave on the Annapolis campus of St. John's College on October
 
 ***
 
-There is certainly more than one way to explain why we do
-what we do at St. John's College, and why we would call it
-education. These ways, I think, can even contradict one
-another, suggesting that we find ourselves brought together
-by *what* we do, yet go our separate ways in any reckoning
-of *why*. There is no doubt, for example, that we have no
-departments at the college, no majors, and no electives
-unless you count preceptorial. But *why* this is so is not
-so easy to say. And what *I* might say is not necessarily
-what a fellow tutor might say, or what a student might say,
-or what the president of the college might say. And there is
-no guarantee that what we severally say will cohere. One of
-us might claim that we have no departments or majors or
-electives, in order to foster a community of learning. But
-then another of us might reply that there is no such thing
-as a community of learning, since learning can only be done
-on one's own; and that the true reason for our lack of
-departments and majors and electives lies not in a sense of
-community, but rather in a conception of knowledge. But then
-the first of us might rejoin that we can have no conception
-of knowledge without knowledge, yet knowledge is just what
-we lack, in being what we seek, not what we possess. 
-
-What is the point of questions if they have no answers? and what we seek, not what we possess. Indeed, our
-lack of such divisions and specialities is sometimes There
-will be, to borrow a term from Wittgenstein, there is no
-guarantee that what I might say about it is what a fellow
-tutor might say, or a student might say, . And what I myself
-might say about it is not what a fellow tutor might say, or
-whatrather than by why we do it.  at the college more
-evident to us than why we do it. to suggest that what we do
-at the college has more integrity than the kind of education
-we pursue here at St. John's College, and more than one way
-to explain what makes it education. Perhaps even ways that
-contradict one another, suggesting that  And perhaps even
-ways that contradict one another. , and perhaps even ways
-that contradict one another,   What makes a liberal
-education liberal? Perhaps the simplest we could give
-
 ## Part One [one]
+
+Once a week, from late August to early May, for the past
+seventeen years, I have been obliged, by what some would
+call my job and others my vocation, to do something that
+I have rarely found easy, never gotten better at, and only
+sometimes done well.  The something I mean, as you may have
+already guessed, is to find---or should I say form?---a good
+opening question for seminar. If you asked me what makes an
+opening question good, I'm not sure what I could say, or if
+what I thought to say would agree with another tutor might
+say. In my experience, the better questions tend to be
+brief, pointed, yet give the impression, which may well work
+against pointed brevity, of being whole-hearted rather than
+calculated. Still, the only sure sign of a good opening
+question that I know, sadly fails to appear until the
+question is asked. And this sign bears close resemblance,
+I think, to a moment of insight where one says "a-ha!" Or
+feels the key, as it were, turn in the lock. As soon as the
+good opening question is asked, it can become a question for
+everyone else in the room. One might say it has a kind of
+intrinsic intelligibility, in somehow providing the
+conditions for its own recognition as a question. 
+
+Move on from here to describe peculiarity of this
+intelligibility: for if things were simply intelligible
+there would be no questions, so what is this
+intelligibility? Also requires work to get to questions.
+Also, one cannot be taught to ask such questions. he good
+opening question, so one might say, has an intrinsic
+intelligibility thatIt It allows the "a-ha!" momentit leads
+students directly to what the question is about, you leave
+students scratching their heads at what the question was,
+experience the better questions tend to be brief, and more
+sincere than clever, ; beyond some maxims I've have adopted
+that seem at least roWhat I mean, as you may have already
+guessed, is to come to There are  certainly more than one
+way to explain why we do what we do at St. John's College,
+and why we would call it education. And not just several
+ways, I think, but contradictory ways, These ways, I think,
+can even contradict one another, suggesting that we find
+ourselves brought together by *what* we do, yet go our
+separate ways in any reckoning of *why*. There is no doubt,
+for example, that we have no departments at the college, no
+majors, and no electives unless you count preceptorial. But
+*why* this is so is not so easy to say. And what *I* might
+say is not necessarily what a fellow tutor might say, or
+what a student might say, or what the president of the
+college might say. And there is no guarantee that what we
+severally say will cohere. One of us might claim that we
+have no departments or majors or electives, in order to
+foster a community of learning. But then another of us might
+reply that there is no such thing as a community of
+learning, since learning can only be done on one's own; and
+that the true reason for our lack of departments and majors
+and electives lies not in a sense of community, but rather
+in a conception of knowledge. But then the first of us might
+rejoin that we can have no conception of knowledge without
+knowledge, yet knowledge is just what we lack, in being what
+we seek, not what we possess. 
+
+What is the point of questions if they have no answers? and
+what we seek, not what we possess. Indeed, our lack of such
+divisions and specialities is sometimes There will be, to
+borrow a term from Wittgenstein, there is no guarantee that
+what I might say about it is what a fellow tutor might say,
+or a student might say, . And what I myself might say about
+it is not what a fellow tutor might say, or whatrather than
+by why we do it.  at the college more evident to us than why
+we do it. to suggest that what we do at the college has more
+integrity than the kind of education we pursue here at St.
+John's College, and more than one way to explain what makes
+it education. Perhaps even ways that contradict one another,
+suggesting that And perhaps even ways that contradict one
+another. , and perhaps even ways that contradict one
+another,   What makes a liberal education liberal? Perhaps
+the simplest we could give
 
 For the answer, I turn to an essay entitled
 "The Idea of Liberal Education," written by Jacob Klein, a
