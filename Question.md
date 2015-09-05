@@ -19,40 +19,75 @@ A lecture I gave on the Annapolis campus of St. John's College on October
 ## Part One [one]
 
 Once a week, from late August to early May, for the past
-seventeen years, I have been obliged, by what some would
-call my job and others my vocation, to do something that
-I have rarely found easy, never gotten better at, and only
+seventeen years, I have had to do something that I have
+rarely found easy, never gotten better at, and only
 sometimes done well.  The something I mean, as you may have
-already guessed, is to find---or should I say form?---a good
+already guessed, is to find---or perhaps I say form---a good
 opening question for seminar. If you asked me what makes an
 opening question good, I'm not sure what I could say, or if
-what I thought to say would agree with another tutor might
-say. In my experience, the better questions tend to be
-brief, pointed, yet give the impression, which may well work
-against pointed brevity, of being whole-hearted rather than
-calculated. Still, the only sure sign of a good opening
-question that I know, sadly fails to appear until the
-question is asked. And this sign bears close resemblance,
-I think, to a moment of insight where one says "a-ha!" Or
-feels the key, as it were, turn in the lock. As soon as the
-good opening question is asked, it can become a question for
-everyone else in the room. One might say it has a kind of
-intrinsic intelligibility, in somehow providing the
-conditions for its own recognition as a question. 
+what I thought to say would agree with what someone else
+might say. In my experience---and this is mostly an
+experience of what my fellow-tutors have managed to do over
+the years across the table from me---the better opening
+questions tend to be brief, even pointed. Yet they also give
+the impression, which may well work against pointed brevity,
+of being whole-hearted rather than calculated. 
+
+Still, the only sure sign of a good opening question that
+I know, fails to appear until the question is asked.
+And this sign bears close resemblance, I think, to a moment
+of insight: where one says "a-ha!" or feels the key, as it
+were, turn in the lock. As soon as the good opening question
+is asked, it can somehow become a question for everyone else
+in the room. Once you hear it, perhaps you think: "Why
+didn't I think of that question?" Or perhaps you think:
+"Yes, I had that question too, but didn't quite realize it
+until now." Or perhaps you did realize it, but are struck
+with how well the question is put, and how well it allows you
+to appreciate the force of the question.  But in any case,
+the good opening question indeed has a force. It makes a
+kind of immediate sense. Or perhaps we could say it has
+a kind of intrinsic intelligibility, in somehow providing
+the conditions for its own recognition as a question. 
+
+But it can seem a strange thing to say what I just said.
+---To say, that is, that the good opening question---or a good
+question more generally---has intrinsic intelligibility. For
+suppose this intelligibility were possessed by the book
+we were asking about, or more generally by the world we were
+asking about. Suppose, in other words, that what we were
+asking about made immediate sense. In that case, it seems we
+would have nothing to ask about. And while I compared the
+good opening question to a moment of insight, we usually
+associate insight with answers rather than questions; just
+as the feeling of a key turning in the lock was taken by the
+philosopher Charles Peirce, from whom I borrowed it, as
+a sign of the successful explanation. 
+
+o capture the sign of a successful explanation rather than
+a good question.  from whom I borrowed the appeal to the
+feeling of a key turning in the lock, was making this appeal
+not to and when I appealed to the feeling of a key turning
+in the lock, I borrowed the description from Charles Peirce,
+who intended it to capture what it's like to explain
+something well. when the philosopher Charles Pierce, , And
+one might argue that being intelligible making immediate
+sense is something thatone might say that making immediate
+sense, or having intrinsic intelligibility, The book or
+world would be intelligible enough to have answered all our
+questionll our questions would be answered before they were
+asked. we attributed intrinsic intelligibility to the book
+we were asking about, or more generally to the world we were
+asking about. It would seem a
 
 Move on from here to describe peculiarity of this
 intelligibility: for if things were simply intelligible
 there would be no questions, so what is this
 intelligibility? Also requires work to get to questions.
-Also, one cannot be taught to ask such questions. he good
-opening question, so one might say, has an intrinsic
-intelligibility thatIt It allows the "a-ha!" momentit leads
-students directly to what the question is about, you leave
-students scratching their heads at what the question was,
-experience the better questions tend to be brief, and more
-sincere than clever, ; beyond some maxims I've have adopted
-that seem at least roWhat I mean, as you may have already
-guessed, is to come to There are  certainly more than one
+Also, one cannot be taught to ask such questions. 
+
+
+There are  certainly more than one
 way to explain why we do what we do at St. John's College,
 and why we would call it education. And not just several
 ways, I think, but contradictory ways, These ways, I think,
