@@ -10,11 +10,84 @@ A lecture I gave on the Annapolis campus of St. John's College on October
 
 ## Contents [top]
 
+[Introduction] [intro]
+
 [Part One] [one]  
 [Part Two] [two]  
 [Coda] [coda]
 
 ***
+## Introduction [intro]
+
+Tonight, I want to ask a question about questions. What are
+they, exactly? What did I just do in asking that one, for
+example? Or that one? Or this one?
+
+The questions I just asked show that they are easy enough to
+form. And form them we do, in ways that range from the
+clearly prosaic to the seemingly profound. Where did you go
+for lunch? Why is there something rather nothing?
+
+Questions also have a central place at this college, in
+their own way as important as the books we read and the
+conversations we have. There is a reason we begin seminar
+with an opening question rather than presentation. Or why we
+call the occasion after Friday Night Lecture the question
+period rather than the answer period, or even the
+question-and-answer period.  Without the questions we ask,
+the books we read and the conversations we have would
+arguably lose their point.
+
+But their very importance can make questions invisible to
+us.  They would get in the way themselves, it seems, if we
+couldn't ask a question without having to ask, first, what
+it means to ask a question. And if we consider questions our
+best expressions of thoughtfulness, it is easy to focus on
+what they ask, without any distinct reflection on what they
+are.  One might even wonder if there is anything left in
+a question to think about, once we grasp, and can ponder,
+what the question is asking about.
+
+## Part One
+
+But perhaps there *is* something left to think about. One
+sign of this is the way that we distinguish questions from
+other kinds of sentence, making them visible in speech
+despite the invisibility I just described. We give questions
+their own punctuation mark; their own syntax; their own
+intonation; and even their own verb---as if asking a question
+were something different from speaking a sentence, rather
+than an example of it.
+
+And indeed, there seems to be something not just different
+about questions, but puzzling, even paradoxical, when we
+compare them more closely to other kinds of sentence. We use
+declarative sentences, so the usual account goes, to convey
+ideas or information; we use exclamative sentences to
+express emotion; we use imperative sentences to issue
+requests or commands; and we finally use interrogative
+sentences to ask questions. •	In the first three cases, we
+can put the use of the sentence in terms that point beyond
+it, whether to oneself in the case of the exclamative, to
+someone else in the case of the imperative, or to the world
+inhabited by both, as one might put it, in the case of the
+declarative. But what about the last case, where we use the
+interrogative sentence to ask questions? This can sound more
+tautological than illuminating; and in any case it is harder
+to pin down what the asking of questions might be pointing
+to, since it can seem to point in all three directions at
+once: that is, to oneself, to someone else, and to the world
+inhabited by both, simultaneously. The question points to
+oneself as the one who asks the question, in a moment, say,
+of ignorance, or curiosity, or wonder. The question points
+to someone else as the one who hears the question, and is
+thereby invited, let us say, to answer it. (Make this about
+"answer" in broader sense.) And the question finally points
+to the world inhabited by both the asker and the answerer;
+for the question is not just from someone, or to someone,
+but *about something*, the something that distinguishes
+*what* it is being asked or answered from *who* it is asking
+or answering. 
 
 ## Part One [one]
 
@@ -51,18 +124,23 @@ a kind of intrinsic intelligibility, in somehow providing
 the conditions for its own recognition as a question. 
 
 But it can seem a strange thing to say what I just said.
----To say, that is, that the good opening question---or a good
-question more generally---has intrinsic intelligibility. For
-suppose this intelligibility were possessed by the book
-we were asking about, or more generally by the world we were
-asking about. Suppose, in other words, that what we were
-asking about made immediate sense. In that case, it seems we
-would have nothing to ask about. And while I compared the
-good opening question to a moment of insight, we usually
-associate insight with answers rather than questions; just
-as the feeling of a key turning in the lock was taken by the
+---To say, that is, that the good opening question---or
+a good question more generally---has intrinsic
+intelligibility. For suppose this intelligibility were
+possessed by the book we were asking about, or more
+generally by the world we were asking about. Suppose, in
+other words, that what we were asking about made immediate
+sense. In that case, it seems we would have nothing to ask
+about. And while I compared the good opening
+question to a moment of insight, we usually associate
+insight with answers rather than questions; just as the
+feeling of a key turning in the lock was taken by the
 philosopher Charles Peirce, from whom I borrowed it, as
-a sign of the successful explanation. 
+a sign of the successful explanation. Questions, then, are
+a sign of We might even say that
+if something is intelligible, and therefore somehow provides
+the conditions for its own recognition, it is hard to see
+not as a question, but rather as an answer to a question. 
 
 o capture the sign of a successful explanation rather than
 a good question.  from whom I borrowed the appeal to the
