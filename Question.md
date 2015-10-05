@@ -59,35 +59,38 @@ intonation; and even their own verb---as if asking a question
 were something different from speaking a sentence, rather
 than an example of it.
 
-And indeed, there seems to be something not just different
-about questions, but puzzling, even paradoxical, when we
-compare them more closely to other kinds of sentence. We use
+And there does seem to be something not just different about
+questions, but puzzling, even paradoxical, when we compare
+them more closely to other kinds of sentence. We use
 declarative sentences, so the usual account goes, to convey
-ideas or information; we use exclamative sentences to
-express emotion; we use imperative sentences to issue
-requests or commands; and we finally use interrogative
-sentences to ask questions. •	In the first three cases, we
-can put the use of the sentence in terms that point beyond
-it, whether to oneself in the case of the exclamative, to
-someone else in the case of the imperative, or to the world
-inhabited by both, as one might put it, in the case of the
-declarative. But what about the last case, where we use the
-interrogative sentence to ask questions? This can sound more
-tautological than illuminating; and in any case it is harder
-to pin down what the asking of questions might be pointing
-to, since it can seem to point in all three directions at
-once: that is, to oneself, to someone else, and to the world
-inhabited by both, simultaneously. The question points to
-oneself as the one who asks the question, in a moment, say,
-of ignorance, or curiosity, or wonder. The question points
-to someone else as the one who hears the question, and is
-thereby invited, let us say, to answer it. (Make this about
-"answer" in broader sense.) And the question finally points
-to the world inhabited by both the asker and the answerer;
-for the question is not just from someone, or to someone,
-but *about something*, the something that distinguishes
-*what* it is being asked or answered from *who* it is asking
-or answering. 
+ideas or information; we use imperative sentences to issue
+requests or commands; we use exclamative sentences to
+express emotion; and we use interrogative sentences,
+finally, to ask questions. In the first three cases, 
+we can so put the use of the sentence in terms that point
+beyond it, whether to oneself, in the case of the
+exclamative; or to someone else, in the case of the imperative;
+or to the world inhabited by both, as one might put it, in
+the case of the declarative. 
+
+But what about the last case, where we use the interrogative
+sentence, so we say, to ask questions? This way of putting
+it can sound more tautological than illuminating. And it is
+harder to pin down what the asking of questions is pointing
+to, perhaps because it can seem to point in all three
+directions at once: to oneself, to someone else, and to the
+world inhabited by both, simultaneously. The question points
+to oneself, we could say, as the one who *asks* the
+question---in a moment of ignorance, say, or curiosity, or
+wonder. But the question also points to someone else, or
+even to oneself as if this were someone else, as the one who
+*answers* the question---using the word "answer" broadly, to
+mean hearing the question and in some way addressing it. The
+question finally points to the world inhabited by both the
+asker and the answerer; for the question is not just *from*
+someone, or *to* someone, but *about* something, the
+something that distinguishes *what* it is being asked or
+answered from *who* it is asking or answering. 
 
 ## Part One [one]
 
