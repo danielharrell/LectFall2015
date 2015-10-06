@@ -25,7 +25,7 @@ example? Or that one? Or this one?
 
 The questions I just asked show that they are easy enough to
 form. And form them we do, in ways that range from the
-clearly prosaic to the seemingly profound. Where did you go
+clearly prosaic to the seemingly profound. What did you have
 for lunch? Why is there something rather nothing?
 
 Questions also have a central place at this college, in
@@ -50,25 +50,105 @@ what the question is asking about.
 
 ## Part One
 
-But perhaps there *is* something left to think about, even
-in the case of prosaic questions. And in this first part of
-my lecture, I want to think about questions through a
-prosaic example, before turning to a more profound one in my
-lecture's second part. Now just a moment ago, I gave one
-example of a prosaic question: where did you go for lunch?
-What I really meant was: where did you have lunch today? But
-this assumes you did have lunch, so let's make that our
-question. So, did you have lunch today? 
+But perhaps there *is* something left to think about. For
+while questions may be invisible in one sense, they are
+altogether visible in another. We give questions their own
+punctuation mark; their own syntax; their own intonation;
+and even their own verb---as if asking a question were
+something different from speaking a sentence, rather than an
+example of it. And there does seem something different about
+questions, and even puzzling, when we compare them to other
+kinds of sentence; and in particular, to the kind of
+sentence we use to answer questions. Suppose I ask you: What
+did you have for lunch? And suppose you answer: I had pasta
+for lunch. It is easy enough to tell what *you* are saying
+in your answer: namely, that you had pasta for lunch. But it
+is not so easy to tell what *I* am saying in my question. I
+am certainly not saying that you had *what* for lunch, as if
+the word "what" were the name of a food. And I am not even
+saying that you had *whatever* for lunch, as if the word
+"what" pointed vaguely to your lunch, rather
+than precisely.  (But I can't be said to be saying
+nothing...) Saying is speaking rather than being silent, and
+both question and answer are about what you had for lunch.
 
-One sign there is something left to think about in this
-question, even after answering the question, is what I had
-to do in speech to ask the question. (List features, and
-then say how this distinguishes the sentence from other
-kinds of sentence.) , to distinguish it from
-other kinds of sentence, making it visible in speech despite
-the invisibility I just described. I had to give this
-question its own punctuation mark, We give questions their
-own punctuation mark; their own syntax; their own
+(Note later that descriptions, not pointing, exclude sense
+in which the description can be about me.) Link to
+intelligibility. 
+
+Note that qusetions point, statements don't. to your lunch.
+referred to your lunch vaguely, or indeterminately. made
+reference to what you had for lunch or even *whatever* for
+lunch. But should we go so far as to think that I'm not
+saying *anything* in my question, does this mean that I am
+not saying anything in my question, but because I am rather
+*asking* something. And we might even suppose that I am not
+*saying* anything in my question; I am rather *asking*
+something. the question but rather *asking* something, in my
+question. anything in my question, but rather *asking*
+something. it can be tempting to think that I am not
+*saying* anything in my question, becauseBut then it might
+be tempting to suppose in asking you what you had. We can
+tell well enough what I am not saying in asking the
+question. I am not saying that you had *what* for lunch, as
+if the word "what" were the name of what you had. I am also
+not saying that you had *whatever* you had for lunch, as if
+the word "what" were merely or am I even saying that you had
+*whatever* for lunch, , rather than merely a pronoun for
+whatever you had. 
+
+nd there does seem to be something not just
+different about questions, but puzzling, even paradoxical,
+when we compare them more closely to other kinds of
+sentence. If I inform you that I had pizza for lunch, it is
+easy enough to tell what I am saying: namely, that I had
+pizza for lunch. But if I turn around and ask you what *you*
+had for lunch, then what is it, exactly, that I am saying?
+Well, I am not saying that you had *what* for lunch, as if
+the word "what" named a kind of food. And to try to think
+about it, I want to look more closely at the two questions I
+have already given as examples: what did you have for lunch?
+And why is there something rather than nothing?  one again
+clearly prosaic: what did you have for lunch? And the other
+seemingly profound: why is there something rather than
+nothing? consider an everyday question in the first part of
+my lecture, before taking up a deeper profound question in
+the second part of my lecture. 
+
+One
+sign of this is the way that we distinguish questions from
+other kinds of sentence, making them visible in speech
+despite the invisibility I just described.  And if we are to
+distinguish questions from answers, then there must be some
+difference in kind between the sentence "Did you have lunch
+today?" and the sentence "I did have lunch today," despite
+their correspondence. But what *is* this difference,
+finally? (What is it, beyond formal matters of syntax?)
+(Move on to statements vs questions after this.)
+
+(Start again with original formulation, without example;
+then say that this distinguishes even a prosaic question
+like: "Did you have lunch today?" from "I did have lunch
+today". (Perhaps use John here.)  even in the case of prosaic
+questions. Suppose, for example, I asked: did you have lunch
+today? Even though the question all but answers itself,
+needing only a simple "yes" or "no" to be dispatched, asking
+the question still required me to do several things. I gave
+the question its own punctuation mark, for example, on the
+written copy of this lecture that I'm reading from. And in
+the reading of the question I changed the intonation of my
+voice. In both cases, moreover, I had to press the verb "to
+do" into service, so I had a helping verb several things of
+me to make it evident still required me to do several things
+in speech to ask it. One sign there is something left to
+think about in this question, even after answering the
+question, is what I had to do in speech to ask the question.
+(List features, and then say how this distinguishes the
+sentence from other kinds of sentence.) , to distinguish it
+from other kinds of sentence, making it visible in speech
+despite the invisibility I just described. I had to give
+this question its own punctuation mark, We give questions
+their own punctuation mark; their own syntax; their own
 intonation; and even their own verb---as if asking a
 question were something different from speaking a sentence,
 rather than an example of it.
