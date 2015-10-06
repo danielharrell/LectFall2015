@@ -50,14 +50,28 @@ what the question is asking about.
 
 ## Part One
 
-But perhaps there *is* something left to think about. One
-sign of this is the way that we distinguish questions from
-other kinds of sentence, making them visible in speech
-despite the invisibility I just described. We give questions
-their own punctuation mark; their own syntax; their own
-intonation; and even their own verb---as if asking a question
-were something different from speaking a sentence, rather
-than an example of it.
+But perhaps there *is* something left to think about, even
+in the case of prosaic questions. And in this first part of
+my lecture, I want to think about questions through a
+prosaic example, before turning to a more profound one in my
+lecture's second part. Now just a moment ago, I gave one
+example of a prosaic question: where did you go for lunch?
+What I really meant was: where did you have lunch today? But
+this assumes you did have lunch, so let's make that our
+question. So, did you have lunch today? 
+
+One sign there is something left to think about in this
+question, even after answering the question, is what I had
+to do in speech to ask the question. (List features, and
+then say how this distinguishes the sentence from other
+kinds of sentence.) , to distinguish it from
+other kinds of sentence, making it visible in speech despite
+the invisibility I just described. I had to give this
+question its own punctuation mark, We give questions their
+own punctuation mark; their own syntax; their own
+intonation; and even their own verb---as if asking a
+question were something different from speaking a sentence,
+rather than an example of it.
 
 And there does seem to be something not just different about
 questions, but puzzling, even paradoxical, when we compare
