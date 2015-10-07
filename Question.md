@@ -48,29 +48,68 @@ are.  One might even wonder if there is anything left in
 a question to think about, once we grasp, and can ponder,
 what the question is asking about.
 
-## Part One
-
 But perhaps there *is* something left to think about. For
 while questions may be invisible in one sense, they are
-altogether visible in another. We give questions their own
-punctuation mark; their own syntax; their own intonation;
-and even their own verb---as if asking a question were
+altogether visible in another. After all, we give questions
+their own punctuation mark; their own syntax; their own
+intonation; and even their own verb, making a question
+something I *ask*, rather than simply something I say. It
+even sounds odd, off, to say that questions are said, rather
+than asked. But what is it, then, that makes asking
+different from saying? What did I just do, for example, in
+raising a question about this difference rather than making
+an assertion about it? And what makes my question about it
+different from my answer about it, if I had some answer to
+give? 
+
+And *do* I
+have any answer to give? I ask this last question, because I
+confess I can't make up my mind about the lecture to follow,
+and what to make of where it goes. (Outline two parts of
+lecture in light of two questions, and a kind of answer to
+the question. in terms of paradox, but
+say I don't know whether I resolve the paradox or merely
+deepen the paradox.)
+
+what come to
+think of it, *do* I have any answer to give? 
+this
+difference? *asking* about this difference he difference
+between asking something and saying something, taking a
+statement I might have made, about how there *is* something
+different between asking something and saying something, the
+difference between asking something and saying something can
+become puzzling. it isn't so clear what makes asking
+something different from saying something. We seemingly go
+out of our way, then, to distinguish questions fromwe
+consider questions It's as if asking a question were
 something different from speaking a sentence, rather than an
-example of it. And there does seem something different about
-questions, and even puzzling, when we compare them to other
-kinds of sentence; and in particular, to the kind of
-sentence we use to answer questions. Suppose I ask you: What
-did you have for lunch? And suppose you answer: I had pasta
-for lunch. It is easy enough to tell what *you* are saying
-in your answer: namely, that you had pasta for lunch. But it
-is not so easy to tell what *I* am saying in my question. I
-am certainly not saying that you had *what* for lunch, as if
-the word "what" were the name of a food. And I am not even
-saying that you had *whatever* for lunch, as if the word
-"what" pointed vaguely to your lunch, rather
-than precisely.  (But I can't be said to be saying
-nothing...) Saying is speaking rather than being silent, and
-both question and answer are about what you had for lunch.
+example of it. And in my lecture tonight, I want to focus
+our attention on one seeming difference bet, that I think is
+puzzling, and even paradoxical.  there *is* something
+different about questions, and puzzling. Or so I want , when
+we compare them to other kinds of sentence; and in
+particular, to the kind of sentence we use to answer
+questions. Suppose I ask you: What did you have for lunch?
+And suppose you answer: I had pasta for lunch. It is easy
+enough to tell what *you* are saying in your answer: namely,
+that you had pasta for lunch. But it is not so easy to tell
+what *I* am saying in my question. I am certainly not saying
+that you had *what* for lunch, as if the word "what" were
+the name of a food. And I am not even saying that you had
+*whatever* for lunch, as if the word "what" pointed vaguely
+to your lunch, rather than exactly. It is tempting to think
+I am not saying anything, because I am asking something.
+(But I can't be said to be saying nothing...) Saying is
+speaking rather than being silent, and both question and
+answer are about what you had for lunch. Speaking about your
+lunch, but in the one case saying what it is, and in the
+other case asking what it is. But the puzzle is: what is
+this difference?
+
+Later link pointing to ignorance, or absence: how is this
+possible? Then move on to why is there something rather than
+nothing. How can we point to absence?
 
 (Note later that descriptions, not pointing, exclude sense
 in which the description can be about me.) Link to
