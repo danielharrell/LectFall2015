@@ -90,16 +90,51 @@ I say "somehow," however, because even this simple an answer
 can seem puzzling, once you think about it. For we can
 suppose I have no idea what you had for lunch; if I did, I
 wouldn't be asking you the question. But if I don't know
-what you had for lunch, then how am I able to refer to what
-you had for lunch in my question? Without already knowing
-what you had, it can seem as if there is nothing for my
-"what" to refer to. (Put sentence about answer
-here, and how it too refers to what you had for lunch.)
+what you had, then how can I refer to it? In your answer, by
+contrast, you can easily refer to what you had. For you know
+what you had and can tell me what it is. But then you won't
+be telling me you had *what* for lunch, as if the word
+"what" identified what you had. You will instead say
+something like: I had pizza for lunch. What is puzzling,
+then, is how the word "what" in my question can also refer
+to the pizza you had. For in one sense, we might say, the
+word "pizza" refers to something, while the word "what"
+refers to nothing. And this is the sense in which the word
+"pizza" tells me something, even
+everything, about what you had for lunch; while the word
+"what" tells me nothing.  
+
+there is no pizza for me to
+refer to, the sense in which I can't
+identify what you had, my ignorance
+of what you had makes me incapable I am
+ignorant of what you had and without any way of I can refer to the pizza myself, by the word "what" in my
+question, in my question, And it is only because I don't
+know this was pizza, it seems, that I use the word "what" in a
+question about it. , My use of "what" for the pizza,
+then, seems necessitated by my ignorance of what you
+had; What is puzzling, then, is how
+the word "what" in my question can also refer to the pizza
+you had, since my ignorance of this since I am usand it can seem as if I would need to knowsince  But since I don't know this, it
+is puzzling how I can still refer to the pizza you had, puzzling, then, is how
+the word "what" in my question can also refer to this pizza, But this seems to mean that the
+"word" in my question is somehow able to refer to the pizza,
+yet without identifying it. What becomes puzzling, then, is
+how I am able to refer to pizza by the word "what" in my
+question, when You can refer to what you
+had for lunch, of course, since you know what you had and
+can tell me what it is.  Without already knowing what you
+had, it can seem as if there is nothing for my "what" to
+refer to. (Put sentence about answer here, and how it too
+refers to what you had for lunch.)
 
 Perhaps you might reply
 that my use of the word "what" in the question is surely
 indeterminate rather than determinate, precisely since I
-don't know what it is you had for lunch. 
+don't know what it is you had for lunch. (Also mention that
+use of "what" is replaced in answer, suggesting the "what"
+is an expression of ignorance.) (What food, among the many
+there are, did you have for lunch.)
 
 Without already knowing
 what you had, it can seem as if there is nothing for the
