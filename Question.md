@@ -58,18 +58,26 @@ even sounds odd, off, to say that questions are said, rather
 than asked. But what is it, then, that makes asking
 different from saying? What did I just do, for example, in
 raising a question about this difference rather than making
-an assertion about it? And what makes my question about it
-different from my answer about it, if I had some answer to
+an assertion about it? And what would make my question 
+different from my answer, if I had some answer to
 give? 
 
-And *do* I
-have any answer to give? I ask this last question, because I
-confess I can't make up my mind about the lecture to follow,
-and what to make of where it goes. (Outline two parts of
-lecture in light of two questions, and a kind of answer to
-the question. in terms of paradox, but
-say I don't know whether I resolve the paradox or merely
-deepen the paradox.)
+And *do* I have any answer to give? I ask this last
+question, because I confess I can't make up my mind about
+the lecture to follow, and what to make of where it goes. I
+do know I've divided it into two parts. In the first part, I
+will use my example of a clearly prosaic question---what did
+you have for lunch?---to try to answer, if somewhat
+simple-mindedly, the question of what questions are. But
+even this simple-minded answer, I think, contains a paradox.
+In the second part of the lecture, then, I will to try to
+resolve this paradox, but with a suspicion I've only gotten
+stuck, by turning to my example of a seemingly profound
+question---why is there something rather than nothing? The
+lecture also has an epilogue, which I'll read if I'm still
+within the hour by then.   
+
+## Part One
 
 what come to
 think of it, *do* I have any answer to give? 
