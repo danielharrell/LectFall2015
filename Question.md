@@ -79,41 +79,68 @@ within the hour by then.
 
 ## Part One
 
-what come to
-think of it, *do* I have any answer to give? 
-this
-difference? *asking* about this difference he difference
-between asking something and saying something, taking a
-statement I might have made, about how there *is* something
-different between asking something and saying something, the
-difference between asking something and saying something can
-become puzzling. it isn't so clear what makes asking
-something different from saying something. We seemingly go
-out of our way, then, to distinguish questions fromwe
-consider questions It's as if asking a question were
-something different from speaking a sentence, rather than an
-example of it. And in my lecture tonight, I want to focus
-our attention on one seeming difference bet, that I think is
-puzzling, and even paradoxical.  there *is* something
-different about questions, and puzzling. Or so I want , when
-we compare them to other kinds of sentence; and in
-particular, to the kind of sentence we use to answer
-questions. Suppose I ask you: What did you have for lunch?
-And suppose you answer: I had pasta for lunch. It is easy
-enough to tell what *you* are saying in your answer: namely,
-that you had pasta for lunch. But it is not so easy to tell
-what *I* am saying in my question. I am certainly not saying
-that you had *what* for lunch, as if the word "what" were
-the name of a food. And I am not even saying that you had
-*whatever* for lunch, as if the word "what" pointed vaguely
-to your lunch, rather than exactly. It is tempting to think
-I am not saying anything, because I am asking something.
-(But I can't be said to be saying nothing...) Saying is
-speaking rather than being silent, and both question and
-answer are about what you had for lunch. Speaking about your
-lunch, but in the one case saying what it is, and in the
-other case asking what it is. But the puzzle is: what is
-this difference?
+So, what did you have for lunch? I have a question about
+this question. When I ask you what you had for lunch,
+what is the word "what" referring to?
+
+Here is my simple-minded answer: the word "what" must be
+referring, somehow, to *what* you had for lunch.
+
+I say "somehow," however, because even this simple an answer
+can seem puzzling, once you think about it. For we can
+suppose I have no idea what you had for lunch; if I did, I
+wouldn't be asking you the question. But if I don't know
+what you had for lunch, then how am I able to refer to what
+you had for lunch in my question? Without already knowing
+what you had, it can seem as if there is nothing for my
+"what" to refer to. (Put sentence about answer
+here, and how it too refers to what you had for lunch.)
+
+Perhaps you might reply
+that my use of the word "what" in the question is surely
+indeterminate rather than determinate, precisely since I
+don't know what it is you had for lunch. 
+
+Without already knowing
+what you had, it can seem as if there is nothing for the
+word "what" in my question to refer to.  the word "what" in
+my question has (Sharpen by introducing absence; then try to
+get past puzzle by distinguishing 
+
+wouldn't ask the question, if I *knew* what it was you had
+for lunch. this a cannot what come to think of it, *do* I
+have any answer to give? this difference? *asking* about
+this difference he difference between asking something and
+saying something, taking a statement I might have made,
+about how there *is* something different between asking
+something and saying something, the difference between
+asking something and saying something can become puzzling.
+it isn't so clear what makes asking something different from
+saying something. We seemingly go out of our way, then, to
+distinguish questions fromwe consider questions It's as if
+asking a question were something different from speaking a
+sentence, rather than an example of it. And in my lecture
+tonight, I want to focus our attention on one seeming
+difference bet, that I think is puzzling, and even
+paradoxical.  there *is* something different about
+questions, and puzzling. Or so I want , when we compare them
+to other kinds of sentence; and in particular, to the kind
+of sentence we use to answer questions. Suppose I ask you:
+What did you have for lunch? And suppose you answer: I had
+pasta for lunch. It is easy enough to tell what *you* are
+saying in your answer: namely, that you had pasta for lunch.
+But it is not so easy to tell what *I* am saying in my
+question. I am certainly not saying that you had *what* for
+lunch, as if the word "what" were the name of a food. And I
+am not even saying that you had *whatever* for lunch, as if
+the word "what" pointed vaguely to your lunch, rather than
+exactly. It is tempting to think I am not saying anything,
+because I am asking something. (But I can't be said to be
+saying nothing...) Saying is speaking rather than being
+silent, and both question and answer are about what you had
+for lunch. Speaking about your lunch, but in the one case
+saying what it is, and in the other case asking what it is.
+But the puzzle is: what is this difference?
 
 Later link pointing to ignorance, or absence: how is this
 possible? Then move on to why is there something rather than
