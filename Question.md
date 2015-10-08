@@ -90,77 +90,85 @@ I say "somehow," however, because even this simple an answer
 can seem puzzling, once you think about it. For we can
 suppose I have no idea what you had for lunch; if I did, I
 wouldn't be asking you the question. But if I don't know
-what you had, then how can I refer to it? In your answer, by
-contrast, you can easily refer to what you had. For you know
-what you had and can tell me what it is. But then you won't
-be telling me you had *what* for lunch, as if the word
-"what" identified what you had. You will instead say
-something like: I had pizza for lunch. What is puzzling,
-then, is how the word "what" in my question can also refer
-to the pizza you had. For in one sense, we might say, the
-word "pizza" refers to something, while the word "what"
-refers to nothing. And this is the sense in which the word
-"pizza" tells me something, even
-everything, about what you had for lunch; while the word
-"what" tells me nothing.  
+what you had, then how can I refer to it in my question? In
+your answer, by contrast, you can easily refer to what you
+had. For you know what you had, and can tell me what it is.
+But if you do tell me, you won't be saying you had *what*
+for lunch, as if the word "what" could identify what you
+had. You will instead say something like: I had pizza for
+lunch. What is puzzling, then, is how the word "what" in my
+question can also refer to the pizza you had. For in one
+sense, we might say, the word "pizza" refers to something,
+while the word "what" refers to nothing. And this is the
+sense in which the word "pizza" tells me something, even
+everything in this context, about what you had for lunch;
+while the word "what" tells me nothing.  
 
-there is no pizza for me to
-refer to, the sense in which I can't
-identify what you had, my ignorance
-of what you had makes me incapable I am
-ignorant of what you had and without any way of I can refer to the pizza myself, by the word "what" in my
-question, in my question, And it is only because I don't
-know this was pizza, it seems, that I use the word "what" in a
-question about it. , My use of "what" for the pizza,
-then, seems necessitated by my ignorance of what you
-had; What is puzzling, then, is how
-the word "what" in my question can also refer to the pizza
-you had, since my ignorance of this since I am usand it can seem as if I would need to knowsince  But since I don't know this, it
-is puzzling how I can still refer to the pizza you had, puzzling, then, is how
-the word "what" in my question can also refer to this pizza, But this seems to mean that the
-"word" in my question is somehow able to refer to the pizza,
-yet without identifying it. What becomes puzzling, then, is
-how I am able to refer to pizza by the word "what" in my
-question, when You can refer to what you
-had for lunch, of course, since you know what you had and
-can tell me what it is.  Without already knowing what you
-had, it can seem as if there is nothing for my "what" to
-refer to. (Put sentence about answer here, and how it too
-refers to what you had for lunch.)
+But in another sense, it seems, the word "what" does refer
+to what you had for lunch, and does it with a kind of
+immediacy. For suppose your answer to my question was not:
+"I had pizza for lunch," but rather: "I had this for lunch."
+Or even: "This is what I had for lunch." I would not yet
+know what you had for lunch, but in not knowing what the
+word "this" refers to. The word "what," by contrast, would
+give me no trouble. But why? Again, my simple-minded answer
+is that when you say "This is what I had for lunch," the
+word "what" somehow refers to what you had for lunch
+immediately, and unequivocally, and in contrast to the word
+"this," which can only refer to your lunch if you clarify
+what you mean by "this." What makes this strange, though,
+is that we regard the word "this" as a pointing
+word, as if it were made for reference. (Go from here.)  
 
-Perhaps you might reply
-that my use of the word "what" in the question is surely
-indeterminate rather than determinate, precisely since I
-don't know what it is you had for lunch. (Also mention that
-use of "what" is replaced in answer, suggesting the "what"
-is an expression of ignorance.) (What food, among the many
-there are, did you have for lunch.)
+its own.  even though we consider it a pointing-word, can't
+manage the referenc can only refer to it with elaboration. ,
+as if it referred to youit could refer to what you had for
+lunch instantly; while the word "this" could only refer to
+it with elaboration. , since I would take it to refer to
+what you had for lunch. By contrast, I could say the word
+"what" in your reply was referring to what you had for
+lunch. would know perfectly well what the word "what" in
+your reply was referring to: The word "what" in your reply,
+by contrast, would seem fine, as if it referred instantly to
+your lunch, while the word "this" needed specification.
+refers to; while the word "what" would seem fine. this is
+because of your use of "this," not your use of "what." not
+because the "what" lacked a reference; because of the word
+"this" rather than the word "what". the obscurity in your
+reply would involve if I asked you to clarify, it would be
+to clarify the meaning of "this," not the word "what." about
+the word "this, would be waiting for you to say just what
+you meant by the word "this." And if you then said:Or even
+"This is what I had for lunch." Your reply would leave me
+waiting for you to say what you meant by "this."  For
+suppose you replied to my question not by saying you had
+*pizza* for lunch, but by saying you had *this* for lunch.
+Or suppose you said: "This is what I had for lunch." both
+exactly and completely. It is tempting to think "what"
+doesn't refer, but it does. Compare with "this is what I had
+for lunch." Not a complete sentence. Reference not fixed. We
+are looking for further specification, but not from the
+"what"; rather from the "this." The sense in which "what"
+tells me nothing doesn't preclude it in another sense from
+referring, both exactly and completely, to what you had for
+lunch. It doesn't fix the reference. This could refer to
+anything. But "what" in the question cannot refer to
+anything, which is why it can form a complete sentence. But
+"What did you have for lunch?" is. Now talk about precision
+of reference: refers exactly to what it tells me nothing
+about. Bring up peculiarity of indexicals. They refer
+exactly, but without fixing the reference.
 
-Without already knowing
-what you had, it can seem as if there is nothing for the
-word "what" in my question to refer to.  the word "what" in
-my question has (Sharpen by introducing absence; then try to
-get past puzzle by distinguishing 
+Then go on to say: reference requires sense. (Frege.) So
+pointing out ruled out. But then how is what referring? 
 
-wouldn't ask the question, if I *knew* what it was you had
-for lunch. this a cannot what come to think of it, *do* I
-have any answer to give? this difference? *asking* about
-this difference he difference between asking something and
-saying something, taking a statement I might have made,
-about how there *is* something different between asking
-something and saying something, the difference between
-asking something and saying something can become puzzling.
-it isn't so clear what makes asking something different from
-saying something. We seemingly go out of our way, then, to
-distinguish questions fromwe consider questions It's as if
-asking a question were something different from speaking a
-sentence, rather than an example of it. And in my lecture
-tonight, I want to focus our attention on one seeming
-difference bet, that I think is puzzling, and even
-paradoxical.  there *is* something different about
-questions, and puzzling. Or so I want , when we compare them
-to other kinds of sentence; and in particular, to the kind
-of sentence we use to answer questions. Suppose I ask you:
+Later point out how "I" fixes reference instantly, in any
+context of use, but not by
+pointing. Use this in why is there something rather than
+nothing question. 
+
+
+Suppose I ask you:
 What did you have for lunch? And suppose you answer: I had
 pasta for lunch. It is easy enough to tell what *you* are
 saying in your answer: namely, that you had pasta for lunch.
