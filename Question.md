@@ -93,47 +93,86 @@ suppose I have no idea what you had for lunch; if I did,
 I wouldn't be asking you the question. But if I don't know
 what you had, then how can I refer to what you had in my
 question? In your answer, by contrast, you can easily refer
-to what you had. For you know what this is, and can tell me
-what it is. But if you do tell me, you won't be saying you
-had *what* for lunch, as if the word "what" could *identify*
-what you had. You will instead say something like: I had
-pizza for lunch. What is puzzling, then, is how what you had
-for lunch, in this case, can be referenced not simply by the
-word "pizza" in your answer, but by the word "what" in my
-question. For in one sense, and again a seemingly puzzling
-sense, the word "what" refers to nothing. This is the
-nothing, so to speak, that is made into something by the
-word "pizza", distinguishing my question about what you had
-for lunch from your answer.  
+to what you had. For you know what this is, and can tell me.
+But if you do tell me, you won't be saying you had *what*
+for lunch, as if the word "what" could *identify* what you
+had. You will instead say something like: I had pizza for
+lunch. What is puzzling, then, is how pizza, in this case,
+can be referenced not simply by the word "pizza" in your
+answer, but by the word "what" in my question. For in one
+sense, at least, the word "what" refers to nothing: the 
+nothing, so to speak, that is made into something by
+the word "pizza", distinguishing my question about what you
+had for lunch from your answer.  
 
-But how can the word "what," in that case, refer to nothing?
-One way, perhaps, is by *pointing* to what you had for
-lunch, but without identifying it. And this would make my
-talk of nothing more sophistical than enlightening. But now
-suppose I ask you: "So, what did you have for lunch?" And
-you reply: "I had *this* for lunch." The word "this", we can
-presume, is pointing right to what you had for lunch. And
-yet it renders your answer incomplete, obliging me to wait
-for you to say just what you mean by "this." But why?
+But how can the word "what," in this sense, refer to
+nothing? One way, perhaps, is by *pointing* to what you had
+for lunch, but without identifying it. And this might make
+my talk of nothing more sophistical than enlightening. But
+now suppose I ask you: "So, what did you have for lunch?"
+And you reply: "I had *this* for lunch." The word "this", we
+can presume, is pointing right to what you had for lunch.
+And yet it renders your answer incomplete, obliging me to
+wait for you to say just what you mean by "this." But why?
 Presumably because the word "this" merely points to your
 lunch, without identifying it. But in that case, we might
 expect the word "what" in my question to render it similarly
-incomplete---if, that is, it referred to your lunch by
-merely pointing to it, without identifying it. But the
-question is complete. And what makes it complete, we could
-say, is the very word "what". For when I ask you what you
-had for lunch, the question is only intelligible, and
-answerable, if you *know*, and know at once, what I mean by
-"what": namely, *what* you had for lunch. But this suggests
-that the word "what" somehow refers to the pizza you had for lunch,
-not only without identifying it, but even without pointing
-to it. Precision:  but not as if it were somewhere else, but as if
-it were nowhere else. , unlike the word "this", refers to what you had
+incomplete---if it referred to your lunch by merely pointing
+to it, without identifying it. But the question is complete.
+And what makes it complete, it seems, is the very word
+"what". For when I ask you what you had for lunch, the
+question is only intelligible, and answerable, if you
+*know*, and know at once, what I mean by "what": namely,
+*what* you had for lunch. 
+
+Yet this suggests that the word "what" in my question
+somehow refers to what you had for lunch, not only without
+identifying it, but even without pointing to it; and as if
+there were *nothing there* to be identified or pointed to,
+at least if my question is to make any sense. For if
+I *could* identify what you had for lunch, or in any way
+point to it, then it is hard to see how I would be asking
+the question, rather than giving, or at least starting, the
+answer. (But this returns us to the earlier question, and
+it makes my talk of nothing less sophistical, if perhaps
+not any more enlightening. "What" refers to nothing.
+
+Broaden to other pronouns, and questions more generally.
+
+suppose there *were* something there to
+be identified, or pointed to, and I ; then , . Indeed, we
+could say that if there *were* anything to be identified or
+pointed to, for my question about what you had for lunch to
+make any sense. That is, if I could identify or point to it,
+I would have an answer, not a question., and the kind of
+sense that distinguishes the reference to your lunch in my
+question, from the reference to your lunch in your answer.   
+
+If so, then we are driven back to the question
+of how the word "what" is managing its reference. 
+How do questions make reference to an answer, without being
+an answer? 
+your answer, of course,  it can look even more as if
+the word "what" were referring to nothing, in referring to
+something that goes unidentified hat the word "pizza" thus makes into
+something,  in
+your answer, seems you had for lunch were
+absent doubly puzzling how the
+reference is being made: :   if
+the word "what" ca
+
+And if so, then we are driven back to the question how the
+word "what" can refer to this
+Precision:  but not as if it were somewhere else, but as if
+it were nowhere else. Nothing, rather than something. , unlike the word "this", refers to what you had
 without pointing to it.  neit, But it seems to follow from
 this, that then "what" makes reference without pointing.
 this returns us tothen my talk of nothing perhaps has a kind
-of point. 
+of point.  
 
+"I" doesn't identify because it can refer to anyone.
+Use why is there something rather than nothing to show how
+reference can happen even when there is no answer. 
 After elaborate description, use the word "absence," but point
 out that this misses what makes absence present. Nothing as
 if it were something. Then generalize pronouns and questions,
