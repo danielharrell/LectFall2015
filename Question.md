@@ -32,9 +32,9 @@ Questions also have a central place at this college, in
 their own way as important as the books we read and the
 conversations we have. There is a reason we begin seminar
 with an opening question rather than presentation. Or why we
-call the occasion after Friday Night Lecture the question
-period rather than the answer period, or even the
-question-and-answer period.  Without the questions we ask,
+call the occasion after Friday Night Lecture the Question
+Period rather than the Answer Period, or even the
+Question-And-Answer Period.  Without the questions we ask,
 the books we read and the conversations we have would
 arguably lose their point.
 
@@ -86,39 +86,107 @@ what is the word "what" referring to?
 Here is my simple-minded answer: the word "what" must be
 referring, somehow, to *what* you had for lunch.
 
-I say "somehow," however, because even this simple an answer
+I say "somehow", however, because even this simple an answer
 can seem puzzling, once you think about it. For we can
-suppose I have no idea what you had for lunch; if I did, I
-wouldn't be asking you the question. But if I don't know
-what you had, then how can I refer to it in my question? In
-your answer, by contrast, you can easily refer to what you
-had. For you know what you had, and can tell me what it is.
-But if you do tell me, you won't be saying you had *what*
-for lunch, as if the word "what" could identify what you
-had. You will instead say something like: I had pizza for
-lunch. What is puzzling, then, is how the word "what" in my
-question can also refer to the pizza you had. For in one
-sense, we might say, the word "pizza" refers to something,
-while the word "what" refers to nothing. And this is the
-sense in which the word "pizza" tells me something, even
-everything in this context, about what you had for lunch;
-while the word "what" tells me nothing.  
+suppose I have no idea what you had for lunch; if I did,
+I wouldn't be asking you the question. But if I don't know
+what you had, then how can I refer to what you had in my
+question? In your answer, by contrast, you can easily refer
+to what you had. For you know what this is, and can tell me
+what it is. But if you do tell me, you won't be saying you
+had *what* for lunch, as if the word "what" could *identify*
+what you had. You will instead say something like: I had
+pizza for lunch. What is puzzling, then, is how the pizza in
+this case can be referenced not simply by the word "pizza"
+in your answer, but by the word "what" in my question. For
+in one sense, and again a puzzling sense, the word "what"
+refers to nothing. And this is the nothing, so to speak,
+that is made into something by the word "pizza",
+distinguishing my question about what you had for lunch from
+your answer.  
 
-But in another sense, it seems, the word "what" does refer
-to what you had for lunch, and does it with a kind of
-immediacy. For suppose your answer to my question was not:
-"I had pizza for lunch," but rather: "I had this for lunch."
-Or even: "This is what I had for lunch." I would not yet
-know what you had for lunch, but in not knowing what the
-word "this" refers to. The word "what," by contrast, would
-give me no trouble. But why? Again, my simple-minded answer
-is that when you say "This is what I had for lunch," the
-word "what" somehow refers to what you had for lunch
-immediately, and unequivocally, and in contrast to the word
-"this," which can only refer to your lunch if you clarify
-what you mean by "this." What makes this strange, though,
-is that we regard the word "this" as a pointing
-word, as if it were made for reference. (Go from here.)  
+But how can the word "what," in that case, refer to nothing?
+One way it might do this is by *pointing* to what you had
+for lunch, but without identifying it. And this would make
+my talk of nothing, perhaps, more sophistical than
+enlightening. But now suppose I ask you: "So, what did you
+have for lunch?" And you reply: "I had *this* for lunch."
+The word "this", we can presume, is pointing straight to 
+what you had for lunch. And yet it also renders your answer
+incomplete, by merely pointing to what you had, without
+identifying it. (By contrast, my word "what" doesn't have
+this problem.)
+
+the word refers to; even though you did not have to ask me
+what I meant by the word "what." your answer to my question,
+then, was simply: "This is what I had for lunch." For
+suppose your answer to my question was not: "I had pizza for
+lunch," but rather: "I had *this* for lunch." Or even: "This
+is what I had for lunch." In that case, I would not yet know
+what you had for lunch, in not knowing what the word "this"
+refers to. The word "what," by contrast, would not trouble
+me. But why? I revert to my simple-minded answer. When you
+say "This is what I had for lunch," the word "what" somehow
+refers to what you had for lunch, and does this immediately,
+and fixedly; while the word "this" can only refer to your
+lunch through further clarification. (Also need no
+clarification to understand my question.) But this is again
+a puzzling thing to say. For we regard the word "this" as
+a word that points to something, as if it were made for
+reference. But in this case it seems as if the word "this"
+fails where the word "what" succeeds. And if the word
+"what," then, succeeds in reference where the word "this"
+fails, then it seems to be by another sense in which the
+word "what" refers to nothing (but to a nothing that is
+nonetheless something). And this is the sense in which the
+word "this" refers to what you had for lunch as if there
+were something to point to; while the word "what" refers to
+what you had for lunch, as if there were nothing to point
+to. 
+
+(Be sure later to link "what" to an identification. But
+since there is nothing to point to, it's as if the word
+"what" refers to nothing, as if the nothing were something,
+and indeed, the something that is nothing other than your
+lunch.) But this is also why the word "this," by itself, is
+unfixed in reference; for by itself, it might point to
+anything, and at most points to something---but to what, we
+don't yet know. If the word "what," by contrast, can be
+thought fixed in reference, it must be that it manages to
+refer without pointing. But then in a sense, the word "this"
+refers to something, while the word "what" refers to
+nothing. And this is the sense in which the word "this"
+refers to your pizza as if there were something to point to,
+while the word "what" refers to your pizza as if there were
+nothing to point to. (Revise from here.) This suggests that
+"what" refers to your lunch as if there were nothing to
+point to.
+
+Compare identification of "what" with identification in the
+pronoun "you", or "I," or "today," or "here.". 
+nd in
+this case, then, when you tell me "this is what I had for
+lunch," the word "this" would refer to what you had as if
+there were something to point to. But the word "what," by
+contrast, would be referring to it as if there were nothing
+to point to. this is also why the word "this" by itself is
+equivocal in reference: for by itself, it merely points to
+something---but to what, we don't yet know. Yet if the word
+"what", then, is unequivocal in reference, we might say this
+is because it points to nothing. then we might say this is
+because it , if the word "what" is not equivocal, in this
+case, then, we might be led to the following conclusion:
+When you say that "this is what I had for lunch," the word
+"this" treats your lunch as if there were something to be
+pointed to; while the word "what" treats your lunch as if
+there were nothing to be pointed to. it wereAnd in this
+case, then, we might say that the word "this" in your answer
+treats your lunch as if there something to point to. (Go
+from here.) "What" can refer to your lunch in the sense that
+there is nothing to point to. "This" treats your lunch as if
+there were something to point to. Another sense in which the
+word "what" refers to nothing rather than something. As if
+there were nothing to point to, and nothing to tell.
 
 its own.  even though we consider it a pointing-word, can't
 manage the referenc can only refer to it with elaboration. ,
