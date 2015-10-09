@@ -98,229 +98,91 @@ But if you do tell me, you won't be saying you had *what*
 for lunch, as if the word "what" could *identify* what you
 had. You will instead say something like: I had pizza for
 lunch. What is puzzling, then, is how pizza, in this case,
-can be referenced not simply by the word "pizza" in your
+can be referred to, not simply by the word "pizza" in your
 answer, but by the word "what" in my question. For in one
 sense, at least, the word "what" refers to nothing: the 
 nothing, so to speak, that is made into something by
 the word "pizza", distinguishing my question about what you
 had for lunch from your answer.  
 
-But how can the word "what," in this sense, refer to
-nothing? One way, perhaps, is by *pointing* to what you had
-for lunch, but without identifying it. And this might make
-my talk of nothing more sophistical than enlightening. But
-now suppose I ask you: "So, what did you have for lunch?"
-And you reply: "I had *this* for lunch." The word "this", we
-can presume, is pointing right to what you had for lunch.
-And yet it renders your answer incomplete, obliging me to
-wait for you to say just what you mean by "this." But why?
+But how can the word "what" refer to nothing, in this sense?
+One way, perhaps, is by *pointing* to what you had for
+lunch, but without identifying it. And this might make my
+talk of nothing more sophistical than enlightening. But now
+suppose I ask you: "So, what did you have for lunch?" And
+you reply: "I had *this* for lunch." The word "this", we can
+presume, is pointing right to what you had for lunch. And
+yet it renders your answer incomplete, obliging me to wait
+for you to say just what you mean by "this." But why?
 Presumably because the word "this" merely points to your
 lunch, without identifying it. But in that case, we might
 expect the word "what" in my question to render it similarly
-incomplete---if it referred to your lunch by merely pointing
-to it, without identifying it. But the question is complete.
-And what makes it complete, it seems, is the very word
-"what". For when I ask you what you had for lunch, the
-question is only intelligible, and answerable, if you
-*know*, and know at once, what I mean by "what": namely,
-*what* you had for lunch. 
+incomplete---if, that is, it referred to your lunch by
+merely pointing to it, without identifying it. But the
+question "What did you have for lunch?", I think we will
+have to grant, is complete. And what makes it complete, it
+seems, is the very word "what". For when I ask you what you
+had for lunch, the question is only intelligible, and
+answerable, if you *know*, and know at once, what I mean by
+"what": namely, *what* you had for lunch. 
 
 Yet this suggests that the word "what" in my question
 somehow refers to what you had for lunch, not only without
-identifying it, but even without pointing to it; and as if
-there were *nothing there* to be identified or pointed to,
-at least if my question is to make any sense. For if
+identifying it, but even without pointing to it. In fact,
+I think we could take this suggestion further, and say that
+if my question about what you had for lunch is to *be*
+a question, and make sense as a question, then the word
+"what" must somehow refer to what you had, but as if there
+were *nothing there* to be identified or pointed to. For if
 I *could* identify what you had for lunch, or in any way
-point to it, then it is hard to see how I would be asking
-the question, rather than giving, or at least starting, the
-answer. (But this returns us to the earlier question, and
-it makes my talk of nothing less sophistical, if perhaps
-not any more enlightening. "What" refers to nothing.
+point to it, then it is hard to see how my doing so would
+mean I was asking the question, rather than giving, or at
+least starting, the answer. But in that case, we are driven
+back to the puzzling sense in which the word "what" in my
+question seems to refer to nothing---nothing to be
+identified or pointed to, at least---in referring to what
+you had for lunch.
 
-Broaden to other pronouns, and questions more generally.
+(Find stuff to put up here.) 
 
-suppose there *were* something there to
-be identified, or pointed to, and I ; then , . Indeed, we
-could say that if there *were* anything to be identified or
-pointed to, for my question about what you had for lunch to
-make any sense. That is, if I could identify or point to it,
-I would have an answer, not a question., and the kind of
-sense that distinguishes the reference to your lunch in my
-question, from the reference to your lunch in your answer.   
+
+Put the nothing that is something talk after the pronoun
+bit. Broaden to other pronouns, and questions more
+generally. How are questions not merely confessions or
+exclamations of ignorance. How do they have enough
+determinacy to be intelligible, and to suggest lines of
+inquiry?   
 
 If so, then we are driven back to the question
 of how the word "what" is managing its reference. 
 How do questions make reference to an answer, without being
 an answer? 
-your answer, of course,  it can look even more as if
-the word "what" were referring to nothing, in referring to
-something that goes unidentified hat the word "pizza" thus makes into
-something,  in
-your answer, seems you had for lunch were
-absent doubly puzzling how the
-reference is being made: :   if
-the word "what" ca
 
-And if so, then we are driven back to the question how the
-word "what" can refer to this
 Precision:  but not as if it were somewhere else, but as if
-it were nowhere else. Nothing, rather than something. , unlike the word "this", refers to what you had
-without pointing to it.  neit, But it seems to follow from
-this, that then "what" makes reference without pointing.
-this returns us tothen my talk of nothing perhaps has a kind
-of point.  
+it were nowhere else. Nothing, rather than something. 
 
-"I" doesn't identify because it can refer to anyone.
-Use why is there something rather than nothing to show how
-reference can happen even when there is no answer. 
-After elaborate description, use the word "absence," but point
-out that this misses what makes absence present. Nothing as
-if it were something. Then generalize pronouns and questions,
+"I" doesn't identify because it refers, not to someone, but
+to anyone and everyone. can refer to anyone, but it doesn't
+point because in any use its reference is unambiguous. Use
+why is there something rather than nothing to show how
+reference can happen even when there is no answer. After
+elaborate description, use the word "absence," but point out
+that this misses what makes absence present. Nothing as if
+it were something. Then generalize pronouns and questions,
 before turning to personal pronouns, and pure indexicals.
-
-did you have for lunch?"You *know* what I mean by
-"what," when I ask you: There is no need to ask me what
-I mean by "what", when I ask you: "What did you have for
-lunch?" You know what I mean by "what": But the truth of the
-matter seems u just the opposite. in fact the word "what" in
-my question (By contrast, my word "what" doesn't have this
-problem.) Made immediately intelligible. 
-
-the word refers to; even though you did not have to ask me
-what I meant by the word "what." your answer to my question,
-then, was simply: "This is what I had for lunch." For
-suppose your answer to my question was not: "I had pizza for
-lunch," but rather: "I had *this* for lunch." Or even: "This
-is what I had for lunch." In that case, I would not yet know
-what you had for lunch, in not knowing what the word "this"
-refers to. The word "what," by contrast, would not trouble
-me. But why? I revert to my simple-minded answer. When you
-say "This is what I had for lunch," the word "what" somehow
-refers to what you had for lunch, and does this immediately,
-and fixedly; while the word "this" can only refer to your
-lunch through further clarification. (Also need no
-clarification to understand my question.) But this is again
-a puzzling thing to say. For we regard the word "this" as
-a word that points to something, as if it were made for
-reference. But in this case it seems as if the word "this"
-fails where the word "what" succeeds. And if the word
-"what," then, succeeds in reference where the word "this"
-fails, then it seems to be by another sense in which the
-word "what" refers to nothing (but to a nothing that is
-nonetheless something). And this is the sense in which the
-word "this" refers to what you had for lunch as if there
-were something to point to; while the word "what" refers to
-what you had for lunch, as if there were nothing to point
-to. 
-
-(Be sure later to link "what" to an identification. But
-since there is nothing to point to, it's as if the word
-"what" refers to nothing, as if the nothing were something,
-and indeed, the something that is nothing other than your
-lunch.) But this is also why the word "this," by itself, is
-unfixed in reference; for by itself, it might point to
-anything, and at most points to something---but to what, we
-don't yet know. If the word "what," by contrast, can be
-thought fixed in reference, it must be that it manages to
-refer without pointing. But then in a sense, the word "this"
-refers to something, while the word "what" refers to
-nothing. And this is the sense in which the word "this"
-refers to your pizza as if there were something to point to,
-while the word "what" refers to your pizza as if there were
-nothing to point to. (Revise from here.) This suggests that
-"what" refers to your lunch as if there were nothing to
-point to.
 
 Compare identification of "what" with identification in the
 pronoun "you", or "I," or "today," or "here.". 
-nd in
-this case, then, when you tell me "this is what I had for
-lunch," the word "this" would refer to what you had as if
-there were something to point to. But the word "what," by
-contrast, would be referring to it as if there were nothing
-to point to. this is also why the word "this" by itself is
-equivocal in reference: for by itself, it merely points to
-something---but to what, we don't yet know. Yet if the word
-"what", then, is unequivocal in reference, we might say this
-is because it points to nothing. then we might say this is
-because it , if the word "what" is not equivocal, in this
-case, then, we might be led to the following conclusion:
-When you say that "this is what I had for lunch," the word
-"this" treats your lunch as if there were something to be
-pointed to; while the word "what" treats your lunch as if
-there were nothing to be pointed to. it wereAnd in this
-case, then, we might say that the word "this" in your answer
-treats your lunch as if there something to point to. (Go
-from here.) "What" can refer to your lunch in the sense that
-there is nothing to point to. "This" treats your lunch as if
-there were something to point to. Another sense in which the
-word "what" refers to nothing rather than something. As if
-there were nothing to point to, and nothing to tell.
 
-its own.  even though we consider it a pointing-word, can't
-manage the referenc can only refer to it with elaboration. ,
-as if it referred to youit could refer to what you had for
-lunch instantly; while the word "this" could only refer to
-it with elaboration. , since I would take it to refer to
-what you had for lunch. By contrast, I could say the word
-"what" in your reply was referring to what you had for
-lunch. would know perfectly well what the word "what" in
-your reply was referring to: The word "what" in your reply,
-by contrast, would seem fine, as if it referred instantly to
-your lunch, while the word "this" needed specification.
-refers to; while the word "what" would seem fine. this is
-because of your use of "this," not your use of "what." not
-because the "what" lacked a reference; because of the word
-"this" rather than the word "what". the obscurity in your
-reply would involve if I asked you to clarify, it would be
-to clarify the meaning of "this," not the word "what." about
-the word "this, would be waiting for you to say just what
-you meant by the word "this." And if you then said:Or even
-"This is what I had for lunch." Your reply would leave me
-waiting for you to say what you meant by "this."  For
-suppose you replied to my question not by saying you had
-*pizza* for lunch, but by saying you had *this* for lunch.
-Or suppose you said: "This is what I had for lunch." both
-exactly and completely. It is tempting to think "what"
-doesn't refer, but it does. Compare with "this is what I had
-for lunch." Not a complete sentence. Reference not fixed. We
-are looking for further specification, but not from the
-"what"; rather from the "this." The sense in which "what"
-tells me nothing doesn't preclude it in another sense from
-referring, both exactly and completely, to what you had for
-lunch. It doesn't fix the reference. This could refer to
-anything. But "what" in the question cannot refer to
-anything, which is why it can form a complete sentence. But
-"What did you have for lunch?" is. Now talk about precision
-of reference: refers exactly to what it tells me nothing
-about. Bring up peculiarity of indexicals. They refer
+
+Bring up peculiarity of indexicals. They refer
 exactly, but without fixing the reference.
-
-Then go on to say: reference requires sense. (Frege.) So
-pointing out ruled out. But then how is what referring? 
 
 Later point out how "I" fixes reference instantly, in any
 context of use, but not by
 pointing. Use this in why is there something rather than
 nothing question. 
 
-
-Suppose I ask you:
-What did you have for lunch? And suppose you answer: I had
-pasta for lunch. It is easy enough to tell what *you* are
-saying in your answer: namely, that you had pasta for lunch.
-But it is not so easy to tell what *I* am saying in my
-question. I am certainly not saying that you had *what* for
-lunch, as if the word "what" were the name of a food. And I
-am not even saying that you had *whatever* for lunch, as if
-the word "what" pointed vaguely to your lunch, rather than
-exactly. It is tempting to think I am not saying anything,
-because I am asking something. (But I can't be said to be
-saying nothing...) Saying is speaking rather than being
-silent, and both question and answer are about what you had
-for lunch. Speaking about your lunch, but in the one case
-saying what it is, and in the other case asking what it is.
-But the puzzle is: what is this difference?
 
 Later link pointing to ignorance, or absence: how is this
 possible? Then move on to why is there something rather than
@@ -329,116 +191,6 @@ nothing. How can we point to absence?
 (Note later that descriptions, not pointing, exclude sense
 in which the description can be about me.) Link to
 intelligibility. 
-
-Note that qusetions point, statements don't. to your lunch.
-referred to your lunch vaguely, or indeterminately. made
-reference to what you had for lunch or even *whatever* for
-lunch. But should we go so far as to think that I'm not
-saying *anything* in my question, does this mean that I am
-not saying anything in my question, but because I am rather
-*asking* something. And we might even suppose that I am not
-*saying* anything in my question; I am rather *asking*
-something. the question but rather *asking* something, in my
-question. anything in my question, but rather *asking*
-something. it can be tempting to think that I am not
-*saying* anything in my question, becauseBut then it might
-be tempting to suppose in asking you what you had. We can
-tell well enough what I am not saying in asking the
-question. I am not saying that you had *what* for lunch, as
-if the word "what" were the name of what you had. I am also
-not saying that you had *whatever* you had for lunch, as if
-the word "what" were merely or am I even saying that you had
-*whatever* for lunch, , rather than merely a pronoun for
-whatever you had. 
-
-nd there does seem to be something not just
-different about questions, but puzzling, even paradoxical,
-when we compare them more closely to other kinds of
-sentence. If I inform you that I had pizza for lunch, it is
-easy enough to tell what I am saying: namely, that I had
-pizza for lunch. But if I turn around and ask you what *you*
-had for lunch, then what is it, exactly, that I am saying?
-Well, I am not saying that you had *what* for lunch, as if
-the word "what" named a kind of food. And to try to think
-about it, I want to look more closely at the two questions I
-have already given as examples: what did you have for lunch?
-And why is there something rather than nothing?  one again
-clearly prosaic: what did you have for lunch? And the other
-seemingly profound: why is there something rather than
-nothing? consider an everyday question in the first part of
-my lecture, before taking up a deeper profound question in
-the second part of my lecture. 
-
-One
-sign of this is the way that we distinguish questions from
-other kinds of sentence, making them visible in speech
-despite the invisibility I just described.  And if we are to
-distinguish questions from answers, then there must be some
-difference in kind between the sentence "Did you have lunch
-today?" and the sentence "I did have lunch today," despite
-their correspondence. But what *is* this difference,
-finally? (What is it, beyond formal matters of syntax?)
-(Move on to statements vs questions after this.)
-
-(Start again with original formulation, without example;
-then say that this distinguishes even a prosaic question
-like: "Did you have lunch today?" from "I did have lunch
-today". (Perhaps use John here.)  even in the case of prosaic
-questions. Suppose, for example, I asked: did you have lunch
-today? Even though the question all but answers itself,
-needing only a simple "yes" or "no" to be dispatched, asking
-the question still required me to do several things. I gave
-the question its own punctuation mark, for example, on the
-written copy of this lecture that I'm reading from. And in
-the reading of the question I changed the intonation of my
-voice. In both cases, moreover, I had to press the verb "to
-do" into service, so I had a helping verb several things of
-me to make it evident still required me to do several things
-in speech to ask it. One sign there is something left to
-think about in this question, even after answering the
-question, is what I had to do in speech to ask the question.
-(List features, and then say how this distinguishes the
-sentence from other kinds of sentence.) , to distinguish it
-from other kinds of sentence, making it visible in speech
-despite the invisibility I just described. I had to give
-this question its own punctuation mark, We give questions
-their own punctuation mark; their own syntax; their own
-intonation; and even their own verb---as if asking a
-question were something different from speaking a sentence,
-rather than an example of it.
-
-And there does seem to be something not just different about
-questions, but puzzling, even paradoxical, when we compare
-them more closely to other kinds of sentence. We use
-declarative sentences, so the usual account goes, to convey
-ideas or information; we use imperative sentences to issue
-requests or commands; we use exclamative sentences to
-express emotion; and we use interrogative sentences,
-finally, to ask questions. In the first three cases, 
-we can so put the use of the sentence in terms that point
-beyond it, whether to oneself, in the case of the
-exclamative; or to someone else, in the case of the imperative;
-or to the world inhabited by both, as one might put it, in
-the case of the declarative. 
-
-But what about the last case, where we use the interrogative
-sentence, so we say, to ask questions? This way of putting
-it can sound more tautological than illuminating. And it is
-harder to pin down what the asking of questions is pointing
-to, perhaps because it can seem to point in all three
-directions at once: to oneself, to someone else, and to the
-world inhabited by both, simultaneously. The question points
-to oneself, we could say, as the one who *asks* the
-question---in a moment of ignorance, say, or curiosity, or
-wonder. But the question also points to someone else, or
-even to oneself as if this were someone else, as the one who
-*answers* the question---using the word "answer" broadly, to
-mean hearing the question and in some way addressing it. The
-question finally points to the world inhabited by both the
-asker and the answerer; for the question is not just *from*
-someone, or *to* someone, but *about* something, the
-something that distinguishes *what* it is being asked or
-answered from *who* it is asking or answering. 
 
 ## Part One [one]
 
