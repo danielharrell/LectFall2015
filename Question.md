@@ -59,23 +59,24 @@ than asked. But what is it, then, that makes asking
 different from saying? What did I just do, for example, in
 raising a question about this difference rather than making
 an assertion about it? And what would make my question 
-different from my answer, if I had some answer to
+different from my answer, if I had any answer to
 give? 
 
 And *do* I have any answer to give? I ask this last
 question, because I confess I can't make up my mind about
-the lecture to follow, and what to make of where it goes. I
-do know I've divided it into two parts. In the first part, I
-will use my example of a clearly prosaic question---what did
-you have for lunch?---to try to answer, if somewhat
+the lecture to follow, and what to make of where it goes.
+I do know I've divided it into two parts. In the first part,
+I will use my example of a clearly prosaic question---what
+did you have for lunch?---to try to answer, if somewhat
 simple-mindedly, the question of what questions are. But
-even this simple-minded answer, I think, contains a paradox.
-In the second part of the lecture, then, I will to try to
-resolve this paradox, but with a suspicion I've only gotten
-stuck, by turning to my example of a seemingly profound
-question---why is there something rather than nothing? The
-lecture also has an epilogue, which I'll read if I'm still
-within the hour by then.   
+even this simple-minded answer, I think, contains a paradox,
+which I will try to describe. And in the second part of the
+lecture, I will to try to resolve this paradox, but
+with a suspicion I've only gotten stuck, by turning to my
+example of a seemingly profound question---why is there
+something rather than nothing? The lecture also has an
+epilogue, which I'll read if I'm still within the hour by
+then.   
 
 ## Part One
 
@@ -96,26 +97,55 @@ to what you had. For you know what this is, and can tell me
 what it is. But if you do tell me, you won't be saying you
 had *what* for lunch, as if the word "what" could *identify*
 what you had. You will instead say something like: I had
-pizza for lunch. What is puzzling, then, is how the pizza in
-this case can be referenced not simply by the word "pizza"
-in your answer, but by the word "what" in my question. For
-in one sense, and again a puzzling sense, the word "what"
-refers to nothing. And this is the nothing, so to speak,
-that is made into something by the word "pizza",
-distinguishing my question about what you had for lunch from
-your answer.  
+pizza for lunch. What is puzzling, then, is how what you had
+for lunch, in this case, can be referenced not simply by the
+word "pizza" in your answer, but by the word "what" in my
+question. For in one sense, and again a seemingly puzzling
+sense, the word "what" refers to nothing. This is the
+nothing, so to speak, that is made into something by the
+word "pizza", distinguishing my question about what you had
+for lunch from your answer.  
 
 But how can the word "what," in that case, refer to nothing?
-One way it might do this is by *pointing* to what you had
-for lunch, but without identifying it. And this would make
-my talk of nothing, perhaps, more sophistical than
-enlightening. But now suppose I ask you: "So, what did you
-have for lunch?" And you reply: "I had *this* for lunch."
-The word "this", we can presume, is pointing straight to 
-what you had for lunch. And yet it also renders your answer
-incomplete, by merely pointing to what you had, without
-identifying it. (By contrast, my word "what" doesn't have
-this problem.)
+One way, perhaps, is by *pointing* to what you had for
+lunch, but without identifying it. And this would make my
+talk of nothing more sophistical than enlightening. But now
+suppose I ask you: "So, what did you have for lunch?" And
+you reply: "I had *this* for lunch." The word "this", we can
+presume, is pointing right to what you had for lunch. And
+yet it renders your answer incomplete, obliging me to wait
+for you to say just what you mean by "this." But why?
+Presumably because the word "this" merely points to your
+lunch, without identifying it. But in that case, we might
+expect the word "what" in my question to render it similarly
+incomplete---if, that is, it referred to your lunch by
+merely pointing to it, without identifying it. But the
+question is complete. And what makes it complete, we could
+say, is the very word "what". For when I ask you what you
+had for lunch, the question is only intelligible, and
+answerable, if you *know*, and know at once, what I mean by
+"what": namely, *what* you had for lunch. But this suggests
+that the word "what" somehow refers to the pizza you had for lunch,
+not only without identifying it, but even without pointing
+to it. Precision:  but not as if it were somewhere else, but as if
+it were nowhere else. , unlike the word "this", refers to what you had
+without pointing to it.  neit, But it seems to follow from
+this, that then "what" makes reference without pointing.
+this returns us tothen my talk of nothing perhaps has a kind
+of point. 
+
+After elaborate description, use the word "absence," but point
+out that this misses what makes absence present. Nothing as
+if it were something. Then generalize pronouns and questions,
+before turning to personal pronouns, and pure indexicals.
+
+did you have for lunch?"You *know* what I mean by
+"what," when I ask you: There is no need to ask me what
+I mean by "what", when I ask you: "What did you have for
+lunch?" You know what I mean by "what": But the truth of the
+matter seems u just the opposite. in fact the word "what" in
+my question (By contrast, my word "what" doesn't have this
+problem.) Made immediately intelligible. 
 
 the word refers to; even though you did not have to ask me
 what I meant by the word "what." your answer to my question,
