@@ -58,31 +58,127 @@ even sounds odd, off, to say that questions are said, rather
 than asked. But what is it, then, that makes asking
 different from saying? What did I just do, for example, in
 raising a question about this difference rather than making
-an assertion about it? And what would make my question 
-different from my answer, if I had any answer to
-give? 
+an assertion about it? And what would make my question
+different from my answer, if I had any answer to give? 
 
 And *do* I have any answer to give? I ask this last
 question, because I confess I can't make up my mind about
 the lecture to follow, and what to make of where it goes.
 I do know I've divided it into two parts. In the first part,
 I will use my example of a clearly prosaic question---what
-did you have for lunch?---to try to answer, if somewhat
-simple-mindedly, the question of what questions are. But
-even this simple-minded answer, I think, contains a paradox,
-which I will try to describe. And in the second part of the
-lecture, I will to try to resolve this paradox, but
-with a suspicion I've only gotten stuck, by turning to my
-example of a seemingly profound question---why is there
-something rather than nothing? The lecture also has an
-epilogue, which I'll read if I'm still within the hour by
-then.   
+did you have for lunch?---to reflect on one feature of
+questions that I find at once essential yet puzzling, even
+paradoxical.  Then in the second part of the lecture, I will
+use my example of a seemingly profound question---why is
+there something rather than nothing?---to try to solve the
+puzzle, resolve the paradox; but with a suspicion that at
+best I've only deepened it; and at worst, gotten myself
+stuck. (The lecture also has an epilogue, which I'll read if
+I'm still within the hour by then.)   
 
 ## Part One
 
-So, what did you have for lunch? I have a question about
+So, what did you have for lunch? Or rather, what makes my
+saying "what did you have for lunch?" *a question* about
+what you had for lunch, rather than an answer? There are, of
+course, the aforementioned features of questions: the
+question mark I've put at the end of the sentence in the
+copy of the lecture I'm reading from; the raising of my
+voice in the reading of it; the use of the verb "to do" in
+its past tense to help produce the required inversion of
+syntax. But there is one more feature I didn't mentioned
+before, but that seems crucial to the question's being
+a question. And this is the question's very first word:
+"what". 
+
+Grammatically, we would identify the word "what" as an
+interrogative pronoun. And this means it plays 
+surrogate for some noun. But what noun?
+Presumably, whatever noun correctly identifies what it is
+you had for lunch. Let's suppose this noun 
+is "pizza", because you had pizza for lunch.
+
+This all sounds straightforward enough, even banal. But it
+makes the nature of questions puzzling, when you think about
+it. For on the one hand, I'm using an interrogative pronoun,
+in this case "what", to ask you what you had for lunch. On
+the other hand, if I go on to tell you the noun my pronoun
+is a surrogate for, in this case "pizza," it seems I'm no
+longer asking about your lunch; I'm answering. It makes no
+sense, or at best a comical sense, for me to ask: "What did
+you have for lunch---and by 'what', I mean pizza?" But it
+does make sense for you to answer: "I had this for
+lunch---and by 'this', I mean pizza." What is puzzling,
+then, is how my question about your lunch can indeed *be*
+a question about your lunch. For through the word "what", my
+question somehow *refers,* unmistakeably, to *what* you had
+for lunch. Yet in being a question rather than an
+answer, it refers to what you had for lunch neither by
+identifying it, through a word like "pizza"; nor even by
+pointing to it, through a word like "this". But what means
+of reference are left? How is my question able to refer
+to what you had for lunch at all, much less unmistakeably? 
+
+And in fact, my question "What did you have for lunch?"
+seems to be making another such reference, in referring to
+you. For in this case I can evidently refer to you, just
+like that, without having to identify you by name, or point
+to whom I mean. The reference to you even succeeds, it
+seems, when I make it in front of all of you, in a question
+about what you had for lunch. For no one has to ask in reply,
+"When you say "you", do you mean me?" Just as no one
+has to ask "When you say "what", do you mean the pizza
+I had for lunch?" "What" could mean anything, but in this case
+it means "pizza"; just as "you" could mean anyone, but in
+this case refers to you. And this seems
+at least roughly like the sense in which no one also has to
+ask in reply: "When you say "what", do you mean the pizza
+I had for lunch?" hen I ask you what you had for lunch,
+I don't need to add that by "you" I do mean you, and by
+"what" I do mean the pizza you had for lunch. In  
+
+Like the question, "When you say "what," do
+you mean the pizza I had for lunch?" 
+
+in a question about what you
+what you had for lunch, and no one replies: "whichbe
+unmistakable That I can as if I were walking out the
+audience to single out whom I mean. walking out to the
+audience to point to exactly who I mean. as if I were
+pointing vaguely to or walk out to the audience to point
+point to each of you in turn. vaguely to the audience in
+front of me. Indeed, since my question is about what you had
+for lunch, the reference to you is individual rather than
+collective, making individually rather than collectively,
+What is puzzling, then, is how my question manages to be
+intelligible enough, and determinate enough, to be question,
+without being intelligible enough, or determinate enough, to
+be an answer. The question only remains a question if my
+word "what" can somehow play surrogate for a noun, but where
+the noun cannot be identified or even pointed to. (Replace
+with a reference to the object.)
+
+Shift to why is there something rather than nothing question: 
+the sense in which the question has no answer, suggesting
+that we take the determinacy of questions to go hand-in-hand
+with the determinacy of answers.
+
+while I am obliged to use the pronoun "what" 
+
+suggests that it is making at least
+implicit reference to a noun. But what, then, is the noun?
+The obvious answer  
+
+: the use of the interrogative pronoun "what". thing in this
+question that seems to make it a question, which I made no
+mention of before. that I made no mention of before, 
+
+Interrogative pronoun, refers to noun. inhave a question about
 this question. When I ask you what you had for lunch,
 what is the word "what" referring to?
+
+Complete, but incomplete. What would complete it is an
+answer. 
 
 Here is my simple-minded answer: the word "what" must be
 referring, somehow, to *what* you had for lunch.
