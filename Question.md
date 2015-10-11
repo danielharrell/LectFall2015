@@ -50,7 +50,7 @@ what the question is asking about.
 
 But perhaps there *is* something left to think about. For
 while questions may be invisible in one sense, they are
-altogether visible in another. After all, we give questions
+altogether visible in another. We give questions
 their own punctuation mark; their own syntax; their own
 intonation; and even their own verb, making a question
 something I *ask*, rather than simply something I say. It
@@ -66,8 +66,8 @@ question, because I confess I can't make up my mind about
 the lecture to follow, and what to make of where it goes.
 I do know I've divided it into two parts. In the first part,
 I will use my example of a clearly prosaic question---what
-did you have for lunch today?---to reflect on one feature of
-questions that I find at once essential yet puzzling, even
+did you have for lunch today?---to reflect on a feature of
+questions I find at once essential yet puzzling, even
 paradoxical.  Then, in the second part of the lecture, I will
 use my example of a seemingly profound question---why is
 there something rather than nothing?---to try to solve the
@@ -86,29 +86,79 @@ questions; and that if I wrote my sentence down, I would put
 a question-mark at the end. The verb "to do" appears in my
 sentence but not in yours, presumably to help produce the
 inversion of subject and verb that belongs to the syntax of
+questions, at least in English. But there is another word,
 the word "what", not found in your sentence even though it
-begins mine, as if to announce that what follows this
-word will belong to a question rather than an answer. Let us
+begins mine, as if to announce that what follows this word
+will belong to a question rather than an answer. Let us
 suppose, then, that what makes my sentence *the question* in
-our exchange has something crucial to do with my use of the
-word "what". So what am I doing with it? And why can you
-simply dispense with it in your reply? 
+our exchange has something essential to do with my use of
+the word "what". So how am I using it? And why am I using
+it?
 
-The grammatical role it plays in my sentence seems clear
-enough. It functions, so we say, as an interrogative
-pronoun. And this means, presumably, that the word "what" is
-taking the place of some noun. But what noun? Presumably
-again, whatever noun, or noun-phrase, identifies what you
-had for lunch. In this case, then, the noun would be
-"pizza." But why, then, have I used the pronoun "what" in
-place of this noun in my sentence, while you just use the
-noun in yours? Presumably yet again, because I don't know
-the noun, while you do; and I am using the pronoun to ask
-you for the noun, which you give me in return. Or less
-grammatically put: I don't know you had pizza for lunch,
-while you do; so I ask you *what* you had for lunch,
-and you answer with what you had for lunch: namely,
-pizza.   
+I am using it, evidently, to ask you *what* you had for
+lunch. And the grammatical role it plays seems clear enough.
+It functions, so we say, as a pronoun. And this means, we
+might presume, that it is taking the place of a noun. But
+what noun? Again we might presume this would be whatever
+noun, or noun-phrase, identifies what you had for lunch. In
+this case, then, the noun would be "pizza." But there is
+already a problem with this analysis, or at least a puzzle.
+For it is safe to assume that when I ask you what you had
+for lunch, I don't yet know you had pizza. Indeed, I don't
+know *what* you had for lunch, and this is why I ask. But
+the pronoun "what", in that case, seems to capture exactly,
+and completely, what it is I don't know, and want to know.
+So in what sense could my pronoun be taking the place of the
+noun "pizza", or any noun, really? Indeed, it isn't just my
+ignorance of what you had for lunch that seems to liberate
+my pronoun from any noun; it is also your answer, and how it
+has to follow my question rather than precede it. If my
+question is to make sense, it has to make sense in advance
+of your answer, no matter the answer, including the answer
+"I had nothing for lunch." But suppose we then say that my
+pronoun "what" is taking the place of no noun at all, then
+how I am using it as a pronoun? Am I using it as a pronoun?
+
+
+my question would make sense, it seems, no
+matter what answer you gave, including the answer "I had
+nothing for lunch."  And it
+isn't just my ignorance of your lunch that seems to liberate
+my pronoun "what" from any antecedent noun; it is also your
+answer, and how it follows my question rather than precedes
+it. 
+
+Indeed,
+it is not just my ignorance of what you had for lunch that
+seems to liberate my pronoun "what" from any noun; it is
+also your answer, which follows my question rather than
+preceding it.  Indeed, the question makes sense in advance
+of any answer, which seems to mean that  since my question
+prompts the answer, it does not depend on the answer it must
+be intelligible is intelligible before any answer is given,
+on its own *in advance* of any answer, which is how it can
+promptif we take seriously the sense in which my question
+serves to prompt an answer, rather than depend on it, (Now
+mention how it could by anything, or even nothing) But if it
+is taking the place of no noun, then in what sense is it
+a pronoun? , Yet I can ask my question perfectly well, all
+the same. So in what sense could the pronoun "what" ; it's
+not as if I need to clarify it, or add it, for fear that the
+pronoun by the word "what", or clarify it. it seems as if
+I can ask my question perfectly well without any idea of
+what you had. It's not as if But then in what sense could
+the interrogative pronoun "what" be taking the place of the
+noun "pizza", or *any* noun, really? 
+
+But why, then, have
+I used the pronoun "what" in place of this noun in my
+sentence, while you just use the noun in yours? Presumably
+yet again, because I don't know the noun, while you do; and
+I am using the pronoun to ask you for the noun, which you
+give me in return. Or less grammatically put: I don't know
+you had pizza for lunch, while you do; so I ask you *what*
+you had for lunch, and you answer with what you had for
+lunch: namely, pizza.   
   
 This analysis of the word "what" sounds simple, even
 trivial. But it is also puzzling, when you think about it.
