@@ -86,7 +86,6 @@ questions; and that if I wrote my sentence down, I would put
 a question-mark at the end. The verb "to do" appears in my
 sentence but not in yours, presumably to help produce the
 inversion of subject and verb that belongs to the syntax of
-questions, at least in English. But there is another word,
 the word "what", not found in your sentence even though it
 begins mine, as if to announce that what follows this
 word will belong to a question rather than an answer. Let us
@@ -100,45 +99,69 @@ enough. It functions, so we say, as an interrogative
 pronoun. And this means, presumably, that the word "what" is
 taking the place of some noun. But what noun? Presumably
 again, whatever noun, or noun-phrase, identifies what you
-had for lunch. In this case, then, the noun would be "pizza."
-But since I don't know you had pizza for lunch, So by
-replacing this noun with the pronoun "what," it looks as if
-I'm  seems I'm referring to pizza, But since I don't know
-you had pizza for lunch---this is why I'm
-asking---Presumably, whatever noun identifies what it is you
-had for lunch. Let's suppose, then, that this noun is
-"pizza", because you had pizza for lunch. 
+had for lunch. In this case, then, the noun would be
+"pizza." But why, then, have I used the pronoun "what" in
+place of this noun in my sentence, while you just use the
+noun in yours? Presumably yet again, because I don't know
+the noun, while you do; and I am using the pronoun to ask
+you for the noun, which you give me in return. Or less
+grammatically put: I don't know you had pizza for lunch,
+while you do; so I ask you *what* you had for lunch,
+and you answer with what you had for lunch: namely,
+pizza.   
+  
+This analysis of the word "what" sounds simple, even
+trivial. But it is also puzzling, when you think about it.
+And to begin to think about it, suppose I asked you: "So,
+what did you have for lunch---and by 'what', I mean pizza?"
+My question would no longer make sense; or at best, make
+a comical sense. For I'm clarifying my question by giving
+the answer to it. But now suppose you answered my
+question---my original question, that is---by saying: "I had
+this for lunch---and by 'this', I mean pizza." You answer
+would still make sense, and your clarification useful, even
+necessary. But this suggests that when I use the word "what"
+in my question, it is not just because I can't identify what
+you had for lunch, through a word like "pizza"; it's also
+because I can't point to what you had for lunch, through
+a word like "this". And my inability here makes a kind of
+sense. For we can presume that I ask my question in having
+no idea what you had for lunch, at least not enough of one
+to point to it, much less identify it. Yet the word "what"
+in my question still seems to refer to it, and with enough
+exactness that I can use the word again, now as a relative
+pronoun, for *what* you had for lunch, as if it were
+a synonym not just for "pizza", but for the very piece of
+pizza you had for lunch. But how, then, can my use of the
+word "what" refer to the very thing you had for lunch, yet
+without identifying it, or even pointing to it?  
 
-Don't know what you had for lunch, or don't know you had pizza
-for lunch. Nothing for lunch. Interrogative pronoun taking
-the place of a relative pronoun. (Perhaps like "you"; then move
-on to "he".)
+I have a hunch about this, though it makes the use of "what"
+in my question even more puzzling. <!-- Show how pronoun
+refers to another pronoun, without identifying it or
+pointing to it. Like the way "you" refers to "I".--> Suppose
+again I ask you: What did you have for lunch today? But let
+us no longer suppose you had pizza for lunch, or anything
+else for lunch, in making ourselves as ignorant as I am,
+presumably, in asking you the question. In that case, the
+most we can say, it seems, is that I am asking you 
+*what* you had for lunch. Or to put this in grammatical
+terms, the most we can say seems to keep what I am asking
+for on the level of pronouns, as if my interrogative pronoun
+"what" were merely taking the place of the relative pronoun
+"what"---or is it the other way round? 
 
-What did he have for lunch?  When? And whom do you mean by "he"? 
-
-The analysis of the word "what" so far sounds simple, even
-banal. But it makes the nature of questions puzzling, when
-you think about it. Here's one way of thinking about it. I'm
-using an interrogative pronoun, in this case "what", to ask
-you what you had for lunch. But suppose I then identify the
-noun that my pronoun has replaced, by saying the word
-"pizza". At that point, it seems, I'm no longer asking my
-question; I'm giving your answer. Or to put this another
-way, it makes no sense, or at best, a comical sense, for my
-question to be: "What did you have for lunch---and by
-'what', I mean pizza?" Yet it does make sense for your
-answer to be: "I had this for lunch---and by 'this', I mean
-pizza." What is puzzling, then, is how my question about
-your lunch can indeed *be* the question it is. For by using
-the word "what", my question somehow *refers*,
-unmistakeably, to *what* you had for lunch. Yet in being my
-question, rather than your answer, it refers to what you had
-for lunch neither by identifying it, through a word like
-"pizza"; nor even by pointing to it, through a word like
-"this". But what modes of reference are left? If I can't
-even point to what you had for lunch, if my question to be
-a question, then am I referring to it at all? How is my
-question even possible?
+Now, at first glance---and as suggested by my question about
+which pronoun is taking the place of which---this
+grammatical possibility may seem circular and
+unilluminating. But there are several reasons to take it
+seriously. One reason emerges when we compare my question to
+another I might have asked. Suppose my question were not:
+"What did *you* have for lunch today?" but rather: "What did
+*he* have for lunch today?" You would then be waiting for me
+to clarify just whom I meant by "he", either by identifying
+the man by name, or at least by pointing to him in some way,
+to pick him out.  
 
 What is more, my question seems to be making another such
 reference, in referring to you. What did *you* have for
@@ -167,6 +190,18 @@ to point. The things that make it a question, make its very
 possiblity puzzling. So while the question "What did you have
 for lunch today?" may be prosaic, I think it gives us reason
 to be puzzled, and puzzled, again, by its very possibility.    
+
+Don't know what you had for lunch, or don't know you had
+pizza for lunch. Nothing for lunch. Interrogative pronoun
+taking the place of a relative pronoun. (Perhaps like "you";
+then move on to "he".) Also mention antecedent issue with
+questions. 
+
+
+What did he have for lunch?  When? And whom do you mean by "he"? 
+
+Do pronouns and today first, then spell out relation of questions
+to answers.
 
 exact in my reference to what you had for lunch, make reference to what it is you had for lunch in my question,
 yet withoutIf I'm
