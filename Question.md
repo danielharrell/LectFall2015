@@ -26,7 +26,7 @@ example? Or that one? Or this one?
 The questions I just asked show that they are easy enough to
 form. And form them we do, in ways that range from the
 clearly prosaic to the seemingly profound. What did you have
-for lunch? Why is there something rather nothing?
+for lunch today? Why is there something rather nothing?
 
 Questions also have a central place at this college, in
 their own way as important as the books we read and the
@@ -66,7 +66,7 @@ question, because I confess I can't make up my mind about
 the lecture to follow, and what to make of where it goes.
 I do know I've divided it into two parts. In the first part,
 I will use my example of a clearly prosaic question---what
-did you have for lunch?---to reflect on one feature of
+did you have for lunch today?---to reflect on one feature of
 questions that I find at once essential yet puzzling, even
 paradoxical.  Then, in the second part of the lecture, I will
 use my example of a seemingly profound question---why is
@@ -78,11 +78,11 @@ I'm still within the hour by then.)
 
 ## Part One
 
-So, what did you have for lunch? Or rather, what makes my
-saying "what did you have for lunch?" *a question* about
+So, what did you have for lunch today? Or rather, what makes my
+saying "what did you have for lunch today?" *a question* about
 what you had for lunch, rather than an answer? There are, of
 course, all the features of questions I already mentioned.
-I made sure to end this particular question, then, with
+I made sure to end this particular question with
 a question mark, in the printed copy of the lecture I'm
 reading from. And in reading it out loud, I tried to raise
 my voice in the right way. I also paid due attention to my
@@ -103,7 +103,7 @@ the nature of questions puzzling, when you think about it.
 Here's one way of thinking about it. I'm using an
 interrogative pronoun, in this case "what", to ask you what
 you had for lunch. But suppose I then identify the noun that
-my pronoun has replaced, and say the word "pizza". At that
+my pronoun has replaced, by saying the word "pizza". At that
 point, it seems, I'm no longer asking my question; I'm
 giving your answer. Or to put this another way, it makes no
 sense, or at best, a comical sense, for my question to be:
@@ -112,25 +112,21 @@ Yet it does make sense for your answer to be: "I had this
 for lunch---and by 'this', I mean pizza." What is puzzling,
 then, is how my question about your lunch can indeed *be*
 the question it is. For by using the word "what", my
-question somehow *refers*, immediately and unmistakeably
-refers, to *what* you had for lunch. Yet in being my
-question, rather than your answer, it refers to what you had
-for lunch neither by identifying it, through a word like
-"pizza"; nor even by pointing to it, through a word like
-"this". But what means of reference are left? If I can't
-even point to what you had for lunch, for my question to
-make sense as a question, then how can I refer to it at all, much
-less immediately and unmistakably? How is my question even
-possible?
-
-(Talk about question being complete.) 
+question somehow *refers*, unmistakeably, to *what* you had
+for lunch. Yet in being my question, rather than your
+answer, it refers to what you had for lunch neither by
+identifying it, through a word like "pizza"; nor even by
+pointing to it, through a word like "this". But what modes
+of reference are left? If I can't even point to what you had
+for lunch, if my question to be a question, then am
+I referring to it at all? How is my question even possible?
 
 What is more, my question seems to be making another such
 reference, in referring to you. What did *you* have for
-lunch? For there is another pronoun in my question, the
-so-called personal pronoun "you"; and it's hard to say what
-noun, exactly, this pronoun replaces.  It also seems as if
-I can use it, in my question, to refer to you, just you,
+lunch? The word "you" is the other pronoun in my question,
+a so-called personal pronoun; and it's hard to say what
+noun, exactly, it replaces.  It also seems as if I can use
+this pronoun, in my question, to refer to you, just you,
 without having to identify you by name, or point to whom
 I mean. The reference to you even succeeds, it seems, when
 I make it in front of all of you, just as the reference to
@@ -140,15 +136,27 @@ might refer to anything. But once I put both words into my
 question, about what you had for lunch, the references of
 both are made specific, even singular. And they make my
 question, in turn, about no one's lunch, even among your
-fellow-members in the audience, but yours. But this only
-underlines the puzzle of how my question is possible. If
-I can't even point to you, much less to what you had for
-lunch, for my question to make sense as a question, ,then
-how Somehow it refers to what yo0u had for lunch, but
-without even pointing to you or what you had, much less
-identifying it.  
+fellow-members in the audience, but yours. Yet this only
+underlines the puzzle of how my question is possible. For by
+asking it, I am somehow referring to no one but you, and to
+nothing but what you had for lunch, yet without having to
+identify or point to either one. And if we recall my initial
+formulation of the question, then I am also somehow
+referring to no time but today, yet without having to
+identify it by date, and with nowhere, it seems, to point.
+So while the question "What did you have for lunch today?"
+may be prosaic, I think it gives us reason to be puzzled,
+and puzzled, again, by its very possibility.    
 
-I'm not even pointing to you in my question, then how can
+exact in my reference to what you had for lunch, make reference to what it is you had for lunch in my question,
+yet withoutIf I'm
+not even pointing to you in my question, then how am
+I referring so to can I refer Somehow it refers to what yo0u
+had for lunch, but without even pointing to you or what you
+had, much less identifying it.  
+
+Mention today. Nowhere to point. Then say that peculiarities here don't 
+preclude a more general puzzle. I'm not even pointing to you in my question, then how can
 I even begin to refer to what you had for lunch, much less
 do it so simply and completely? 
 
