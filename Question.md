@@ -190,16 +190,23 @@ question of a seminar---is more radical. It is a question
 for all of us, before the conversation begins, that asks for
 an answer possessed by none of us, which is *why* the
 conversation begins. But the way this kind of question is
-radical turns the puzzle into a predicament, where the
-question is not just radical but fragile. For questions
+radical turns the puzzle of it into a predicament, where the
+radical question is also a fragile question. For questions
 without answers in this sense can be dismissed as hopeless,
 pointless, useless, meaningless---as if these were questions
 for none of us rather than all of us, precisely in asking
-for answers possessed by none of us. And there is something
-in this dismissiveness. For if a question is so incomplete
-as to ask for an answer in no one's possession, then how can it
-still be complete enough to *be* a question. 
+for answers possessed by none of us. And the temptation
+to dismiss them rather than embrace them is a mark of
+the puzzle on my mind. For if a question is so incomplete
+as to ask for an answer in no one's possession, then how can
+it still be complete enough to *be* a question? 
 
+This brings me, then, to my example of a seemingly profound
+question: Why is there something rather than nothing?
+(Mention how answer gets swallowed, then ask so is the
+question really profound? Is this question even a question?
+
+a question of the night. 
 , that these are
 really questions for none of us, and that a life devoted to
 them is diseased. and that a life devoted to them is  But
