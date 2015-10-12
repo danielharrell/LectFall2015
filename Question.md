@@ -215,6 +215,483 @@ a question at all?
 
 ## Part Two
 
+So, why *is* there something rather than nothing? Or suppose
+I ask myself this, but you overhear me, and reply, "why
+would you ask a question like that?" Well, why *would* I ask
+a question like that? One reason I would ask it, I think,
+emerges if we suppose I asked a slightly different question:
+"why is there *this* rather than *that*?" For example, why
+is there a podium in front of me, and not a table, or even
+just the air of the auditorium? And let us suppose I could
+answer every such question, even the question why is *this*
+the world rather than *that*, where *that* referred to any
+world I might imagine in this world's place. I might still
+have the unsettling sense that all my answers put together left
+a question unanswered, about why the podium was
+anything at all, why the world was anything at all. Or
+again, why there is something rather than nothing.
+
+But why would I have this unsettling sense? One reason
+I might have it, I think, emerges if we suppose I asked my
+question about this rather than that, not of the podium in
+front of me, but instead of me myself. Why am *I* in front
+of the podium, and not someone else? At first glance, it can
+seem as if this question is just like the question about why
+there's a podium in front of me and not a table. But there's
+a crucial difference. For the podium in front of me is
+something you can see as well. And in one sense, you can see
+me behind the podium as well. But in another sense you
+can't. You see someone behind the podium, to be sure; and we
+can even grant that he is me. But what makes him me? And why
+is his point of view, behind this podium, *my* point of
+view? 
+
+[Bring up paragraph below, about the genetic account; and then
+point out that the answer I am looking for seems to be not
+about why am I me rather than someone else, but why I am
+me and *no one else). 
+This question can be even more unsettling when we start to
+wonder what the answer could be. Surely it would encompass
+my own birth, and that of my parents, my grandparents, and
+so on, back to some origin of the world as such. But would
+the answer thereby encompass me?  It's easy to doubt it. It
+can seem, in fact, as if the answer in this sense might
+exhaustively explain my existence in the world,
+yet without explaining---or even acknowledging---how
+that existence is indeed *mine*, and no one else's. And
+it can start to look as if the origin of my own point of
+view upon the world, as indeed my own, escapes, or perhaps I
+should say surpasses, all explanation.  But then the
+question "Why is there something rather than nothing?"
+would seem to have no answer, at least when directed
+at me---when the question becomes: "Why am *I* something
+rather than nothing?"
+
+More unsettling still, it is through this same point of
+view, this seemingly inexplicable point of view, that the
+world gains its very presence. Leaving the source of its
+existence aside, that is, we could say the source of
+its presence lies in this point of view. For the world is
+made present to me through the point of view upon it that I
+share with no one else, just as it is made present to you
+through the point of view upon it that you share with no one
+else. But this means that the world becomes present, and in
+this presence becomes questionable, through the very point
+of view that seems to surpass all explanation. It can then
+start to look as if the question "Why is there something
+rather than nothing?" has no answer at all, even when
+*not* directed at me. At the very least, the question
+would surpass any answer that might be given to it, in
+whatever way, if there is one, that I who ask the question
+surpass any account that might be given of me. And leaving
+aside whether there *is* an answer to this question, we
+could say that the question itself is permanent rather than
+provisional. Or as Klein puts it, the question doesn't lead
+to any further discovery or recovery, insofar as there is
+nothing to discover in the world, or to recover in myself,
+that might dispense with the question once it is raised. 
+The question reveals a difference for me, which no discovery
+or recovery can entirely resolve, between the way that being
+something rather than nothing is readily explained, and the
+way that being something rather than nothing seems
+inexplicable.
+
+Now, Klein also says that such a question *educates*
+me, giving me *the freedom* to go to the roots of all
+my questioning. But it is tempting, I think, to draw just
+the opposite conclusion from what I called the permanence of
+the question. For wouldn't its permanence suggest that the
+world is indeed accidental or arbitrary? And what
+more could we learn from such a question in that case, about
+either ourselves or the world, save that both exist as a
+brute, inexplicable fact?  What more could we learn, in
+other words, save that there is no freedom possible in such
+a world, and thus no place for a liberal education. But this
+is not Klein's conclusion, and I think that here too he is
+right. Here is one way to think about why. The way I surpass
+all explanation in this context is the way I *am free*
+of all explanation---or more simply put, the way I am
+free. Or to say this more exactly if elaborately: there is
+no explaining the origin of my point of view upon the world,
+insofar as it is mine alone, because in this respect, my
+point of view *is* an origin, rather than having
+one. Or let me say this again still more elaborately: my
+point of view *as mine* is not an outcome of the world,
+which might be explained in being traced back to an
+origin; rather, it is an origin in itself. And a crucial
+sign of this is indicated by Klein in what he calls the
+roots of all my questioning. For because my point of view
+*is* an origin, I am in a position not simply to
+explain the world, or find answers in it, but to wonder
+about the world, and ask questions of it. The reason that
+the presence of the world can then be put into permanent
+question, the reason we can wonder "Why is this
+so?" of anything at all, is not because the world is
+radically contingent, but rather because it is radically
+originating. And the world is perhaps most essentially
+originating, in a way that makes a place for liberal
+education, in the very possibility of questions that are
+permanent rather than provisional---which is to say,
+questions we can ask of the world that remain questions even
+when answered.
+
+Let me try to spell all this out one last way before moving
+on. There is, we can suppose, a way that the world is simply
+there for us, or present to us. And this establishes what we
+might call a horizon of acquaintance with things, within
+which they are always already present, and in that sense
+unquestionable. This is not to deny the existence of
+questions within such a horizon, but rather to say that any
+such question has some answer in front of it, that relies on
+the very presence of what is being questioned. And because
+of this presence, the answer can in effect supplant the
+question, in what we might regard as the continual advance
+in knowledge that we can make within this horizon, just
+insofar as our questions about the world *have* answers.  We
+could even identify this horizon, I think, with everything
+there is to *learn* about the world. And if this were the
+only horizon available to us, liberal education would be, in
+a literal sense of the word, *mathematical*, where we learn
+the things that *can* be learned.
+
+But this is not, it turns out, the only horizon available to
+us. And this changes---or converts---the idea of liberal
+education radically, from having a mathematical orientation
+to having a philosophical one. For the very presence of the
+world, again, can become utterly strange, where we wonder
+*why* it is there for us, and what gives it the very
+presence it has, the very presence that establishes our
+horizon of acquaintance. This experience of strangeness and
+wonder is only possible, I think, where there is a larger
+horizon available to us---if "horizon" is still the
+word---that encompasses our horizon of acquaintance. And
+within this larger horizon, we could say that things are
+inherently questionable, which is to say, that things are
+present to us only insofar as they are questionable. This is
+not to deny the existence of answers within such a horizon,
+but rather to say that any such answer has some question
+behind it, that relies on the very questionability of what
+is present. And because of this questionability, the answer
+is prevented from supplanting the question. What the answer
+does instead, we could say, is address the question. And
+within this horizon, then, there is no advance, in the usual
+sense, in our knowledge of things, but rather a deepening of
+it. We might think of this deepening as a continual
+clarification, within this horizon, of why, and to what
+extent, our knowledge of things *is* knowledge. And this
+clarification is possible just insofar as our answers have
+questions about the world behind them, to which they *are*
+the answers. We could even identify this horizon, I think,
+with everything there is to *wonder* about the world, or
+*ask* about the world, that makes us learn, in making us
+want to learn, and in that way able to learn. And since this
+is a second horizon available to us that encompasses the
+first, liberal education is no longer mathematical, but
+again philosophical, where we might say, if paradoxically,
+that we learn the things that *can't* be learned.
+
+That such things can't be learned is acknowledged by Klein,
+I think, when he mentions that he is not at all certain to
+what extent we can contrive the presence of the state of
+mind that allows us to wonder. Indeed, Klein's further
+description makes it seem as if this state of mind comes
+largely unbidden: suddenly rather than deliberately. And
+this should be no surprise, I think, if this state of mind
+finally reflects the way, at such moments of wonder about
+the world, we are indeed an origin rather than an outcome of
+the world, or free rather than determined. But if this means
+that the wonder at the heart of liberal education cannot be
+contrived, then any curriculum of liberal education becomes
+puzzling. For what is the curriculum for? This is a second
+question that seems to have followed from the answer to my
+first. For the way we are freed through liberal education,
+at least on the answer I have just discussed, is through the
+detached state of mind that allows us to wonder about the
+world. Yet there nothing, let us suppose, that can compel
+that state of mind. But if so, then again, what is a
+curriculum of liberal education for? Why does it exist?
+
+
+For one answer to this question, I can turn to
+another essay by Klein on liberal education, this one simply
+entitled "On Liberal Education." And again Klein tries to
+answer this question in an elementary way. Here is one
+passage to show you what I mean:
+
+> Let me talk, then, about such a
+program. It has first of all to select the material which
+would compel the learner to reflect and to get rid of the
+sediments in his thinking so as to enable him to reach the
+level of intellectual clarity. This material is available in
+the great documents of human seeing, hearing, imagining, and
+understanding, that is to say, in the Old Testament, in the
+works of Homer, Aeschylus, Sophocles, Euripides, Plato,
+Aristotle, in the New Testament, in Augustine, Thomas
+Aquinas, Dante, Francis Bacon, Shakespeare, Galileo,
+Descartes, Newton, Locke, Hume, Rousseau, Kant, Hegel,
+Darwin, the great novelists of the nineteenth century,
+Nietzsche, Freud, Whitehead and many others. The task is to
+read these works, which contain our intellectual
+heritage---which, in turn, is permeated by vagueness and
+sedimentation---in such a way as to re-awaken the insights
+in which they are rooted and to reflect on these insights
+and their ultimate assumptions. This task is tremendous; at
+best, only a beginning can be made.[^Klein_Quote3]
+
+Here is how I understand this passage, in light
+of my earlier discussion. On the one hand, there is nothing
+sufficient, of itself, to produce the state of mind
+that allows us to wonder about the world. On the other hand,
+there is something necessary to produce it. For it
+turns out that our horizon of acquaintance with things is
+not something we possess; it is rather something we inhabit.
+Or even more exactly, it is something we are embedded
+in. Klein's way of putting this, indebted to Husserl, is
+that our thinking about things is, in the first place,
+*sedimented*.[^Husserl]
+
+Leaving the details of Husserl's
+complicated account for this aside, I think we can see the
+possibility of this predicament in the way I earlier
+described our horizon of acquaintance with things. For this
+is again the horizon within which things are unquestionable,
+in being always already present. Things thus go unquestioned
+within this horizon, in most cases simply, but in other
+cases, again, by answers that supplant the questions that
+led to them. But now consider another way of putting this
+last point. Let us say that the answers *cover up* the
+questions that led to them. If this were true, then moving
+beyond this horizon, and back to the questions behind those
+answers, would seem impossible in any immediate way. For we
+would first have to uncover what has been covered up. Or as
+Klein puts it, we would first have to rid ourselves of the
+sediments in our thinking, and in that sense work at
+*clarifying* our minds. But this, then, is one answer
+to my second question, of what a curriculum of liberal
+education is for, or why it exists. It exists to free us
+from our embeddedness in one horizon so that we
+might reach the other horizon, even if there is no
+guarantee that we will.
+
+Now, in discussing this answer, I have made no mention yet
+of great books, or what Klein calls those great documents of
+human seeing, hearing, imagining, and understanding that
+contain our intellectual heritage. But to say they contain
+this heritage is already to suggest how they become central
+to a curriculum of liberal education, so understood. For
+this is to say, I think, that these books have established
+the very horizon that we find ourselves embedded in, even as
+they themselves become embedded in that horizon, under
+layers of scholarship and commentary. To free
+ourselves from our own embeddedness thus
+becomes a matter of freeing these books from their
+embeddedness. And this means reading them in such a way, as
+Klein says, as to reawaken the insights in which they are
+rooted.
+
+But what could Klein mean by this?  For the moment,
+I think we can safely infer that he means, at the very
+least, that great books will have to be read carefully. For
+reading them in a cursory way would seem to risk, if not
+ensure, that we will read them only from within the very
+horizon we are trying to escape. And this, then, tells us
+not simply what a curriculum of education is for, but how it
+works---in what I will now call *one* idea of liberal
+education. For in essence, the curriculum works through the
+careful reading of certain great books. And everything else
+that might be found in this curriculum---the study
+of language, the activity of conversation---would be for
+the sake of that end. The curriculum would exist as a whole
+to help us read such books as best we can.
+
+It is no surprise, in any case, to find this view of reading
+attributed to Klein by the former tutor J.  Winfree Smith,
+in his history of the St.  John's Program. "Klein," he
+writes, "thought an absorbing preoccupation with the
+content of a great book to be a necessary condition for
+learning."[^Winfree_Quote1] But
+what is surprising, I think, is the context of
+this remark. For it is made to contrast Klein's view with
+that of Scott Buchanan, who with Stringfellow Barr founded
+the very program at St.  John's where great books are
+read. "Buchanan," writes Smith, "was content if a student
+acquired only a superficial acquaintance with the content
+[of a great book], provided that it were sufficiently
+suggestive and provocative of thought; if the thought moved
+far away from the book, that was no matter for
+concern."[^Winfree_Quote2]
+More surprising still is an earlier passage in Smith's book,
+again about Buchanan.  For there Smith offers a mixed
+assessment of Buchanan's way of thinking---or as he calls
+it, Buchanan's way of philosophizing---which evidently aimed
+at producing unities out of diversities, yet for that reason
+led Buchanan to make what Smith calls "simple blunders" in
+a "cavalier" reading of great books.[^Winfree_Quote3]
+Yet Smith goes on to
+suggests a link between Buchanan's careless way with great
+books and the very character of the St.  John's Program:
+
+> What has been said about Buchanan's way of
+philosophizing should be of help in understanding what his
+conception of the program was, why with all its emphasis on
+tradition it was not in any way committed to the past as
+past or to the thought of any particular thinker, why it was
+as ambitious as it was, and why it might be called
+philosophical in a large sense. Just as Buchanan himself was
+not particularly concerned to discover an author's meaning,
+neither was he particularly concerned that that should be
+the aim of the students. He expected them to get from their
+readings some thoughts, some insights, some questions which,
+though they might even spring from a serious misreading,
+would spark discussion and result in whatever the free
+intellect might learn.[^Winfree_Quote4]
+
+Now, this passage about Buchanan, I think, is
+where we find a second idea of liberal education opposed to
+the first idea. For let us again ask the questions: What is
+a curriculum of liberal education for? And how does it work?
+Under the first idea of how it works, we have to read great
+books carefully, but under the second idea, we can read them
+carelessly. And this goes hand-in-hand with contradictory
+answers to the question of what the curriculum is for, which
+is implicit in Smith's striking description of the intellect
+in the passage above: as something already free and ready to
+learn. For this suggests that under the second idea, the
+curriculum does *not* exist to free us from our
+embeddedness in the horizon of acquaintance. For we are not
+embedded there, even at the start. Instead, because of our
+intellect, which again is already free and ready to learn,
+we are located in the other horizon, and can wonder about
+the world from where we stand. And since our access to this
+horizon is therefore immediate, there is no need for a
+careful reading of great books to get us there.
+
+But why, then, *does* the curriculum exist, under this
+second idea? What *is* the curriculum for? I think we
+can understand this by considering Buchanan's own way
+of affirming the freedom of intellect. Consider, for
+example, a famous address he once gave in 1958, entitled
+"The Last Don Rag."  Here is a sampling of the questions
+Buchanan imagined asking the students of St.  John's College
+at their last don rag : "Do you believe in and trust your
+intellect, that innate power that never sleeps?"  "Do you
+recognize the action of this power as you live and learn?"
+"Have you, in the course of your life, before, after, or
+while you were at St.  John's, become your own teacher?"
+"Have you yet recognized that you are and always have been
+your own teacher?"[^Buchanan_Quote1]
+
+Now, one reason that would-be students at this don rag, in
+hearing that last question, might answer "no", is because they
+went to the college where great books are the teachers. So,
+at any rate, goes a famous slogan of the college, which was
+popular in Buchanan's day.[^Winfree_Quote5] But I think the two sources of
+teaching could be regarded as one and the same, under this
+second idea of liberal education. Since the intellect on
+this view is again already free, and our access to the
+horizon of questioning immediate, our relation to great
+books is not, fundamentally, that of a reader, but rather
+that of a writer. This is just another way of saying, at
+least on this idea, that our point of view upon the world is
+an origin rather than an outcome. Insofar as our point of
+view is individually ours alone, we possess the point of
+view of an author. And the careless way we might read a
+great book bears less resemblance, in its indifference, to
+what we would find in superficial summaries of that book,
+and more resemblance to what we might find in the book
+itself, when its author speaks of past great books in a
+cursory and even dismissive manner, as a way of starting
+from scratch. So this way of thinking about the second idea,
+I think, leads to the following positive answer of what a
+curriculum of liberal education is for, and a fuller answer
+of how it works. We encounter great books not as artifacts
+of thought to be studied, but rather as models of thought to
+be imitated. And the point of imitating them is not to
+clarify our minds, but rather to cultivate them. So the
+curriculum, under this idea, is where the reading of great
+books is only one exercise, even if the central exercise,
+among the many that develop the intellect.  The study of
+language would have a place, as would the activity of
+conversation. But these would now, in a sense, be for their
+own sake, or at least for the sake of the intellect's
+self-assertion, and perhaps its self-knowledge, in coming to
+know that it is indeed always free and never asleep. Or to
+put the contrast of this second idea with the first idea one
+final way: the curriculum as a whole would exist as if to
+help us write great books as best we can, read them as we
+will.
+
+Now, there are two more ways we might contrast these two
+ideas of liberal education that I find interesting, and
+mention them for what they might be worth as a way of
+concluding my lecture. The first way brings me back to the
+question of what Klein could mean when he says that we have
+to read great books in such a way as to reawaken the
+insights in which they are rooted. Now earlier, I inferred
+from this only that we have to read great books
+carefully. But Klein says more than this, and does so, I
+think, to distinguish a merely careful reading from a truly
+thoughtful one, which in this context means distinguishing
+the kind of careful reading that simply adds another layer
+of scholarship and commentary on top of the book in
+question, from the kind of careful reading that digs through
+these layers, and reaches the book itself. But even that is
+not quite what Klein says. Or rather, he says more.  For the
+book itself, in his description, is rooted in certain
+insights. And the insights, in turn, are to be re-awakened
+by the reading. But this suggests that the reading is
+accomplished, finally, insofar as we have rid ourselves of a
+kind of sleep in our thinking, rather than a kind of
+sediment. Or as Buchanan might well have put it, the reading
+is accomplished, finally, insofar as the intellect in us,
+being always free and never asleep, is applied to the book,
+allowing us to re-awaken its insights rather than merely
+recollect them. Or more simply put, but again on Buchanan's
+behalf: the reading is accomplished when we can read the
+book as if we were writing the book. In any case, I think
+we can see a possible difference here between the two ideas
+on the very character of thought. For under the one idea,
+where sedimentation is the difficulty, thinking would be a
+kind of transparency; while under the other idea, where
+somnolence might be thought the difficulty, thinking would
+be a kind of wakefulness.
+
+The second way we might contrast the ideas turns me briefly,
+and finally, to another difference between Klein and
+Buchanan noted by Winfree Smith in his history of the St. 
+John's Program, when he tells of how Klein became dean at
+the college in 1949, and was now in charge of the curriculum
+established by Buchanan: "Convinced as he was of the
+fundamental rightness of that curriculum he [Klein] was not
+about to make any revolutionary changes. Precisely in that
+respect he was unlike Buchanan who, as [Mortimer] Adler once
+said, thought that whatever had become established must have
+something wrong with it and who in 1943 had reported
+approvingly to his son Douglas the remark of a young faculty
+member that 'almost everything has to be rebuilt if we are
+to go on'."[^Winfree_Quote6] In a related vein,
+Buchanan himself once remarked to Smith, years after leaving
+the college, that he and Stringfellow Barr never believed
+they had founded the program they were credited with, and
+even seemed to suggest that the program's survival in its
+original form was a sign of failure rather than
+success. "They thought of themselves," so Smith reports,
+"not as having found, but as being in search of a liberal
+arts college. He [Buchanan] seemed to have got the
+impression that we at St.  John's, without having found, had
+stopped seeking."[^Winfree_Quote7]
+It
+looks from this as if what Klein took as his duty to
+conserve, Buchanan would have taken as his duty to destroy,
+and then rebuild. This difference too is explained, I think,
+by what I have called two ideas of liberal education. We
+might say that the college, in this case, is like a great
+book itself, which under one idea can be contemplated as if
+it were already written and ready to be read, yet under the
+other idea can be contemplated as if the writing were still
+to be done.  We might well ask under which of these ideas
+our college is best understood.## Leftovers 
+
 a question of the night. 
 , that these are
 really questions for none of us, and that a life devoted to
@@ -723,554 +1200,12 @@ another. , and perhaps even ways that contradict one
 another,   What makes a liberal education liberal? Perhaps
 the simplest we could give
 
-For the answer, I turn to an essay entitled
-"The Idea of Liberal Education," written by Jacob Klein, a
-former tutor and dean of St. John's College.  For in that
-essay, Klein tries to address my opening question, I think,
-in the most elementary way he can. Let me quote two passages
-from the essay to show you what I mean. Here is the first
-passage:
 
-
-> The idea of liberal education, then, whether
-you accept or reject it, is not definable in terms of some
-peculiar subject matter. Some applied sciences may well fall
-outside its scope. But, by and large, any formal discipline
-may form its vehicle and basis. It is not the subject matter
-that determines the character of studies as liberal
-studies. It is rather in the way in which a formal
-discipline, a subject matter, is taken up that is decisive:
-whenever it is being studied for its own sake, whenever the
-metastrophic way of questioning is upheld, whenever genuine
-wonderment is present, liberal education is taking
-place.[^Klein_Quote1]
-
-
-And here is the second passage, which explains
-what Klein means by the word "metastrophic": 
-
-> I have said before that within
-the confines of our horizon there is the expected as well as
-the unexpected, the old and the new, the known and the
-unknown, the familiar and the unfamiliar. We do, however,
-experience a kind of question which, as it were, tends to
-smash the bounds that limit us. We do occasionally stop
-altogether and face the familiar as if for the first
-time---anything: a person, a street, the sky, a fly. The
-overwhelming impression on such occasions is the strangeness
-of the thing we contemplate. This state of mind requires
-detachment, and I am not at all certain to what extent we
-can contrive its presence. We suddenly do not feel at home
-in this world of ours. We take a deep look at things, at
-people, at words, with eyes blind to the familiar. We
-re-flect. Plato has a word for it: *metastrophê* or
-*periagogê*, a turnabout, a conversion. We detach
-ourselves from all that is familiar to us; we change the
-direction of our inquiry; we do not explore the unknown
-anymore; on the contrary, we convert the known into an
-unknown. We wonder. And we burst out with that inexorable
-question: Why is that so? To be sure, we have raised the
-question "why" before. I can certainly ask: Why did it
-snow yesterday and does not snow today? Why did Mr. X say
-this or that to Mr. Y? But this "why" I am talking about
-now is of a different kind. It does not lead to any
-discovery or recovery. It calls myself into question with
-all my questioning. It compels me to detach myself from
-myself, to transcend the limits of my horizon; that is, it
-educates me. It gives me the freedom to go to the roots of
-all my questioning.[^Klein_Metastrophic]
-
-Now, by calling these passages elementary, I
-don't mean that they are perfectly clear. I'm not
-even confident that all I'm about to say on their behalf is
-what Klein actually meant. But what *is* clear, I
-think, and this is what I take to be elementary about the
-passages, is that Klein writes them in trying to capture
-something about the essence of liberal education---or to
-borrow his word for it, the *idea* of liberal
-education---that lies beneath any particular book, or
-subject, or curriculum, or institution, that we might
-identify with liberal education. And there must be some such
-idea, I think, for any such identification to be judged
-correct, or true.
-
-I also believe that Klein is essentially right in his
-description of this idea---though again, I will later want
-to say that his description actually leads to two ideas. But
-for the moment I will call it one idea. Or as Klein again
-calls it: *the* idea. And it does seem to me that
-liberal education must have something to do, at bottom, with
-a certain kind of questioning that involves our
-conversion. Let me try to spell this out in my own way by
-generalizing on Klein's example of a "why"
-question. Suppose we were compelled to ask, not simply "Why
-is *that* so?,"
-but "Why is *anything* so?"  Why
-is there something, in other words, rather than nothing?  It
-is this question, I think, that provides a paradigm for the
-kind of question Klein has in mind. For there is perhaps
-nothing so familiar to us as the very presence of the world;
-yet also nothing that can seem so strange, so accidental or
-arbitrary.
-
-And to question this presence is to call myself into
-question in turn, insofar as I too am a part of this
-presence, or something rather than nothing. Indeed, I
-myself---and here I mean all of us insofar as we can each
-say "I myself"---I myself am perhaps the most familiar
-thing that I encounter in the world, yet I can also seem the
-most strange, the most accidental or
-arbitrary. For why do I exist? Or more exactly: why am I
-this human being here, in front of you right now, existing
-at this time and place rather than at some other time and
-place, or even not at all? Or looking at my strangeness the
-other way around: why is this human being *me* and no
-one else?  Why is his point of view *my* point of view?
-
-This question can be even more unsettling when we start to
-wonder what the answer could be. Surely it would encompass
-my own birth, and that of my parents, my grandparents, and
-so on, back to some origin of the world as such. But would
-the answer thereby encompass me?  It's easy to doubt it. It
-can seem, in fact, as if the answer in this sense might
-exhaustively explain my existence in the world,
-yet without explaining---or even acknowledging---how
-that existence is indeed *mine*, and no one else's. And
-it can start to look as if the origin of my own point of
-view upon the world, as indeed my own, escapes, or perhaps I
-should say surpasses, all explanation.  But then the
-question "Why is there something rather than nothing?"
-would seem to have no answer, at least when directed
-at me---when the question becomes: "Why am *I* something
-rather than nothing?"
-
-More unsettling still, it is through this same point of
-view, this seemingly inexplicable point of view, that the
-world gains its very presence. Leaving the source of its
-existence aside, that is, we could say the source of
-its presence lies in this point of view. For the world is
-made present to me through the point of view upon it that I
-share with no one else, just as it is made present to you
-through the point of view upon it that you share with no one
-else. But this means that the world becomes present, and in
-this presence becomes questionable, through the very point
-of view that seems to surpass all explanation. It can then
-start to look as if the question "Why is there something
-rather than nothing?" has no answer at all, even when
-*not* directed at me. At the very least, the question
-would surpass any answer that might be given to it, in
-whatever way, if there is one, that I who ask the question
-surpass any account that might be given of me. And leaving
-aside whether there *is* an answer to this question, we
-could say that the question itself is permanent rather than
-provisional. Or as Klein puts it, the question doesn't lead
-to any further discovery or recovery, insofar as there is
-nothing to discover in the world, or to recover in myself,
-that might dispense with the question once it is raised. 
-The question reveals a difference for me, which no discovery
-or recovery can entirely resolve, between the way that being
-something rather than nothing is readily explained, and the
-way that being something rather than nothing seems
-inexplicable.
-
-Now, Klein also says that such a question *educates*
-me, giving me *the freedom* to go to the roots of all
-my questioning. But it is tempting, I think, to draw just
-the opposite conclusion from what I called the permanence of
-the question. For wouldn't its permanence suggest that the
-world is indeed accidental or arbitrary? And what
-more could we learn from such a question in that case, about
-either ourselves or the world, save that both exist as a
-brute, inexplicable fact?  What more could we learn, in
-other words, save that there is no freedom possible in such
-a world, and thus no place for a liberal education. But this
-is not Klein's conclusion, and I think that here too he is
-right. Here is one way to think about why. The way I surpass
-all explanation in this context is the way I *am free*
-of all explanation---or more simply put, the way I am
-free. Or to say this more exactly if elaborately: there is
-no explaining the origin of my point of view upon the world,
-insofar as it is mine alone, because in this respect, my
-point of view *is* an origin, rather than having
-one. Or let me say this again still more elaborately: my
-point of view *as mine* is not an outcome of the world,
-which might be explained in being traced back to an
-origin; rather, it is an origin in itself. And a crucial
-sign of this is indicated by Klein in what he calls the
-roots of all my questioning. For because my point of view
-*is* an origin, I am in a position not simply to
-explain the world, or find answers in it, but to wonder
-about the world, and ask questions of it. The reason that
-the presence of the world can then be put into permanent
-question, the reason we can wonder "Why is this
-so?" of anything at all, is not because the world is
-radically contingent, but rather because it is radically
-originating. And the world is perhaps most essentially
-originating, in a way that makes a place for liberal
-education, in the very possibility of questions that are
-permanent rather than provisional---which is to say,
-questions we can ask of the world that remain questions even
-when answered.
-
-Let me try to spell all this out one last way before moving
-on. There is, we can suppose, a way that the world is simply
-there for us, or present to us. And this establishes what we
-might call a horizon of acquaintance with things, within
-which they are always already present, and in that sense
-unquestionable. This is not to deny the existence of
-questions within such a horizon, but rather to say that any
-such question has some answer in front of it, that relies on
-the very presence of what is being questioned. And because
-of this presence, the answer can in effect supplant the
-question, in what we might regard as the continual advance
-in knowledge that we can make within this horizon, just
-insofar as our questions about the world *have* answers.  We
-could even identify this horizon, I think, with everything
-there is to *learn* about the world. And if this were the
-only horizon available to us, liberal education would be, in
-a literal sense of the word, *mathematical*, where we learn
-the things that *can* be learned.
-
-But this is not, it turns out, the only horizon available to
-us. And this changes---or converts---the idea of liberal
-education radically, from having a mathematical orientation
-to having a philosophical one. For the very presence of the
-world, again, can become utterly strange, where we wonder
-*why* it is there for us, and what gives it the very
-presence it has, the very presence that establishes our
-horizon of acquaintance. This experience of strangeness and
-wonder is only possible, I think, where there is a larger
-horizon available to us---if "horizon" is still the
-word---that encompasses our horizon of acquaintance. And
-within this larger horizon, we could say that things are
-inherently questionable, which is to say, that things are
-present to us only insofar as they are questionable. This is
-not to deny the existence of answers within such a horizon,
-but rather to say that any such answer has some question
-behind it, that relies on the very questionability of what
-is present. And because of this questionability, the answer
-is prevented from supplanting the question. What the answer
-does instead, we could say, is address the question. And
-within this horizon, then, there is no advance, in the usual
-sense, in our knowledge of things, but rather a deepening of
-it. We might think of this deepening as a continual
-clarification, within this horizon, of why, and to what
-extent, our knowledge of things *is* knowledge. And this
-clarification is possible just insofar as our answers have
-questions about the world behind them, to which they *are*
-the answers. We could even identify this horizon, I think,
-with everything there is to *wonder* about the world, or
-*ask* about the world, that makes us learn, in making us
-want to learn, and in that way able to learn. And since this
-is a second horizon available to us that encompasses the
-first, liberal education is no longer mathematical, but
-again philosophical, where we might say, if paradoxically,
-that we learn the things that *can't* be learned.
-
-That such things can't be learned is acknowledged by Klein,
-I think, when he mentions that he is not at all certain to
-what extent we can contrive the presence of the state of
-mind that allows us to wonder. Indeed, Klein's further
-description makes it seem as if this state of mind comes
-largely unbidden: suddenly rather than deliberately. And
-this should be no surprise, I think, if this state of mind
-finally reflects the way, at such moments of wonder about
-the world, we are indeed an origin rather than an outcome of
-the world, or free rather than determined. But if this means
-that the wonder at the heart of liberal education cannot be
-contrived, then any curriculum of liberal education becomes
-puzzling. For what is the curriculum for? This is a second
-question that seems to have followed from the answer to my
-first. For the way we are freed through liberal education,
-at least on the answer I have just discussed, is through the
-detached state of mind that allows us to wonder about the
-world. Yet there nothing, let us suppose, that can compel
-that state of mind. But if so, then again, what is a
-curriculum of liberal education for? Why does it exist?
 
 [Back to top][top]
 
 ##  Part Two [two]
 
-For one answer to this question, I can turn to
-another essay by Klein on liberal education, this one simply
-entitled "On Liberal Education." And again Klein tries to
-answer this question in an elementary way. Here is one
-passage to show you what I mean:
-
-> Let me talk, then, about such a
-program. It has first of all to select the material which
-would compel the learner to reflect and to get rid of the
-sediments in his thinking so as to enable him to reach the
-level of intellectual clarity. This material is available in
-the great documents of human seeing, hearing, imagining, and
-understanding, that is to say, in the Old Testament, in the
-works of Homer, Aeschylus, Sophocles, Euripides, Plato,
-Aristotle, in the New Testament, in Augustine, Thomas
-Aquinas, Dante, Francis Bacon, Shakespeare, Galileo,
-Descartes, Newton, Locke, Hume, Rousseau, Kant, Hegel,
-Darwin, the great novelists of the nineteenth century,
-Nietzsche, Freud, Whitehead and many others. The task is to
-read these works, which contain our intellectual
-heritage---which, in turn, is permeated by vagueness and
-sedimentation---in such a way as to re-awaken the insights
-in which they are rooted and to reflect on these insights
-and their ultimate assumptions. This task is tremendous; at
-best, only a beginning can be made.[^Klein_Quote3]
-
-Here is how I understand this passage, in light
-of my earlier discussion. On the one hand, there is nothing
-sufficient, of itself, to produce the state of mind
-that allows us to wonder about the world. On the other hand,
-there is something necessary to produce it. For it
-turns out that our horizon of acquaintance with things is
-not something we possess; it is rather something we inhabit.
-Or even more exactly, it is something we are embedded
-in. Klein's way of putting this, indebted to Husserl, is
-that our thinking about things is, in the first place,
-*sedimented*.[^Husserl]
-
-Leaving the details of Husserl's
-complicated account for this aside, I think we can see the
-possibility of this predicament in the way I earlier
-described our horizon of acquaintance with things. For this
-is again the horizon within which things are unquestionable,
-in being always already present. Things thus go unquestioned
-within this horizon, in most cases simply, but in other
-cases, again, by answers that supplant the questions that
-led to them. But now consider another way of putting this
-last point. Let us say that the answers *cover up* the
-questions that led to them. If this were true, then moving
-beyond this horizon, and back to the questions behind those
-answers, would seem impossible in any immediate way. For we
-would first have to uncover what has been covered up. Or as
-Klein puts it, we would first have to rid ourselves of the
-sediments in our thinking, and in that sense work at
-*clarifying* our minds. But this, then, is one answer
-to my second question, of what a curriculum of liberal
-education is for, or why it exists. It exists to free us
-from our embeddedness in one horizon so that we
-might reach the other horizon, even if there is no
-guarantee that we will.
-
-Now, in discussing this answer, I have made no mention yet
-of great books, or what Klein calls those great documents of
-human seeing, hearing, imagining, and understanding that
-contain our intellectual heritage. But to say they contain
-this heritage is already to suggest how they become central
-to a curriculum of liberal education, so understood. For
-this is to say, I think, that these books have established
-the very horizon that we find ourselves embedded in, even as
-they themselves become embedded in that horizon, under
-layers of scholarship and commentary. To free
-ourselves from our own embeddedness thus
-becomes a matter of freeing these books from their
-embeddedness. And this means reading them in such a way, as
-Klein says, as to reawaken the insights in which they are
-rooted.
-
-But what could Klein mean by this?  For the moment,
-I think we can safely infer that he means, at the very
-least, that great books will have to be read carefully. For
-reading them in a cursory way would seem to risk, if not
-ensure, that we will read them only from within the very
-horizon we are trying to escape. And this, then, tells us
-not simply what a curriculum of education is for, but how it
-works---in what I will now call *one* idea of liberal
-education. For in essence, the curriculum works through the
-careful reading of certain great books. And everything else
-that might be found in this curriculum---the study
-of language, the activity of conversation---would be for
-the sake of that end. The curriculum would exist as a whole
-to help us read such books as best we can.
-
-It is no surprise, in any case, to find this view of reading
-attributed to Klein by the former tutor J.  Winfree Smith,
-in his history of the St.  John's Program. "Klein," he
-writes, "thought an absorbing preoccupation with the
-content of a great book to be a necessary condition for
-learning."[^Winfree_Quote1] But
-what is surprising, I think, is the context of
-this remark. For it is made to contrast Klein's view with
-that of Scott Buchanan, who with Stringfellow Barr founded
-the very program at St.  John's where great books are
-read. "Buchanan," writes Smith, "was content if a student
-acquired only a superficial acquaintance with the content
-[of a great book], provided that it were sufficiently
-suggestive and provocative of thought; if the thought moved
-far away from the book, that was no matter for
-concern."[^Winfree_Quote2]
-More surprising still is an earlier passage in Smith's book,
-again about Buchanan.  For there Smith offers a mixed
-assessment of Buchanan's way of thinking---or as he calls
-it, Buchanan's way of philosophizing---which evidently aimed
-at producing unities out of diversities, yet for that reason
-led Buchanan to make what Smith calls "simple blunders" in
-a "cavalier" reading of great books.[^Winfree_Quote3]
-Yet Smith goes on to
-suggests a link between Buchanan's careless way with great
-books and the very character of the St.  John's Program:
-
-> What has been said about Buchanan's way of
-philosophizing should be of help in understanding what his
-conception of the program was, why with all its emphasis on
-tradition it was not in any way committed to the past as
-past or to the thought of any particular thinker, why it was
-as ambitious as it was, and why it might be called
-philosophical in a large sense. Just as Buchanan himself was
-not particularly concerned to discover an author's meaning,
-neither was he particularly concerned that that should be
-the aim of the students. He expected them to get from their
-readings some thoughts, some insights, some questions which,
-though they might even spring from a serious misreading,
-would spark discussion and result in whatever the free
-intellect might learn.[^Winfree_Quote4]
-
-Now, this passage about Buchanan, I think, is
-where we find a second idea of liberal education opposed to
-the first idea. For let us again ask the questions: What is
-a curriculum of liberal education for? And how does it work?
-Under the first idea of how it works, we have to read great
-books carefully, but under the second idea, we can read them
-carelessly. And this goes hand-in-hand with contradictory
-answers to the question of what the curriculum is for, which
-is implicit in Smith's striking description of the intellect
-in the passage above: as something already free and ready to
-learn. For this suggests that under the second idea, the
-curriculum does *not* exist to free us from our
-embeddedness in the horizon of acquaintance. For we are not
-embedded there, even at the start. Instead, because of our
-intellect, which again is already free and ready to learn,
-we are located in the other horizon, and can wonder about
-the world from where we stand. And since our access to this
-horizon is therefore immediate, there is no need for a
-careful reading of great books to get us there.
-
-But why, then, *does* the curriculum exist, under this
-second idea? What *is* the curriculum for? I think we
-can understand this by considering Buchanan's own way
-of affirming the freedom of intellect. Consider, for
-example, a famous address he once gave in 1958, entitled
-"The Last Don Rag."  Here is a sampling of the questions
-Buchanan imagined asking the students of St.  John's College
-at their last don rag : "Do you believe in and trust your
-intellect, that innate power that never sleeps?"  "Do you
-recognize the action of this power as you live and learn?"
-"Have you, in the course of your life, before, after, or
-while you were at St.  John's, become your own teacher?"
-"Have you yet recognized that you are and always have been
-your own teacher?"[^Buchanan_Quote1]
-
-Now, one reason that would-be students at this don rag, in
-hearing that last question, might answer "no", is because they
-went to the college where great books are the teachers. So,
-at any rate, goes a famous slogan of the college, which was
-popular in Buchanan's day.[^Winfree_Quote5] But I think the two sources of
-teaching could be regarded as one and the same, under this
-second idea of liberal education. Since the intellect on
-this view is again already free, and our access to the
-horizon of questioning immediate, our relation to great
-books is not, fundamentally, that of a reader, but rather
-that of a writer. This is just another way of saying, at
-least on this idea, that our point of view upon the world is
-an origin rather than an outcome. Insofar as our point of
-view is individually ours alone, we possess the point of
-view of an author. And the careless way we might read a
-great book bears less resemblance, in its indifference, to
-what we would find in superficial summaries of that book,
-and more resemblance to what we might find in the book
-itself, when its author speaks of past great books in a
-cursory and even dismissive manner, as a way of starting
-from scratch. So this way of thinking about the second idea,
-I think, leads to the following positive answer of what a
-curriculum of liberal education is for, and a fuller answer
-of how it works. We encounter great books not as artifacts
-of thought to be studied, but rather as models of thought to
-be imitated. And the point of imitating them is not to
-clarify our minds, but rather to cultivate them. So the
-curriculum, under this idea, is where the reading of great
-books is only one exercise, even if the central exercise,
-among the many that develop the intellect.  The study of
-language would have a place, as would the activity of
-conversation. But these would now, in a sense, be for their
-own sake, or at least for the sake of the intellect's
-self-assertion, and perhaps its self-knowledge, in coming to
-know that it is indeed always free and never asleep. Or to
-put the contrast of this second idea with the first idea one
-final way: the curriculum as a whole would exist as if to
-help us write great books as best we can, read them as we
-will.
-
-Now, there are two more ways we might contrast these two
-ideas of liberal education that I find interesting, and
-mention them for what they might be worth as a way of
-concluding my lecture. The first way brings me back to the
-question of what Klein could mean when he says that we have
-to read great books in such a way as to reawaken the
-insights in which they are rooted. Now earlier, I inferred
-from this only that we have to read great books
-carefully. But Klein says more than this, and does so, I
-think, to distinguish a merely careful reading from a truly
-thoughtful one, which in this context means distinguishing
-the kind of careful reading that simply adds another layer
-of scholarship and commentary on top of the book in
-question, from the kind of careful reading that digs through
-these layers, and reaches the book itself. But even that is
-not quite what Klein says. Or rather, he says more.  For the
-book itself, in his description, is rooted in certain
-insights. And the insights, in turn, are to be re-awakened
-by the reading. But this suggests that the reading is
-accomplished, finally, insofar as we have rid ourselves of a
-kind of sleep in our thinking, rather than a kind of
-sediment. Or as Buchanan might well have put it, the reading
-is accomplished, finally, insofar as the intellect in us,
-being always free and never asleep, is applied to the book,
-allowing us to re-awaken its insights rather than merely
-recollect them. Or more simply put, but again on Buchanan's
-behalf: the reading is accomplished when we can read the
-book as if we were writing the book. In any case, I think
-we can see a possible difference here between the two ideas
-on the very character of thought. For under the one idea,
-where sedimentation is the difficulty, thinking would be a
-kind of transparency; while under the other idea, where
-somnolence might be thought the difficulty, thinking would
-be a kind of wakefulness.
-
-The second way we might contrast the ideas turns me briefly,
-and finally, to another difference between Klein and
-Buchanan noted by Winfree Smith in his history of the St. 
-John's Program, when he tells of how Klein became dean at
-the college in 1949, and was now in charge of the curriculum
-established by Buchanan: "Convinced as he was of the
-fundamental rightness of that curriculum he [Klein] was not
-about to make any revolutionary changes. Precisely in that
-respect he was unlike Buchanan who, as [Mortimer] Adler once
-said, thought that whatever had become established must have
-something wrong with it and who in 1943 had reported
-approvingly to his son Douglas the remark of a young faculty
-member that 'almost everything has to be rebuilt if we are
-to go on'."[^Winfree_Quote6] In a related vein,
-Buchanan himself once remarked to Smith, years after leaving
-the college, that he and Stringfellow Barr never believed
-they had founded the program they were credited with, and
-even seemed to suggest that the program's survival in its
-original form was a sign of failure rather than
-success. "They thought of themselves," so Smith reports,
-"not as having found, but as being in search of a liberal
-arts college. He [Buchanan] seemed to have got the
-impression that we at St.  John's, without having found, had
-stopped seeking."[^Winfree_Quote7]
-It
-looks from this as if what Klein took as his duty to
-conserve, Buchanan would have taken as his duty to destroy,
-and then rebuild. This difference too is explained, I think,
-by what I have called two ideas of liberal education. We
-might say that the college, in this case, is like a great
-book itself, which under one idea can be contemplated as if
-it were already written and ready to be read, yet under the
-other idea can be contemplated as if the writing were still
-to be done.  We might well ask under which of these ideas
-our college is best understood.
 
 [Back to top][top]
 
@@ -1600,373 +1535,7 @@ What if the idea of a liberal art is lost?
 [Back to top](#top)
 
 
-## Part One {#one}
 
-Now in one sense, I think, the threat to liberal education
-must always come from within. The fate of liberal education,
-after all, will not be decided in headlines, but in
-choices made by each of us about the best education, once
-education matters. Not the best education, then, in general,
-as such, *per se*; but the best education for my daughter,
-or my son, or me. In having to make such choices, those
-devoted to liberal education are no different from those
-dismissive of it.  And in this respect, the threat to
-liberal education can never lie outside it. To pursue an
-education at all, liberal or no, is to have answered
-a question that a liberal education obliges each of us to
-ask, and ask on our own behalf: What does it mean to be
-educated? And we might well answer this question in a choice
-*against* liberal education, even at the risk of its
-extinction, if the same choice is made repeatedly. But this
-is perhaps the best evidence we have that the question is
-real, and the threat to liberal education therefore
-intrinsic to it. The death of liberal education, so
-understood, would similarly come from within, in a proof of
-its life, and perhaps the only proof of life.
-
-But again, those of us devoted to liberal education are
-unlikely to want this death, especially just to show we were
-devoted to something rather than nothing. And while the
-threat may be internal in this general sense, it is still
-external, I think, in a specific sense.
-For if the threat to liberal education does come from
-within, in a question it would have us ask for ourselves
-about what it means to be educated, then while we may well
-answer this question in a choice against liberal education,
-we may also answer the question otherwise, by choosing
-liberal education. Liberal education would then be a second
-answer to the question, opposed to the first. And insofar as
-one answer opposes the other, the threat to liberal
-education would be external. 
-
-But if the threat *is* external, as one answer opposed to
-another, then we can infer at least one thing, I think, about any
-defense of liberal education against this threat. It will
-have to convince us that liberal education *does* provide an
-answer, even for those who give a different answer. It will
-have to show us that something is lost in a choice against
-liberal education, whatever might be gained; and that the
-answer we give in such a choice, even if it turns out right,
-risks being wrong. And showing this much, it seems, means
-showing there is something learned in liberal education,
-that would otherwise go unlearned. To show, in short, that
-liberal education has a subject-matter. Or, in a word:
-content. <!--Later, give more simple description of problem:
-that not having content means not being an answer to the
-question.-->
-
-But what, then, *is* this content? What should we say is
-learned in a liberal education alone? Traditionally, the
-content of a liberal education was identified with
-a curriculum of seven liberal arts, a so-called *trivium* of
-grammar, logic, and rhetoric; and a *quadrivium* of
-arithmetic, geometry, music, and astronomy. Each of these
-arts was thought to wed a skill to a subject. And
-together, these arts were thought to form a whole. This is
-why one could say there was *something* to learn in
-a liberal education, rather than many things, or anything,
-or nothing. This is also what I want to say is contained in
-the idea of a liberal art: a skill wedded to a subject, in
-a whole of such skills and subjects, that gives a liberal
-education its content. 
-
-But one might also suspect that a liberal education has no
-content in this sense, and that the liberal arts as
-traditionally conceived show us why. They were learned,
-after all, by the few rather than the many---the leisured
-few, in that sense already free from servitude. Perhaps the
-education they received was 'liberal,' then, not in
-liberating them, but in shaping them, stamping them, and
-perpetuating them. And the same might be suspected of any
-content. For in what sense could we be freed by it, rather
-than bound to it? What distinguishes content, so-called,
-from dogma, or doctrine? What keeps it from closing the mind
-that a truly liberal education is meant to open? 
-
-This suspicion of content can also come from the opposite
-direction, so to speak: by what we take to threaten liberal
-education, or indeed any form of education. For leaving
-headlines aside, this threat can seem to reflect a kind of
-triumph of content over context, from college rankings and
-scorecards at the start, to tests and grades at the end,
-making the very meaning of education a matter of data-driven
-results; and a choice against liberal education the answer
-to a question never asked. Or we might conceive this threat
-in economic terms, reducing education to just another
-a product with a price in the global marketplace. Against
-all this, the first thing we might think to say in defense
-of education is that products are not enough, results are
-not enough, answers are not enough, content is not enough. 
-
-Defenses of liberal education, accordingly, have generally
-made education a matter of context rather than content. And
-the most common way of doing this is to locate learning not
-in a set of subjects, but instead in the self. Thus [it is
-said that](http://blogs.sjc.edu/christopher-nelson/2014/12/11/looking-value-college-wrong/) "the maturation of the student---not information
-transfer---is the real purpose of colleges and
-universities." [Or that](https://www.mtholyoke.edu/joannecreighton/article_liberal99) "if we are to
-navigate skillfully the turbulent changes of the
-twenty-first century, we must educate students not only to
-process information effectively, but to think wisely and
-well."
-
-And talk of turbulent changes points to another way that
-defenses of liberal education have made it a matter of
-context: by locating the self in an ever-changing world.
-[A good 
-example](http://www.sjc.edu/files/8013/9593/4530/league-of-women-voters-2011.pdf)
-comes from an address by President Nelson: 
-
-> With boundaries among the disciplines vanishing, with job
-requirements and needs changing rapidly, we need citizens
-prepared for change, prepared to adapt to jobs that do not
-yet exist, prepared to enter an unknown world with a kind of
-fearless determination to undertake whatever is required to
-succeed. We will need skills of inquiry to enter a world we
-cannot yet even envision.
-
-We can begin to see from this quote why making liberal
-education a matter of context rather than content, means
-forgetting, more or less deliberately,  the idea of
-a liberal art. For suppose we did live in a world that
-changes more than it abides, where our freedom, to the
-extent this depended on skill, were a matter of adaptation
-more than application. <!--Later correct this as a world
-that doesn't change, because the truth doesn't change.-->
-Any art that deserved the name 'liberal', in that case,
-would involve a skill more likely divorced from any subject
-than wedded to one; which is to say, a skill that can be
-applied to many subjects, even to every subject. And suppose
-the number of such subjects to have multiplied past
-counting, in one way the world indeed seems to have changed,
-since the advent of modern science. <!--Perhaps allude to
-this later. Modern science produces diversity; ancient
-science a totality.--> If the liberal arts could still be
-said to encompass a set of subjects, then it would seem
-better understood as a diversity than as a totality.   
-
-So once defenses of liberal education make it a matter of
-context, it is unsurprising that they separate its skills
-from its subjects.  The subjects, if they are specified at
-all, are specified to give an impression of breadth, as if
-there were many things one might learn in a liberal
-education rather than just one. The current St. John's
-website, for example,
-[speaks](http://www.sjc.edu/academic-programs/undergraduate/liberal-arts)
-of the college's "wide-ranging, interdisciplinary
-curriculum," where "areas of study include philosophy,
-literature, history, mathematics, economics, political
-theory, theology, biology, physics, music, chemistry, and
-languages." Other lists of subjects are even more expansive.
-One from the earlier-mentioned *Power of Liberal Arts*
-campaign [makes it
-sound](http://www.liberalartspower.org/lowdown/what/Pages/default.aspx)
-as if you might study anything:  
-
-> You might be surprised by the kinds of subjects and majors
-that are included in the liberal arts. They include much
-more than studio art and English classes (though those are
-great!)---they range from mathematics to Mandarin, from
-statistics to sociology. At liberal arts colleges and
-universities students can study the sciences---such as
-biology, chemistry, and physics---and social
-sciences---including economics, political science, and
-psychology. Students can study newer subjects, such as
-environmental science and neuroscience, and traditional
-ones, too.
-
-This same impression of breadth is given in the way defenses
-of liberal education present its skills apart from subjects.
-You can indeed learn anything, then, in learning *how* to
-learn. And this encompasses a range of skills similarly
-presented apart from subjects: how to read, how to write,
-how to speak, even how to think.[^ZakariaEarthly] St. John's
-current way of putting this is [to
-claim](<http://www.sjc.edu/about/why-sjc/>) that its
-students "learn to speak articulately, read attentively,
-reason effectively, and think creatively."
-
-[^ZakariaEarthly]: A good example of this is found in Fareed Zakaria, ["What is
-the Earthly Use of Liberal
-Education."](http://www.huffingtonpost.com/fareed-zakaria/fareed-zakaria-liberal-arts-education_b_5380896.html)
-
-In a similar vein, defenses of liberal education will call
-the liberal arts "transferable skills," [^transferable],
-again against the backdrop of an ever-changing job market.
-And "usefulness" has become a ubiquitous word to counter
-the opinion, and the traditional conviction, that the
-liberal arts are useless. <!--Bring "useless" back up
-later, and give a defense of it--> It is more generally the
-habit in defenses of liberal education to talk of the
-liberal arts as if they empowered us rather than enlightened
-us---the aforementioned [*Power of Liberal Arts*
-campaign](http://www.liberalartspower.org/Pages/default.aspx)
-being the most explicit example.
-
-[^Linker]: "How can liberal education be saved? By becoming truly, enduringly
-useful." <>
-
-[^transferable]: "Although modern liberal arts curriculums have an updated
-choice of a larger range of subjects, it still retains the
-core aims of the liberal arts curricula maintained by the
-medieval universities: to develop well-rounded individuals
-with general knowledge of a wide range of subjects and with
-mastery of a range of transferable skills. They will become
-‘global citizens’, with the capacity to pursue lifelong
-learning and become valuable members of their communities."
-<http://www.topuniversities.com/blog/what-liberal-arts-education>
-
-There are deeper strains in this line of defense, that
-try to reach beyond a liberal education's usefulness for any
-career, to the way it might be useful for life, making the
-self, in sense, the subject of its skills. A liberal arts
-education can be "truly, enduringly useful," so [one
-recent 
-defense puts
-it](http://theweek.com/articles/559681/how-save-liberal-arts-education),
-once it is "oriented
-towards the question of how to live." Or as President Nelson [has
-written](http://blogs.sjc.edu/christopher-nelson/2015/02/26/hiring-grads-whats-going-part-iv/): 
-
-> The primary purpose of college---contrary to the opinion of
-> hiring managers---is not to provide trained-up workers for
-> business, nor even to provide young people with the skills
-> needed to make a living. The primary purpose is to help
-> young people develop the character and the judgment to
-> shape a life worth living.
-
-In these appeals to the way a life might be shaped, defenses
-of liberal education might be said to deepen the sense in
-which liberal education is a matter of context, not content,
-by locating what is learned in a cultivated readiness for
-the world, whatever the world may hold. Here is how a recent
-St. John's graduate puts it: 
-
-> After my two-year commitment with Teach For America,
-I hope to continue my work in the field of education. But
-really, I can do anything. St. John’s has given me the
-tools: the ability to listen, to think, to speak, to write,
-and ultimately, to act. I need only to decide where to
-direct my passion, and the world is mine, thanks to the
-incredible education I have had the blessing to receive
-here. [^Tyson]
-
-[^Tyson]: This comes from Grace Tyson, ["'When You Know Better, You Do Better': A Senior's Reflections on St. John's](http://www.thejohnniechair.com/when-you-know-better-you-do-better-a-seniors-reflections-on-st-johns/). Parts of this address are also quoted in Christopher Nelson, [Is It Worth It?](http://www.huffingtonpost.com/christopher-nelson/is-it-worth-it_1_b_3321206.html).
-
-And there are ways to deepen this context still further; the
-most common being to take this readiness for the world as an
-openness to the world, whether the self so opened is
-described as curious, inquisitive, imaginative,
-self-critical, or sympathetic. Thus we find Martha Nussbaum,
-to pick on a famous example, [defending liberal
-education](http://net.educause.edu/ir/library/pdf/ff0709s.pdf)
-insofar as it develops
-
-1. The capacity for Socratic
-self-criticism and critical thought about one's own traditions.
-2. The ability to see oneself as a member of a heterogeneous nation
-and world.
-3. The ability to sympathetically imagine the lives of people different
-from oneself.
-
-And as suggested by Nussbaum's reference to Socrates, the
-sense in which a truly liberal education opens minds rather
-than closes them has particular appeal at St. John's, where
-it would now sound antiquated to claim, as Scott Buchanan
-did in the first catalog of the New Program, that the
-liberal arts put us in possession of the truth.[^Buchanan]
-What we say instead is self-consciously Socratic. Thus President 
-Nelson [will say that](http://blogs.sjc.edu/christopher-nelson/2014/10/20/knowing-learn/) "liberal education is the best and
-quickest way to become comfortable not
-knowing." [Or that](http://blogs.sjc.edu/christopher-nelson/2014/11/10/accountability-commodifying-examined-life/) "learning is grounded in recognition and
-acceptance of one’s own ignorance."
-Or as the same St. John's
-graduate I quoted earlier puts it: 
-
-> I have learned that great questions lead to more and more
-questions, not necessarily to answers, and I have learned
-that the greatness of the human spirit shows itself in just
-this realization. As Socrates says in Plato’s *Meno*: “We
-shall be better and braver and less helpless if we think
-that we ought to enquire, than we should have been if we
-indulged in the idle fancy that there was no knowing and no
-use in seeking to know what we do not know.” We must have
-intellectual bravery, that is, the courage to push forward,
-to continue seeking truth even in the face of doubts about
-its very existence.
-
-[^Buchanan]: "The arts of apprehending, understanding, and knowing the
-truth are the liberal arts, and they set their own ends."
-(*Bulletin of St. John's College in Annapolis, 1937--38*).
-
-It is this same Socratic self-consciousness that explains
-how St. John's can make even an all-required program of
-books, which might thought inescapably full of content, into
-a matter of context. For anything written down, we might
-claim, is simply doctrine, until a reader puts it into
-dialogue by questioning it rather than assimilating it. And
-underlying this shift from doctrine to dialogue is perhaps
-the deepest belief one can have about a truly liberal
-education: that we are only able to learn, truly learn,
-insofar as we do this for ourselves. It would seem to follow
-directly from this that *what* we learn is found indeed in
-the self, or even the soul, rather than in a set of
-subjects. And the more liberal an education becomes, so we
-could say, the more that *what* we learn is a matter of
-*how* we learn, and *who* we become in learning it. Which at
-this college, at least, means the more that any so-called
-subject is found in a book, which is found in a reader of
-that book, who is found in a conversation about that book,
-which brings the book to life, with all it may contain. And
-this conversation, both with others and with oneself, might
-then be said to exemplify the sense in which a liberal
-education is ultimately a matter of context rather than
-content. For this is an education in selfhood rather than
-subjects, where the something we finally learn is what it
-means to learn, and even what it means to love it.   
-
-The suspicion that a truly liberal education has no content,
-then, can be cast in terms that encompass what many of us,
-I think, might say a liberal education finally is, and where
-any appeal to a number of liberal arts seems beside the
-point. St. John's even tried dropping any reference to the
-liberal arts, along with any mention of liberal education,
-when it first launched its new website, as if indeed to
-forget the whole idea. But it did this, I think, to locate
-the place of a liberal education in the present rather than
-the past. It was only a matter of months before the college
-restored these references to its website, since there were
-prospective students still using such terms to find such
-things. But St. John's has otherwise remained embarked, like
-nearly every other liberal arts college in the country,
-on a communications project carried out in images rather
-than text, in the attempt not simply to say what a liberal
-education is, but to show it, and capture something about
-the *experience* of a liberal education when mere
-explanations are thought no longer enough. Gone are the days
-when the college could package its education, as it were, in
-a brown paper wrapper, as if the education were not only
-a matter of content, but the kind of content that couldn't
-be seen from outside. Even the first video St. John's made
-of itself, back in 1954, was mostly staged and performed
-in vignettes, retaining at least that much separation from
-the ongoing world. But it is just this separation that is
-now deemed better erased than preserved, leading to efforts
-that range from the Summer Academy to the college's
-Instagram feed, as if to give the impression that what
-separates the college from the outside world is only
-a window, and a window more often open than shut. At its
-worst, this project might be said to pander or flatter
-rather than inform or educate; but at its best, it might be
-said to make St. John's finally look like a college rather
-than a cult. Or to put the sense of this strategy more
-generally: it tries to defend liberal education by locating the place
-of liberal education *within* the world rather than apart from
-it. ---And this is perhaps the most visible way that a liberal
-education is now being made a matter of context rather than
-content. 
-
-[Back to top](#top)
 
 ## Part Two {#two}
 
