@@ -177,56 +177,50 @@ today?" And when I began my account of what puzzled me about
 it, I said that the question had to make sense in two ways
 at once: it had to make sense, first, *in advance of* any
 answer; but it *also* had to make sense *as asking for* an
-answer. Even this much about the question is puzzling; for
-it has to make sense, it seems, as if it were complete and
-incomplete at once.  But I think I could have said as much
-of *any* question; and in particular, of the kind of
-question that can become a question for all of us, and asks
-for an answer, then, possessed by none of us. Consider, as
-an example, a good opening question for seminar. Such
-a question seems complete, insofar as it can become
-a question for everyone in the room, tutors included, before
-the conversation begins. But such a question also seems
-incomplete, insofar it asks for an answer possessed by no
-one in the room, tutors included, which is *why* the
-conversation begins. But how such a question, or any
-question, be complete and incomplete at once? 
- 
-This puzzle about questions, I think, is also a predicament,
-that makes the opening question of a seminar fragile, and
-that kind of question more generally suspect. For suppose
-that such questions do ask for answers possessed by none of
-us, at least in the sense that you alone possess the answer
-to my question about what you had for lunch today. This may
-explain why such questions can become questions for all of
-us, and why one might spend a lifetime thinking about them,
-talking about them, writing about them. But it could 
-just as well explain why such questions are questions for none
-of us; why questions without answers in this sense are
-hopeless, pointless, useless, meaningless; and why a life
-devoted to them would be fruitless, worthless. (Point
-out completeness here.)
+answer. Even my saying this much captures what puzzles me
+about the question. For it has to make sense, it seems, as
+if it were complete and incomplete at once. And I think
+I could have said as much of *any* question; and in
+particular, of the kind of question we ask at the college.
+The kind of question I asked you about lunch, we might say,
+is a question for me but not for you; and it asks for an
+answer possessed by you but not by me. But the kind of
+question we ask the college---for example, in the opening
+question of a seminar---is more radical. It is a question
+for all of us, before the conversation begins, that asks for
+an answer possessed by none of us, which is *why* the
+conversation begins. But the way this kind of question is
+radical turns the puzzle into a predicament, where the
+question is not just radical but fragile. For questions
+without answers in this sense can be dismissed as hopeless,
+pointless, useless, meaningless---as if these were questions
+for none of us rather than all of us, precisely in asking
+for answers possessed by none of us. And there is something
+in this dismissiveness. For if a question is so incomplete
+as to ask for an answer in no one's possession, then how can it
+still be complete enough to *be* a question. 
 
-, that these are really
-questions for none of us, and that a life devoted to them is
-diseased. and that a life devoted to them is  But why think
-that questions without answers in this sense make them
-questions for all of us, and  We might think that questions
-without answers in this sense make them real,questions for
-all of us, and why we might spend a lifetime thinking and
-talking about them. But why shouldn't we rather think this
-is why they are questions for none of us, why questions
-without answers in this sense are hopeless, or pointless, or
-useless, or meaningless. If a questions asks for an answer
-possessed by none of us, it should not be a question for any
-of us, and to claim it as a question for all of us. as if
-the sense in which they asked for answers possessed by none
-of us went hand-in-hand with the sense in which they ought
-to be questions for none of us.. Mention how this means it
-isn't a question for all of us? Why is there something
-question all encompassing as question, but in then denying
-anyone an answer, why should we regard it as a real question
-at all, much less the deepest question there is. 
+, that these are
+really questions for none of us, and that a life devoted to
+them is diseased. and that a life devoted to them is  But
+why think that questions without answers in this sense make
+them questions for all of us, and  We might think that
+questions without answers in this sense make them
+real,questions for all of us, and why we might spend
+a lifetime thinking and talking about them. But why
+shouldn't we rather think this is why they are questions for
+none of us, why questions without answers in this sense are
+hopeless, or pointless, or useless, or meaningless. If
+a questions asks for an answer possessed by none of us, it
+should not be a question for any of us, and to claim it as
+a question for all of us. as if the sense in which they
+asked for answers possessed by none of us went hand-in-hand
+with the sense in which they ought to be questions for none
+of us.. Mention how this means it isn't a question for all
+of us? Why is there something question all encompassing as
+question, but in then denying anyone an answer, why should
+we regard it as a real question at all, much less the
+deepest question there is. 
 
 this can pose
 a threat to its remaining a question for all of us, it can be
