@@ -203,14 +203,15 @@ it still be complete enough to *be* a question?
 
 This brings me, then, to my example of a seemingly profound
 question: Why is there something rather than nothing? For
-any answer to this question would seem to be something
+any answer to this question would seem to involve something
 rather than nothing, which the question then obliges us to
 explain in yet another answer, leading to an infinite
-regress of answers, and as if the question were asking for
-an answer only to swallow it, so that no one could ever
-possess it. But does this mean that the question is truly
-profound? The deepest question there is? Or does it mean
-that the question is not really a question at all? 
+regress of answers, as if the question were asking for an
+answer only to swallow it, so that no one could ever possess
+it. But does this mean that the question is truly profound?
+Even the deepest question there is? The question of
+questions? Or does it mean that the question is not really
+a question at all? 
 
 ## Part Two
 
