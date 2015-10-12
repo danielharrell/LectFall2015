@@ -160,16 +160,94 @@ nearby formulation of question?--> For there is no date, evidently,
 that the word "today" takes the place of; and this allows it
 to refer to any day, in referring to just one.   
 
-Why is this essential to questions more generally? The
-pronoun problem is an emblem of something essential,
-and puzzling, in questions more generally. In some
-sense, they provide beginnings. Which means they have
-to stand apart but still call forth. The reference
-being general connects to standing apart, to not
-having to be elaborated. Yet they must ask to be
-elaborated, which indicates being specific, of
-pointing. Use confessions of ignorance, but directions
-for inquiry. 
+Now, at this point, I can see at least two issues with what
+I have so far said about the question, "what did you have
+for lunch today". One is simply that my account of what is
+puzzling about it might be wrong, in part or whole. Another
+is that my account focuses on what is puzzling in this
+question, but not in questions more generally. So before
+I turn to the second part of my lecture, I want give a brief
+but broader account of what puzzles me about this question.
+For I take it to be emblematic of something puzzling about
+questions more generally, and especially those questions so
+important to our college. When I began my account of what
+puzzled me about the question "what did you have for lunch
+today", I said that the question had to make sense in two
+ways at once: it had to make sense, first, *in advance of*
+any answer; but it *also* had to make sense *as asking for*
+an answer. 
+
+But I think I could have said this of any question; and in
+particular, of the kind of question that can become
+a question for all of us, as it then asks for an answer
+possessed by none of us. And the puzzle, then, is how
+a question can make sense in both ways at once. Or more
+briefly put, the puzzle is how questions are possible. Consider
+a really good opening question for seminar, that starts
+a really good conversation. On the one hand the question makes
+the kind of sense that allows it to become a question for everyone
+in the room, tutors included, before the conversation begins. 
+But in that sense, then, the
+question will somehow stand on its own, somehow be complete.
+But the question will *also* make sense as
+asking for an answer, Yet if the question also makes
+sense as asking for an answer, and especially the kind of
+sense where it can ask for an answer possessed by none of
+us, then the question must somehow be incomplete. But how
+can a question be both complete and incomplete at once? And
+this puts the puzzle in questions abstractly; concretely, we
+might think of the puzzle as a predicament. For what can
+pose a threat to a question's becoming a question for all
+us, is precisely when it then asks for an answer possessed
+by none of us, and it is tempting ,then, to dismiss the
+question as hopeless, or pointless.
+
+this can pose
+a threat to its remaining a question for all of us, it can be
+tempting to dismiss the question as hopeless, or pointless, as
+if the sense in which the question is asking for an answer
+posed a challenge to the sense in which 
+Or I can put the puzzle in more concrete terms, and in light
+of the central place that questions have at the college. In
+that context, we might say that there are certain
+questions---the opening question of a seminar, for
+example---that make the kind of sense that allows them to
+become questions for all of us. or have to make the kind of
+sense that allows them to become questions for all of usn
+the one hand, we consider 
+
+making
+sense in advance of any answer suggests a completeness
+in the question, to
+make sense in advance of any answer suggests that the
+question is complete, seems to mean that
+the question must 
+
+
+
+When I (say that questions have
+to make sense in two ways at once: they have to make sense
+in advance of any answer, but also as asking for an answer)
+
+what puzzles me about questions,
+and that I take what puzzles me in this question to be that
+depends on nothing I have said about thevery question, or at
+least in questions more generally. , In the first part,
+I will use my example of a clearly prosaic question---what
+did you have for lunch today?---to reflect on a feature of
+questions I find essential, yet puzzling, even
+paradoxical.Why is this essential to questions more
+generally? The pronoun problem is an emblem of something
+essential, and puzzling, in questions more generally. In
+some sense, they provide beginnings. Which means they have
+to stand apart but still call forth. The reference being
+general connects to standing apart, to not having to be
+elaborated. Yet they must ask to be elaborated, which
+indicates being specific, of pointing. Use confessions of
+ignorance, but directions for inquiry. 
+
+Note that at St. John's, we expect questions to be repeatable,
+but also as if we can take them up.
 
 One might think of this pronoun and today as peculiar to my
 question. But , , which uses another pronoun "I" in place of "you".
