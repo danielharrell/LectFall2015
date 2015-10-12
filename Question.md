@@ -67,14 +67,17 @@ the lecture to follow, and what to make of where it goes.
 I do know I've divided it into two parts. In the first part,
 I will use my example of a clearly prosaic question---what
 did you have for lunch today?---to reflect on a feature of
-questions I find at once essential yet puzzling, even
-paradoxical.  Then, in the second part of the lecture, I will
-use my example of a seemingly profound question---why is
-there something rather than nothing?---to try to solve the
-puzzle, resolve the paradox; but with a suspicion that at
-best I've only deepened it; and at worst, gotten myself
-stuck. (The lecture also has an epilogue, which I'll read if
-I'm still within the hour by then.)   
+questions I find essential, yet puzzling, even paradoxical.
+<!--Make sure to mention that my pronomial analysis of "What
+did you have for lunch today? can be applied to questions
+more generally, as their essential feature--> Then, in the
+second part of the lecture, I will use my example of
+a seemingly profound question---why is there something
+rather than nothing?---to try to solve the puzzle, resolve
+the paradox; but with a suspicion that at best I've only
+deepened it, and at worst, gotten myself stuck. (The lecture
+also has an epilogue, which I'll read if I'm still within
+the hour by then.)   
 
 ## Part One
 
@@ -87,7 +90,7 @@ a question-mark at the end. The verb "to do" appears in my
 sentence but not in yours, presumably to help produce the
 inversion of subject and verb that belongs to the syntax of
 questions, at least in English. But there is another word,
-the word "what", not found in your sentence even though it
+not found in your sentence, the word "what", that 
 begins mine, as if to announce that what follows this word
 will belong to a question rather than an answer. Let us
 suppose, then, that what makes my sentence *the question* in
@@ -95,64 +98,73 @@ our exchange has something essential to do with my use of
 the word "what". So how am I using it? 
 
 I am using it, evidently, to ask you *what* you had for
-lunch. And the grammatical role it plays seems clear enough.
-It functions, so we say, as a pronoun. And this means, we
-might presume, that it is taking the place of a noun. But
-what noun? Again, we might presume this would be whatever
-noun, or noun-phrase, identifies what you had for lunch. In
-this case, then, the noun would be "pizza." But there is
-already a problem with this analysis, or at least a puzzle.
-It gives a fair enough explanation, I think, of how you
-might use the pronoun "what" in your answer; for example, if
-you were to say: "what I had for lunch today was pizza". But
-since my question precedes your answer, and prompts your
-answer, it presumably makes sense in advance of your answer,
-no matter the answer, even if the answer were "I had nothing
-for lunch today; I was too busy to eat." But this suggests
-that when *I* use the pronoun "what" in my question, it
-cannot take the place of *any* noun, lest my question turn
-into the answer. But then am I *not* using the word "what"
-in my question as a pronoun? This can't quite be right
-either. For even if my question makes sense in advance of
-any answer, as a question it asks for an answer; and in this
-case for the very answer you give about what you had for
-lunch. Indeed, in this direction, we might say that the noun
-"pizza" is too general, rather than too specific, to have
-been replaced in advance by the pronoun "what" in my
-question. In asking you what you had for lunch, after all,
-I am asking you about the very piece of pizza you had for
-lunch, all other pizza aside. 
+lunch. And the grammatical role it plays in my sentence
+seems clear enough. It functions, so we say, as a pronoun.
+And this means, we might presume, that it is taking the
+place of a noun. But what noun? Again, we might presume this
+would be whatever noun, or noun-phrase, identifies what you
+had for lunch. In this case, then, the noun would be
+"pizza." But there is already a problem with this analysis,
+or at least a puzzle. It gives a fair enough explanation,
+I think, of how you might use the pronoun "what" in your
+answer; for example, if you were to say: "what I had for
+lunch today was pizza". But since my question precedes your
+answer, and prompts your answer, it presumably makes sense
+in advance of your answer, no matter the answer, even if the
+answer were "I had nothing for lunch today; I was too busy
+to eat." But this suggests that when *I* use the pronoun
+"what" in my question, it cannot take the place of *any*
+noun, lest my question turn into the answer. But then am
+I *not* using the word "what" in my question as a pronoun?
+There is a problem with this possibility too. For even if my
+question makes sense in advance of any answer, as a question
+it asks for an answer; and in this case for the very answer
+you give about what you had for lunch. Indeed, in this
+direction, we might say that the noun "pizza" is too
+general, rather than too specific, to have been replaced in
+advance by the pronoun "what" in my question. After all, in
+asking you what you had for lunch, I am asking you about the
+very piece of pizza you had for lunch, all other pizza
+aside. 
 
 But what should we make, then, of my use of the word "what"?
 If my question is to make sense in advance of your answer,
-then this pronoun will have to take the place of *whatever*
-you might have had for lunch, as if its reference to your
-lunch were indeterminate. Yet if my question is to make
+then this pronoun, if it *is* a pronoun, will have represent
+*whatever* you might have had for lunch, as if its reference
+to your lunch were indefinite. Yet if my question is to make
 sense as *asking* for your answer, then this pronoun will
-have to take the place of *exactly* what you had for lunch,
-as if its reference to your lunch were determinate, even
-singular. And since I only have to ask the question once, we
-can presume that the pronoun "what" is somehow making both
-references at once, as if it could take the place of
-any lunch you might have had and the one lunch you actually had
-at the very same time. But what kind of pronoun,
-then, is this?
+have to represent *exactly* what you had for lunch, as if
+its reference to your lunch were definite, even unique. And
+since I only have to ask the question once, we can presume
+that the pronoun "what" is somehow making both references at
+once, as if it could take the place of any lunch you might
+have had and the one lunch you actually had at the very same
+time. But what kind of pronoun is this?
 
-There is another pronoun in my question, and it seems
-related to the first. For my question is not about what
-anyone else had for lunch, but just about what *you* had for
-lunch. So what kind of pronoun is this? Well, it can begin
-to look a lot like the pronoun "what". The noun, or name,
-that "you" might be replacing is nowhere to be found in my
-question, or even in your answer; and yet the question can
-still be asked, and answered. And this lack of name or noun
-for the pronoun "you" seems connected to the way that in
-using it, I can address my question to all of you, yet
-somehow mean each of you, in something like the way I can
-use "what" to make my question about whatever you might have
-had for lunch, yet mean the one thing you actually had for
-lunch. Use taking the place of language for "you". Mention
-today. 
+There is another pronoun like this in my question, as it
+happens, related to the first. For my question is about what
+*you* had for lunch. And this means,
+evidently, that I can use the pronoun "you", without any
+reference to a noun it might have replaced, to address my
+question to each of you, as if my reference to you both
+included and excluded anyone else, at least in the audience.
+And this seems something like the way I can use the pronoun
+"what", again without reference to any noun it might have
+replaced, to ask my question about *what* you had for lunch,
+as if my reference to your lunch both included and excluded
+anything else, at least that was edible and available. 
+
+yet somehow mean just you,
+The noun, or name, that "you" might be replacing is nowhere
+to be found in my question, or even in your answer; and yet
+the question can still be asked, and answered. And this lack
+of name or noun for the pronoun "you" seems connected to the
+way that in using it, I can address my question to all of
+you, yet somehow mean each of you, in something like the way
+I can use "what" to make my question about whatever you
+might have had for lunch, yet mean the one thing you
+actually had for lunch. Use taking the place of language for
+"you". Mention today. 
 
 One might think of this pronoun and today as peculiar to my
 question. But , , which uses another pronoun "I" in place of "you".
@@ -168,7 +180,10 @@ question even more puzzling.
 Make larger question about what makes questions
 intelligible, even possible. (Underline possible.)
 Intelligible enough to stand on their own, but compelling
-enough to call forth a reply. WHat is strange is that the
+enough to call forth a reply. Permanent enough to
+remain questions yet compelling enough to produce
+answers. Distinguish practical from theoretical questions.
+WHat is strange is that the
 more independent they are, the more compelling they are.
 telligible they are on their own, the more compelling in
 calling forth a response they seem to be. Why is there
@@ -469,6 +484,7 @@ nothing. How can we point to absence?
 (Note later that descriptions, not pointing, exclude sense
 in which the description can be about me.) Link to
 intelligibility. 
+
 
 ## Part One [one]
 
