@@ -202,9 +202,17 @@ as to ask for an answer in no one's possession, then how can
 it still be complete enough to *be* a question? 
 
 This brings me, then, to my example of a seemingly profound
-question: Why is there something rather than nothing?
-(Mention how answer gets swallowed, then ask so is the
-question really profound? Is this question even a question?
+question: Why is there something rather than nothing? For
+any answer to this question would seem to be something
+rather than nothing, which the question then obliges us to
+explain in yet another answer, leading to an infinite
+regress of answers, and as if the question were asking for
+an answer only to swallow it, so that no one could ever
+possess it. But does this mean that the question is truly
+profound? The deepest question there is? Or does it mean
+that the question is not really a question at all? 
+
+## Part Two
 
 a question of the night. 
 , that these are
