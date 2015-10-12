@@ -143,28 +143,32 @@ time. But what kind of pronoun is this?
 
 There is another pronoun like this in my question, as it
 happens, related to the first. For my question is about what
-*you* had for lunch. And this means,
-evidently, that I can use the pronoun "you", without any
-reference to a noun it might have replaced, to address my
-question to each of you, as if my reference to you both
-included and excluded anyone else, at least in the audience.
-And this seems something like the way I can use the pronoun
-"what", again without reference to any noun it might have
-replaced, to ask my question about *what* you had for lunch,
-as if my reference to your lunch both included and excluded
-anything else, at least that was edible and available. 
+*you* had for lunch. And this means, evidently, that I can
+use the pronoun "you", without any reference to a noun it
+might have replaced, to address my question to each of you,
+as if my reference to you both included and excluded anyone
+else, at least in the audience. And this seems something
+like the way I can use the pronoun "what", again without
+reference to any noun it might have replaced, to ask my
+question about *what* you had for lunch, as if my reference
+to your lunch both included and excluded anything else, at
+least that was edible and available. And there is yet
+another word in my question, the word "today", that seems to
+make the same double reference, as if it too were the same
+kind of pronoun. For there is no date, evidently, that the
+word "today" takes the place of; and this allows it refer
+to any day in referring to just one.   
 
-yet somehow mean just you,
-The noun, or name, that "you" might be replacing is nowhere
-to be found in my question, or even in your answer; and yet
-the question can still be asked, and answered. And this lack
-of name or noun for the pronoun "you" seems connected to the
-way that in using it, I can address my question to all of
-you, yet somehow mean each of you, in something like the way
-I can use "what" to make my question about whatever you
-might have had for lunch, yet mean the one thing you
-actually had for lunch. Use taking the place of language for
-"you". Mention today. 
+Why is this essential to questions more generally? The
+pronoun problem is an emblem of something essential,
+and puzzling, in questions more generally. In some
+sense, they provide beginnings. Which means they have
+to stand apart but still call forth. The reference
+being general connects to standing apart, to not
+having to be elaborated. Yet they must ask to be
+elaborated, which indicates being specific, of
+pointing. Use confessions of ignorance, but directions
+for inquiry. 
 
 One might think of this pronoun and today as peculiar to my
 question. But , , which uses another pronoun "I" in place of "you".
