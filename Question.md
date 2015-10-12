@@ -219,21 +219,22 @@ So, why *is* there something rather than nothing? Or suppose
 I ask myself this, but you overhear me, and reply, "why
 would you ask a question like that?" Well, why *would* I ask
 a question like that? One reason I would ask it, I think,
-emerges if we suppose I asked a slightly different question:
-"why is there *this* rather than *that*?" For example, why
-is there a podium in front of me, and not a table, or even
-just the air of the auditorium? And let us suppose I could
-answer every such question, even the question why is *this*
-the world rather than *that*, where *that* referred to any
-world I might imagine in this world's place. I might still
-have the unsettling sense that all my answers put together left
-a question unanswered, about why the podium was
-anything at all, why the world was anything at all. Or
-again, why there is something rather than nothing.
+begins to emerge if we supposed I asked a different, but
+seemingly related question: "why is there *this* rather than
+*that*?" For example, why is there a podium in front of me,
+and not a table, or even just the air of the auditorium? And
+let us suppose I could answer every such question, about
+everything there was, even about why *this* is the
+world rather than *that*, where *that* referred to any world
+I might imagine in this world's place. 
 
-But why would I have this unsettling sense? One reason
-I might have it, I think, emerges if we suppose I asked my
-question about this rather than that, not of the podium in
+I might still have the unsettling sense that all my answers
+put together left one question unanswered, about why the
+podium was anything at all, why the world was anything at
+all. Or again, why there is something rather than nothing.
+But why would I have this sense? Well suppose I asked my
+different question again, about why is there this rather than that,
+but that I asked it not of the podium in
 front of me, but instead of me myself. Why am *I* in front
 of the podium, and not someone else? At first glance, it can
 seem as if this question is just like the question about why
@@ -243,7 +244,7 @@ something you can see as well. And in one sense, you can see
 me behind the podium as well. But in another sense you
 can't. You see someone behind the podium, to be sure; and we
 can even grant that he is me. But what makes him me? And why
-is his point of view, behind this podium, *my* point of
+is his point of view, *behind* this podium, *my* point of
 view? 
 
 [Bring up paragraph below, about the genetic account; and then
