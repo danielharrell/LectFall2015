@@ -144,20 +144,21 @@ time. But what kind of pronoun is this?
 There is another pronoun like this in my question, as it
 happens, related to the first. For my question is about what
 *you* had for lunch. And this means, evidently, that I can
-use the pronoun "you", without any reference to a noun it
+use the pronoun "you", without any dependence on a name it
 might have replaced, to address my question to each of you,
 as if my reference to you both included and excluded anyone
-else, at least in the audience. And this seems something
-like the way I can use the pronoun "what", again without
-reference to any noun it might have replaced, to ask my
-question about *what* you had for lunch, as if my reference
-to your lunch both included and excluded anything else, at
-least that was edible and available. And there is yet
-another word in my question, the word "today", that seems to
-make the same double reference, as if it too were the same
-kind of pronoun. For there is no date, evidently, that the
-word "today" takes the place of; and this allows it refer
-to any day in referring to just one.   
+else, at least in the audience. And this seems
+something like the way I can use the pronoun "what", again
+without any dependence on a noun it might have replaced, to
+ask my question about *what* you had for lunch, as if my
+reference to your lunch both included and excluded anything
+else, at least that was edible and available. And there is
+yet another word in my question, the word "today", that
+seems to make the same double reference, as if it too were
+the same kind of pronoun. <!--Perhaps put "today" in
+nearby formulation of question?--> For there is no date, evidently,
+that the word "today" takes the place of; and this allows it
+to refer to any day, in referring to just one.   
 
 Why is this essential to questions more generally? The
 pronoun problem is an emblem of something essential,
