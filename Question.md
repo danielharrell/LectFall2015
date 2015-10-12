@@ -161,46 +161,72 @@ that the word "today" takes the place of; and this allows it
 to refer to any day, in referring to just one.   
 
 Now, at this point, I can see at least two issues with what
-I have so far said about the question, "what did you have
-for lunch today". One is simply that my account of what is
-puzzling about it might be wrong, in part or whole. Another
-is that my account focuses on what is puzzling in this
-question, but not in questions more generally. So before
-I turn to the second part of my lecture, I want give a brief
-but broader account of what puzzles me about this question.
-For I take it to be emblematic of something puzzling about
-questions more generally, and especially those questions so
-important to our college. When I began my account of what
-puzzled me about the question "what did you have for lunch
-today", I said that the question had to make sense in two
-ways at once: it had to make sense, first, *in advance of*
-any answer; but it *also* had to make sense *as asking for*
-an answer. 
+I have so far said about my question. One is simply that my
+account of what is puzzling in it might be wrong, in part or
+whole. Another is that my account focuses on what is
+puzzling in this question, but not in questions more
+generally. So before I turn to the second part of my
+lecture, I want give a brief but broader account of what
+puzzles me about this question. For I take it to be
+emblematic of something puzzling about questions more
+generally, and especially those questions so important to
+our college. 
 
-But I think I could have said this of any question; and in
-particular, of the kind of question that can become
-a question for all of us, as it then asks for an answer
-possessed by none of us. And the puzzle, then, is how
-a question can make sense in both ways at once. Or more
-briefly put, the puzzle is how questions are possible. Consider
-a really good opening question for seminar, that starts
-a really good conversation. On the one hand the question makes
-the kind of sense that allows it to become a question for everyone
-in the room, tutors included, before the conversation begins. 
-But in that sense, then, the
-question will somehow stand on its own, somehow be complete.
-But the question will *also* make sense as
-asking for an answer, Yet if the question also makes
-sense as asking for an answer, and especially the kind of
-sense where it can ask for an answer possessed by none of
-us, then the question must somehow be incomplete. But how
-can a question be both complete and incomplete at once? And
-this puts the puzzle in questions abstractly; concretely, we
-might think of the puzzle as a predicament. For what can
-pose a threat to a question's becoming a question for all
-us, is precisely when it then asks for an answer possessed
-by none of us, and it is tempting ,then, to dismiss the
-question as hopeless, or pointless.
+So again, my question was, "What did you have for lunch
+today?" And when I began my account of what puzzled me about
+it, I said that the question had to make sense in two ways
+at once: it had to make sense, first, *in advance of* any
+answer; but it *also* had to make sense *as asking for* an
+answer. Even this much about the question is puzzling; for
+it has to make sense, it seems, as if it were complete and
+incomplete at once.  But I think I could have said as much
+of *any* question; and in particular, of the kind of
+question that can become a question for all of us, and asks
+for an answer, then, possessed by none of us. Consider, as
+an example, a good opening question for seminar. Such
+a question seems complete, insofar as it can become
+a question for everyone in the room, tutors included, before
+the conversation begins. But such a question also seems
+incomplete, insofar it asks for an answer possessed by no
+one in the room, tutors included, which is *why* the
+conversation begins. But how such a question, or any
+question, be complete and incomplete at once? 
+ 
+This puzzle about questions, I think, is also a predicament,
+that makes the opening question of a seminar fragile, and
+that kind of question more generally suspect. For suppose
+that such questions do ask for answers possessed by none of
+us, at least in the sense that you alone possess the answer
+to my question about what you had for lunch today. This may
+explain why such questions can become questions for all of
+us, and why one might spend a lifetime thinking about them,
+talking about them, writing about them. But it could 
+just as well explain why such questions are questions for none
+of us; why questions without answers in this sense are
+hopeless, pointless, useless, meaningless; and why a life
+devoted to them would be fruitless, worthless. (Point
+out completeness here.)
+
+, that these are really
+questions for none of us, and that a life devoted to them is
+diseased. and that a life devoted to them is  But why think
+that questions without answers in this sense make them
+questions for all of us, and  We might think that questions
+without answers in this sense make them real,questions for
+all of us, and why we might spend a lifetime thinking and
+talking about them. But why shouldn't we rather think this
+is why they are questions for none of us, why questions
+without answers in this sense are hopeless, or pointless, or
+useless, or meaningless. If a questions asks for an answer
+possessed by none of us, it should not be a question for any
+of us, and to claim it as a question for all of us. as if
+the sense in which they asked for answers possessed by none
+of us went hand-in-hand with the sense in which they ought
+to be questions for none of us.. Mention how this means it
+isn't a question for all of us? Why is there something
+question all encompassing as question, but in then denying
+anyone an answer, why should we regard it as a real question
+at all, much less the deepest question there is. 
 
 this can pose
 a threat to its remaining a question for all of us, it can be
