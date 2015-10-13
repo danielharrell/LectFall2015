@@ -216,32 +216,49 @@ a question at all?
 ## Part Two
 
 So, why *is* there something rather than nothing? Or suppose
-I ask myself this, but you overhear me, and reply, "why
-would you ask a question like that?" Well, why *would* I ask
-a question like that? One reason I would ask it, I think,
-begins to emerge if we supposed I asked a different, but
-seemingly related question: "why is there *this* rather than
-*that*?" For example, why is there a podium in front of me,
-and not a table, or even just the air of the auditorium? And
-let us suppose I could answer every such question, about
-everything there was, even about why *this* is the
-world rather than *that*, where *that* referred to any world
-I might imagine in this world's place. 
+I ask myself this question, and then start to wonder why
+I feel moved to ask. Here is one account, a grammatical
+account, of what might move me. When I ask why there is
+something rather than nothing, it seems clear that I don't
+mean to ask merely why there is something rather than
+something *else*. It is one thing to ask myself why there is
+a podium in front of me rather than something else, like
+a table, or a chair, or even just the air of the auditorium.
+And it is another thing to ask why there is a podium in
+front of me rather than nothing at all. Or to broaden my
+object as far as possible, it is one thing to ask myself why
+the world is the something it is rather than something else,
+where "something else" meant any world I might imagine in
+this world's place. And it is another thing to ask myself
+why the world is anything at all. Or why there is something,
+then, rather than nothing. But what would lead me from the
+first kind of question to the second? What would lead me,
+that is, to suppose it were possible, or at least
+intelligible, that anything in the world, or even the whole
+world, might be nothing rather than something? Can I even
+use the word "nothing", and not mean something? What am
+I supposed to think of when I use that word? Or am I not
+supposed to think of anything? But then am I thinking at
+all?   
 
-I might still have the unsettling sense that all my answers
-put together left one question unanswered, about why the
-podium was anything at all, why the world was anything at
-all. Or again, why there is something rather than nothing.
-But why would I have this sense? Well suppose I asked my
-different question again, about why is there this rather than that,
-but that I asked it not of the podium in
-front of me, but instead of me myself. Why am *I* in front
-of the podium, and not someone else? At first glance, it can
-seem as if this question is just like the question about why
-there's a podium in front of me and not a table. But there's
-a crucial difference. For the podium in front of me is
-something you can see as well. And in one sense, you can see
-me behind the podium as well. But in another sense you
+This focuses our attention on what might count as
+a meaningful use of the word "nothing" when I ask a question
+about something. And I can think of one situation, at least,
+where the word "nothing" seems to mean something, as it
+were. Suppose I return to my question of why there is
+something rather than something else, but ask this question
+not of the podium in front of me, but rather of the person
+behind it. Why am *I* in front of the podium, and not
+someone else? Well, (mention scheduling of lecture, then the
+more general account, then what's missing from it). And
+again let us suppose I could answer this question, (bring up
+genetic account). At first glance, it can seem as if this
+question is just like the question about why there's
+a podium in front of me and not a table. (Bring genetic
+account up here, then go to rest of this paragraph.) But
+there's a crucial difference. For the podium in front of me
+is something you can see as well. And in one sense, you can
+see me behind the podium as well. But in another sense you
 can't. You see someone behind the podium, to be sure; and we
 can even grant that he is me. But what makes him me? And why
 is his point of view, *behind* this podium, *my* point of
