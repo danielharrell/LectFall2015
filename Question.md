@@ -249,42 +249,47 @@ were. Suppose I return to my question of why there is
 something rather than something else, but ask this question
 not of the podium in front of me, but rather of the person
 behind it. Why am *I* in front of the podium, and not
-someone else? Well, (mention scheduling of lecture, then the
-more general account, then what's missing from it). And
-again let us suppose I could answer this question, (bring up
-genetic account). At first glance, it can seem as if this
-question is just like the question about why there's
-a podium in front of me and not a table. (Bring genetic
-account up here, then go to rest of this paragraph.) But
-there's a crucial difference. For the podium in front of me
-is something you can see as well. And in one sense, you can
-see me behind the podium as well. But in another sense you
-can't. You see someone behind the podium, to be sure; and we
-can even grant that he is me. But what makes him me? And why
-is his point of view, *behind* this podium, *my* point of
-view? 
+someone else? Well, for one thing, it was *my* lecture
+scheduled for tonight rather than someone else's. And *my*
+choice to give a lecture that led to the scheduling. And we
+might continue in this vein to elaborate an answer to my
+question, going back in time to my appointment at the
+college, to my birth, my parents' birth, my grandparents',
+even back to some origin of the world as such. But even this
+elaborate an answer might be thought to leave something in
+my question unaddressed: namely, why am *I* the person this
+answer puts so convincingly behind the podium tonight? Why is his
+point of view, behind this podium, *my* point of view? Why is
+*his* lecture *mine*? Why is the person you see and hear
+before you *me*? (Say that my question has a doubleness,
+contained in the pronoun "I": for in one sense, the sense
+of my elaborate answer, it is no different from the pronoun
+"he", under a particular proper name, and why I am here rather
+than someone else, in the sense that he is here rather than
+someone else. But in another sense it is unique, and it
+is about why I am this person and no one else. Need to clarify
+this.)
 
-[Bring up paragraph below, about the genetic account; and then
+But then the question "Why is there something rather than
+nothing?" would seem to have no answer, at least when
+directed at me---when the question becomes: "Why am *I*
+something rather than nothing?" 
+
+Bring up paragraph below, about the genetic account; and then
 point out that the answer I am looking for seems to be not
 about why am I me rather than someone else, but why I am
-me and *no one else). 
-This question can be even more unsettling when we start to
-wonder what the answer could be. Surely it would encompass
-my own birth, and that of my parents, my grandparents, and
-so on, back to some origin of the world as such. But would
-the answer thereby encompass me?  It's easy to doubt it. It
-can seem, in fact, as if the answer in this sense might
-exhaustively explain my existence in the world,
-yet without explaining---or even acknowledging---how
-that existence is indeed *mine*, and no one else's. And
-it can start to look as if the origin of my own point of
-view upon the world, as indeed my own, escapes, or perhaps I
-should say surpasses, all explanation.  But then the
-question "Why is there something rather than nothing?"
-would seem to have no answer, at least when directed
-at me---when the question becomes: "Why am *I* something
-rather than nothing?"
+me and *no* one else. 
 
+But would the
+answer thereby encompass me?  It's easy to doubt it. It can
+seem, in fact, as if the answer in this sense might
+exhaustively explain my existence in the world, yet without
+explaining---or even acknowledging---how that existence is
+indeed *mine*, and no one else's. And it can start to look
+as if the origin of my own point of view upon the world, as
+indeed my own, escapes, or perhaps I should say surpasses,
+all explanation.  This question can be even more unsettling when we start to
+wonder what the answer could be. 
 More unsettling still, it is through this same point of
 view, this seemingly inexplicable point of view, that the
 world gains its very presence. Leaving the source of its
