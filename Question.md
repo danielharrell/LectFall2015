@@ -222,19 +222,19 @@ I ask myself this question, and then start to wonder why
 I feel compelled to ask. Here is one way to think about what
 might compel me. When I ask why there is something rather
 than nothing, I don't mean to ask merely why there is
-something rather than something *else*. It is one thing
-to ask myself why there is a podium in front of me
-rather than something else, like a table, or a chair, or
-even just the air in the hall. But it seems to be
-another thing to ask why there is a podium in front of me
-rather than nothing at all. But what would lead me from the
-first kind of question to the second? What would lead me,
-that is, to suppose it were possible, even intelligible,
-that something in the world might be nothing, rather than
-merely something else? Can I even use the word "nothing",
-and *not* mean something? What am I supposed to think of,
-when I use it? Or am I not supposed to think
-of anything? But then am I thinking at all?   
+something rather than something *else*. It is one thing to
+ask myself why there is a podium in front of me rather than
+something else, like a table, or a chair, or even just the
+air in the hall. But it seems to be another thing to ask why
+there is a podium in front of me rather than nothing at all.
+But what would lead me from the first kind of question to
+the second? What would lead me, that is, to suppose it were
+possible, even intelligible, that something in the world
+might be nothing, rather than merely something else? Can
+I even use the word "nothing", and *not* mean something?
+When I use it, what am I supposed to think of? Or am I not
+supposed to think of anything? But then am I thinking at
+all?   
 
 But now suppose I ask myself why the someone behind this
 podium right now is me, rather than someone else. In one
@@ -251,16 +251,51 @@ answer puts so convincingly behind the podium tonight? Why
 is his point of view *my* point of view? Why is *his*
 lecture *mine*? Why is he *me*?  
 
-(Mention one interpretation of this, that I might be anyone,
-but the other interpretation as that I might be no one.)
-r to put this a different way: why must the pronoun "I" or
-"me" refer to *anyone* in this case, even granting that if
-it did refer to anyone in this case, it would refer to the
-one person behind the podium? I put it this last way because
-it suggests that I am using pronouns now, in asking why he
-is me, to make a double reference even more puzzling than
-the one I was making before, when I asked you what you had
-for lunch. For in that case, I was referring at once to
+But what could I mean here by the pronoun "me", or "I", as
+distinguished from "he"?  For both pronouns refer
+in this case to the same person behind the podium, and
+the question as
+if my question were answered about why the person behind the
+podium is me rather than someone else. behind the podium is
+me rather than someone else, I'm the one behind the podium
+seems fully answered. So what is still left unaccounted for
+After all, I seem to be granting that both sets of pronouns
+refer to the same person behind the podium, and in this
+sense, the answer to my question is sufficient. So what does
+the answer still leave unaddressed, that compels me ask
+*why* the same person is is the case. are making reference
+in this case to the same, or "me", or "my", or "mine", in
+thinking that even an exhaustive biography of me would fail
+to put me behind this podium? What could I mean by such
+pronouns, that is, that make them any different in reference
+from the pronoun "he"I am not yet placed behind the podium
+even in an exhaustive biography of me? that includes ? . in
+Now, my use of pronouns here invites us to reflect on their
+use. And I think if we do this, we can see how I am really
+asking why there is something rather than nothing, when
+I ask why I'm the one behind this podium right now. that we
+might give the same analysis invites us to reflect on this
+use, in much the way In other words, why is there something
+rather than nothing? Now true, it may not seem as if I am
+asking this, in asking why *I* am the person behind this
+podium. But if we do the same analysis of pronouns the
+someone behind the podium right now is me, which I think an
+analysis of my pronouns will make more clear, why is there
+soNow, evidently, why is the someone behind this podium me,
+Now, if we do an analysis of the pronouns I am using here,
+I think I find myself using pronouns to try to think if we
+do an analysis of the pronouns What I am asking here,
+I think, is in fact why there is something rather than
+nothing. (Mention one interpretation of this, that I might
+be anyone, but the other interpretation as that I might be
+no one.) r to put this a different way: why must the pronoun
+"I" or "me" refer to *anyone* in this case, even granting
+that if it did refer to anyone in this case, it would refer
+to the one person behind the podium? I put it this last way
+because it suggests that I am using pronouns now, in asking
+why he is me, to make a double reference even more puzzling
+than the one I was making before, when I asked you what you
+had for lunch. For in that case, I was referring at once to
 anything and to one thing; while in this case I seem to be
 referring at once to one thing and to nothing. I am
 referring to one thing in granting that I am the person
