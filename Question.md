@@ -251,6 +251,11 @@ answer puts so convincingly behind the podium tonight? Why
 is his point of view *my* point of view? Why is *his*
 lecture *mine*? Why is he *me*?  
 
+Shift from someone else might have replaced me at the
+podium, to someone else might have erased me at podium. As
+if what needs to be explained is why I am someone
+rather than no one, and not simply why I am someone
+rather than someone else. be no one rather than someone.
 The answer doesn't explain why I'm the someone at the podium
 even if it explains why I'm not someone else. I seem to be
 distinguishing myself in these questions even from the
