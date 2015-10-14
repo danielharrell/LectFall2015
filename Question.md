@@ -222,71 +222,57 @@ I ask myself this question, and then start to wonder why
 I feel compelled to ask. Here is one way to think about what
 might compel me. When I ask why there is something rather
 than nothing, I don't mean to ask merely why there is
-something rather than something *else*. It is one thing to
-ask myself why there is a podium in front of me rather than
-something else, like a table, or a chair, or even just the
-air in the hall. But it seems to be another thing to ask why
-there is a podium in front of me rather than nothing at all.
-But what would lead me from the first kind of question to
-the second? What would lead me, that is, to suppose it were
+something rather than something *else*. I might ask myself,
+for example, why there is a podium in front of me rather
+than something else, like a table, or a chair, or even just
+the air in the hall. But it seems different to ask myself
+why there is a podium in front of me rather than nothing at
+all? So what might lead me from the first kind of question
+to the second? What would lead me, that is, to suppose it
 possible, even intelligible, that something in the world
-might be nothing, rather than merely something else? Can
-I even use the word "nothing", and *not* mean something?
-When I use it, what am I supposed to think of? Or am I not
-supposed to think of anything? But then am I thinking at
-all?   
+like the podium might be nothing, rather than merely
+something else? Can I even use the word "nothing", and *not*
+mean something? When I use it, what am I supposed to think
+of? Or am I not supposed to think of anything? But then am
+I thinking at all?   
 
-But now suppose I ask myself why the someone behind this
+But suppose I ask myself why the someone behind this
 podium right now is me, rather than someone else. In one
 sense, the answer is easy to give. It was *my* lecture
 scheduled for tonight, after all, rather than someone
 else's. And *my* decision to give a lecture that led to the
-scheduling. And the answer to my question might continue in
+scheduling. The answer to my question might continue in
 this vein, going back in time to my appointment at the
 college, to my birth, my parents' birth, my grandparents',
 all the way back to the Big Bang, if you like. But even this
-extensive an answer might be thought to leave something in
+extensive an answer seems to leave something in
 my question unaddressed. For why am *I* the person that this
 answer puts so convincingly behind the podium tonight? Why
 is his point of view *my* point of view? Why is *his*
 lecture *mine*? Why is he *me*?  
 
+(Maybe put first person viewpoint here.) In this way I can
+envision an exhaustive biography of myself that puts the
+someone I am, and no one else, behind the podium tonight.
+And yet it seems I can still ask why this someone is me, as
+if he, too, might be someone else, leaving me nowhere rather
+than somewhere, no one rather than someone, nothing rather
+than something. It is the power and privilege of the
+first-person viewpoint. And while there may be something
+illusory about this, (Now mention how this is a shift from
+a third person to a first person viewpoint, making the
+podium as easy
+
+as if this someone
+might *also* be someone *else*, leaving me nowhere, no one,
+nothing. Or to put this another way, the answer to my
+question seems to explain my presence at the podium from
+a third-person viewpoint, but not from a first-person
+viewpoint.  
+
 But what could I mean here by the pronoun "me", or "I", as
 distinguished from "he"?  For both pronouns refer
-in this case to the same person behind the podium, and
-the question as
-if my question were answered about why the person behind the
-podium is me rather than someone else. behind the podium is
-me rather than someone else, I'm the one behind the podium
-seems fully answered. So what is still left unaccounted for
-After all, I seem to be granting that both sets of pronouns
-refer to the same person behind the podium, and in this
-sense, the answer to my question is sufficient. So what does
-the answer still leave unaddressed, that compels me ask
-*why* the same person is is the case. are making reference
-in this case to the same, or "me", or "my", or "mine", in
-thinking that even an exhaustive biography of me would fail
-to put me behind this podium? What could I mean by such
-pronouns, that is, that make them any different in reference
-from the pronoun "he"I am not yet placed behind the podium
-even in an exhaustive biography of me? that includes ? . in
-Now, my use of pronouns here invites us to reflect on their
-use. And I think if we do this, we can see how I am really
-asking why there is something rather than nothing, when
-I ask why I'm the one behind this podium right now. that we
-might give the same analysis invites us to reflect on this
-use, in much the way In other words, why is there something
-rather than nothing? Now true, it may not seem as if I am
-asking this, in asking why *I* am the person behind this
-podium. But if we do the same analysis of pronouns the
-someone behind the podium right now is me, which I think an
-analysis of my pronouns will make more clear, why is there
-soNow, evidently, why is the someone behind this podium me,
-Now, if we do an analysis of the pronouns I am using here,
-I think I find myself using pronouns to try to think if we
-do an analysis of the pronouns What I am asking here,
-I think, is in fact why there is something rather than
-nothing. (Mention one interpretation of this, that I might
+in this case to the same person behind the podium. (Mention one interpretation of this, that I might
 be anyone, but the other interpretation as that I might be
 no one.) r to put this a different way: why must the pronoun
 "I" or "me" refer to *anyone* in this case, even granting
