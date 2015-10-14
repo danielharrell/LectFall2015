@@ -251,13 +251,46 @@ answer puts so convincingly behind the podium tonight? Why
 is his point of view *my* point of view? Why is *his*
 lecture *mine*? Why is he *me*?  
 
-Shift from someone else might have replaced me at the
-podium, to someone else might have erased me at podium. As
-if what needs to be explained is why I am someone
-rather than no one, and not simply why I am someone
-rather than someone else. be no one rather than someone.
-The answer doesn't explain why I'm the someone at the podium
-even if it explains why I'm not someone else. I seem to be
+(Mention one interpretation of this, that I might be anyone,
+but the other interpretation as that I might be no one.)
+r to put this a different way: why must the pronoun "I" or
+"me" refer to *anyone* in this case, even granting that if
+it did refer to anyone in this case, it would refer to the
+one person behind the podium? I put it this last way because
+it suggests that I am using pronouns now, in asking why he
+is me, to make a double reference even more puzzling than
+the one I was making before, when I asked you what you had
+for lunch. For in that case, I was referring at once to
+anything and to one thing; while in this case I seem to be
+referring at once to one thing and to nothing. I am
+referring to one thing in granting that I am the person
+behind the podium right now, yet in asking why this is the
+case, I also seem to be referring the person behind the
+podium is me, I am the person behind this podium; yet in
+asking why  you might have had for lunch, and the one thing
+you had for lunch. But in this case, I seem to be referring
+at once to the one thing I am, using pronouns to refer at
+once to anything you might have for lunch, and to one thing.
+But in this case, I seem to be using pronouns to refer at
+once to one thing and to nothing.
+
+The "I" could only refer to one person in the room, namely,
+the one person behind the podium. Yet I am still asking why
+the reference works, as if the pronoun "I" could refer to no
+one in the room, or even to no one at all, as if I could be
+no one rather than someone, or nothing rather than something. Or to take a step
+back, how I am using pronouns like "I" or "mine" or "me"
+when I ask these questions?  What I am asking for here might
+be understood through another brief analysis of the pronouns
+I'm using.  Or to take a step back for a moment, what am
+I doing with my pronouns in these questions? Shift from
+someone else might have replaced me at the podium, to
+someone else might have erased me at podium. As if what
+needs to be explained is why I am someone rather than no
+one, and not simply why I am someone rather than someone
+else. be no one rather than someone. The answer doesn't
+explain why I'm the someone at the podium even if it
+explains why I'm not someone else. I seem to be
 distinguishing myself in these questions even from the
 someone at the podium, having granted to my answer that I am
 not someone else. not simply from anyone *not* at the
