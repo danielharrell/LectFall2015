@@ -251,13 +251,23 @@ answer puts so convincingly behind the podium tonight? Why
 is his point of view *my* point of view? Why is *his*
 lecture *mine*? Why is he *me*?  
 
-But in what sense, exactly,  I ask myself why the someone behind this podium is me
-rather than someone else, it seems I can treat the someone
-behind the podium as if he, too, might be someone else; and
-wonder, then, why he's not. But to treat him as if too he might
-be someone else, even just to wonder why he's not, is to
-leave no one for me to be, as if I might be no one rather
-than someone. 
+The answer doesn't explain why I'm the someone at the podium
+even if it explains why I'm not someone else. I seem to be
+distinguishing myself in these questions even from the
+someone at the podium, having granted to my answer that I am
+not someone else. not simply from anyone *not* at the
+podium, can ask these questions not thinking I might be
+someone else, say, in the audience; I can even ask it One
+point of view treats "someone else" as if it were distinct
+from the someone at the podium; but the other point of view
+treats "someone else" as if it might include the someone at
+the podium. But in what sense, exactly,  I ask myself why
+the someone behind this podium is me rather than someone
+else, it seems I can treat the someone behind the podium as
+if he, too, might be someone else; and wonder, then, why
+he's not. But to treat him as if too he might be someone
+else, even just to wonder why he's not, is to leave no one
+for me to be, as if I might be no one rather than someone. 
 
 
 an include the 
