@@ -264,37 +264,42 @@ somewhere, no one rather than someone, nothing rather than
 something. That is, when I ask myself why the someone behind
 this podium is me *even if* I am no one else, I seem to be
 asking why *I myself* am something rather than nothing. And
-there is a reason for this. For as my pronoun implies, I am
-asking this question from what we call the "first-person"
-perspective, where the pronoun "I" refers to me and no one
-else, and thereby reflects a point of view upon the world
-I share with no one else. The point of view, then, we might
-simply call my own. Of course, you also possess your own
-point of view in this sense---each of you, I mean---which is
-why you can use the pronoun "I" just like I can, to mean you
-and no one else. Yet since each of us shares this view with
-no one else, the view itself is something, it seems, that
-could never be something else. That is, my own point of view
-upon the world, since I share this with no one else, can
-only be something or nothing. And the reason, then, that
-I can ask myself why I am something rather than nothing, is
-that I am asking this question not only *from* my own point
-of view, but *about* it, and why this view is something
-rather than nothing in being *mine*.    
+there is a reason for this. For I am asking this question
+from what we call the "first-person" perspective, where my
+use of the pronoun "I" makes it refer to me and no one else,
+and so reflects a point of view upon the world I share with
+no one else. This is the point of view upon the world, then,
+we might simply call my own. Of course, you also possess
+your own point of view in this sense---each of you, I mean.
+And this is why you can use the pronoun "I" just like I can,
+to mean you and no one else. Yet since each of us then
+shares this view with no one else, the view itself is
+something, it seems, that could never be something else.
+That is, my own point of view upon the world, since I share
+this with no one else, can only be something or nothing,
+rather than something or something else. And the reason,
+then, that I can ask myself why *I* am something rather than
+nothing, is that I am asking this question not only *from*
+my own point of view, but *about* it, and why this view is
+something rather than nothing in being *mine*.    
 
-Put briefly why this allows me to ask the question more
-generally. is also What is more, this view of the world, the
+But this is also the reason, then, why I can ask why there
+is something rather than nothing more generally. For this
+first-person view of the world, the view that is mine, the
 view I share with no one else, might be said to *contain*
 the world, as if in a frame; even if I am otherwise
-*contained* by the world as an inhabitant. Or to put it
-another way, this view of the world is what gives the world
-its presence rather than its existence. In still other
-words, this view of the world is what makes anything I might
-encounter in it, like the podium in front of me, *not*
-something rather than something else, but indeed something
-rather than nothing. And I can make the podium vanish, in
-this sense, simply by closing my eyes. Or lose the world
-altogether, once they close for good. But it is this same
+*contained* in the world as an inhabitant. In other words,
+the world is made *present* to me through this point of
+view; and it gives the world a *presence*, then, that we can
+distinguish from its existence. But presence in this sense
+is distinguished from absence, just as something is
+distinguished from nothing. So my own point of view upon the
+world is what makes anything I might encounter in it, like
+the podium in front of me, *not* something rather than
+something else, but indeed something rather than nothing.
+And I can make the podium vanish, in this sense, simply by
+closing my eyes. Or lose the world altogether, once they
+close for good. (Revise from here.) But it is this same
 first-person view, then, that allows me and even compels me
 to wonder why the podium is something rather than nothing,
 or why more generally anything is something rather than
