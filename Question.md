@@ -20,7 +20,7 @@ College on October 16, 2015...
 ## Introduction [intro]
 
 Tonight, I want to ask a question about questions. What are
-they, exactly? What did I just do in asking that one, for
+they? What did I just do in asking that one, for
 example? Or that one? Or this one?
 
 The questions I just asked show they are easy enough to
@@ -118,16 +118,16 @@ to eat." But this suggests that when *I* use the pronoun
 noun, lest my question imply your answer. 
 
 But then am I *not* using the word "what" in my question as
-a pronoun? There is a problem with this possibility, too. For
-even if my question makes sense in advance of any answer, as
-a question it asks for an answer; and in this case for the
-very answer you give about what you had for lunch. Indeed,
-in this direction, we might say that the noun "pizza" is too
-general, rather than too specific, to have been replaced in
-advance by the pronoun "what" in my question. After all, in
-asking you what you had for lunch, I am asking you about the
-very piece of pizza you had for lunch, all other pizza
-aside. 
+a pronoun? There is a problem with this possibility, too.
+For even if my question makes sense in advance of any
+answer, and cannot then imply an answer, it still asks for
+an answer; and in this case for the very answer you give
+about what you had for lunch. Indeed, in this direction, we
+might say that the noun "pizza" is too general, rather than
+too specific, to have been replaced in advance by the
+pronoun "what" in my question. After all, in asking you what
+you had for lunch, I am asking you about the very piece of
+pizza you had for lunch, all other pizza aside. 
 
 But what should we make, then, of my use of the word "what"?
 If my question is to make sense in advance of your answer,
@@ -137,7 +137,7 @@ to your lunch were indefinite. Yet if my question is to make
 sense as *asking* for your answer, then this pronoun will
 have to represent *exactly* what you had for lunch, as if
 its reference to your lunch were definite, even unique. And
-since I only have to ask the question once, we can presume
+since I only have to ask the question once, we can assume
 that the pronoun "what" is somehow making both references at
 once, as if it could take the place of any lunch you might
 have had, and the one lunch you actually had, at the very same
@@ -240,19 +240,20 @@ mean something? When I use it, what am I supposed to think
 of? Or am I not supposed to think of anything? But then am
 I thinking at all?   
 
-But suppose I ask myself why the someone behind this podium
-right now is me, rather than someone else. In one sense, the
-answer is easy to give. It was *my* lecture scheduled for
-tonight, after all, rather than someone else's. And *my*
-decision to give a lecture that led to the scheduling. The
-answer to my question might continue in this vein, going
-back in time to my appointment at the college, to my birth,
-my parents' birth, my grandparents', all the way back to the
-Big Bang, if you like. But even this extensive an answer
-seems to leave something in my question unaddressed. For why
-am *I* the person that this answer puts so convincingly
-behind the podium tonight? Why is his point of view *my*
-point of view? Why is *his* lecture *mine*? Why is he *me*?  
+Suppose, however, I now ask myself why the someone behind
+this podium tonight is me, rather than someone else. In
+one sense, the answer is easy to give. It was *my* lecture
+scheduled for tonight, after all, rather than someone
+else's. And *my* decision to give a lecture that led to the
+scheduling. The answer to my question might continue in this
+vein, going back in time to my appointment at the college,
+to my birth, my parents' birth, my grandparents', all the
+way back to the Big Bang, if you like. But even this
+extensive an answer seems to leave something in my question
+unaddressed. For why am *I* the person that this answer puts
+so convincingly behind the podium tonight? Why is his point
+of view *my* point of view? Why is *his* lecture *mine*? Why
+is he *me*?  
 
 The someone behind this podium, we can grant, is definitely
 me rather than someone else. But it seems I can still ask
@@ -277,7 +278,7 @@ shared with no one else, it seems to be a point of view that
 could never *be* something else: it is either something or
 nothing for each of us. So when I ask myself why I am
 something rather than nothing, in being behind this podium
-right now, I am asking the question not only *from* this
+tonight, I am asking the question not only *from* this
 point of view, but *about* this point of view, and why *it*
 is something rather than nothing in being *mine*.    
 
@@ -294,8 +295,17 @@ the podium vanish, in this sense, simply
 by closing my eyes. Or lose the world altogether, once they
 close for good.
 
+Ask why I'm the source of this presence, is to ask about
+the source of the presence. We have an answer to question
+of shift, even if no answer to question of what answer
+would be, even the kind of answer. 
+Why is inexplicable, in asking to make present to me the
+origin of presence. 
 
-It is the point of view from which
+Beginning: make sense in advance of what follows it, but
+at the same time as asking for what follows. How are
+questions possible: because questions are beginnings. So
+how are beginnings are possible? It is the point of view from which
 I might make the podium vanishAnd it is in terms of
 presence, I think, that I might start to wonder . is the
 point of view that might be said to *contain* the world, as
