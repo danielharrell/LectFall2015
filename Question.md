@@ -23,7 +23,7 @@ Tonight, I want to ask a question about questions. What are
 they, exactly? What did I just do in asking that one, for
 example? Or that one? Or this one?
 
-The questions I just asked show that they are easy enough to
+The questions I just asked show they are easy enough to
 form. And form them we do, in ways that range from the
 clearly prosaic to the seemingly profound. What did you have
 for lunch today? Why is there something rather than nothing?
@@ -79,7 +79,9 @@ best I've only deepened it, and at worst, gotten myself
 stuck. <!--The lecture also has an epilogue, which I'll read
 if I'm still within the hour by then.-->
 
-## Part One
+[Back to top] [top]
+
+## Part One [one]
 
 So, what did you have for lunch today? Or suppose I ask you
 this, and you reply: I had pizza for lunch today. What makes
@@ -205,17 +207,19 @@ Again, how is this kind of question even possible?
 
 The epitome of such a question, perhaps, is my example of
 a seemingly profound question: Why is there something rather
-than nothing? For any answer to this question would seem to
-involve something rather than nothing, which the question
-then obliges us to explain in yet another answer, leading to
-an infinite regress of answers, as if the question were
-asking for an answer only to swallow it, so that no one
-could ever possess it. But does this mean that the question
-is truly profound? Even the deepest question there is? The
-question of questions? Or does it mean that the question is
-not really a question at all? 
+than nothing? For any answer to this question---be it
+a cause, or at least a reason---would seem to involve
+something rather than nothing, which the question then
+obliges us to explain in yet another answer, leading to an
+infinite regress of answers, as if the question were asking
+for an answer only to swallow it, so that no one could ever
+possess it. But does this mean that the question is truly
+profound? Even the deepest question there is? Or does it
+mean that the question is not really a question at all? 
 
-## Part Two
+[Back to top] [top]
+
+## Part Two [two]
 
 So, why *is* there something rather than nothing? Or suppose
 I ask myself this question, and then start to wonder why
@@ -227,154 +231,81 @@ for example, why there is a podium in front of me rather
 than something else, like a table, or a chair, or even just
 the air in the hall. But it seems different to ask myself
 why there is a podium in front of me rather than nothing at
-all? So what might lead me from the first kind of question
-to the second? What would lead me, that is, to suppose it
-possible, even intelligible, that something in the world
+all. So what might lead me from the first kind of question
+to the second? What might lead me, that is, to suppose it
+possible, intelligible, that something in the world
 like the podium might be nothing, rather than merely
 something else? Can I even use the word "nothing", and *not*
 mean something? When I use it, what am I supposed to think
 of? Or am I not supposed to think of anything? But then am
 I thinking at all?   
 
-But suppose I ask myself why the someone behind this
-podium right now is me, rather than someone else. In one
-sense, the answer is easy to give. It was *my* lecture
-scheduled for tonight, after all, rather than someone
-else's. And *my* decision to give a lecture that led to the
-scheduling. The answer to my question might continue in
-this vein, going back in time to my appointment at the
-college, to my birth, my parents' birth, my grandparents',
-all the way back to the Big Bang, if you like. But even this
-extensive an answer seems to leave something in
-my question unaddressed. For why am *I* the person that this
-answer puts so convincingly behind the podium tonight? Why
-is his point of view *my* point of view? Why is *his*
-lecture *mine*? Why is he *me*?  
+But suppose I ask myself why the someone behind this podium
+right now is me, rather than someone else. In one sense, the
+answer is easy to give. It was *my* lecture scheduled for
+tonight, after all, rather than someone else's. And *my*
+decision to give a lecture that led to the scheduling. The
+answer to my question might continue in this vein, going
+back in time to my appointment at the college, to my birth,
+my parents' birth, my grandparents', all the way back to the
+Big Bang, if you like. But even this extensive an answer
+seems to leave something in my question unaddressed. For why
+am *I* the person that this answer puts so convincingly
+behind the podium tonight? Why is his point of view *my*
+point of view? Why is *his* lecture *mine*? Why is he *me*?  
 
-(Maybe put first person viewpoint here.) In this way I can
-envision an exhaustive biography of myself that puts the
-someone I am, and no one else, behind the podium tonight.
-And yet it seems I can still ask why this someone is me, as
-if he, too, might be someone else, leaving me nowhere rather
-than somewhere, no one rather than someone, nothing rather
-than something. It is the power and privilege of the
-first-person viewpoint. And while there may be something
-illusory about this, (Now mention how this is a shift from
-a third person to a first person viewpoint, making the
-podium as easy
+The someone behind this podium, we can grant, is definitely
+me rather than someone else. But it seems I can still ask
+*why* this someone is me, as if he, too, might be someone
+else, not in the sense that he replaced me, but instead in
+the sense that he erased me, leaving me nowhere rather than
+somewhere, no one rather than someone, nothing rather than
+something. That is, when I ask myself why the someone behind
+this podium is me *even if* I am no one else, I seem to be
+asking why *I myself* am something rather than nothing. It
+may not be clear just *why* I can ask this question, or what
+kind of answer the question might be asking for. But it
+seems I can ask it still, from what we call the
+"first-person" perspective, where the pronoun "I" refers to
+me and no one else, and thereby reflects a point of view
+upon the world that I share with no one else. And of course
+that each of you share with no one else, whenever you use
+the pronoun "I". Indeed, since each of us shares this point
+of view with no one else, it seems to be a point of view
+that can never be something else: it is either something or
+nothing. So to ask why I am something rather than nothing
+makes the question *about* this very point of view, and why
+I have it at all.
 
-as if this someone
-might *also* be someone *else*, leaving me nowhere, no one,
-nothing. Or to put this another way, the answer to my
-question seems to explain my presence at the podium from
-a third-person viewpoint, but not from a first-person
-viewpoint.  
+It is the point of view from which I might wonder why I find
+myself in the world now rather than long ago. (Mention
+podium, link shutting of eyes to shutting out the world,
+making everything nothing rather than something. Then say
+that it's the same point of view from which I ask you what
+you had for lunch, with the pronouns "you" and "today", reference
+by not be name or date.) Open eyes, shut eyes. 
 
-But what could I mean here by the pronoun "me", or "I", as
-distinguished from "he"?  For both pronouns refer
-in this case to the same person behind the podium. (Mention one interpretation of this, that I might
-be anyone, but the other interpretation as that I might be
-no one.) r to put this a different way: why must the pronoun
-"I" or "me" refer to *anyone* in this case, even granting
-that if it did refer to anyone in this case, it would refer
-to the one person behind the podium? I put it this last way
-because it suggests that I am using pronouns now, in asking
-why he is me, to make a double reference even more puzzling
-than the one I was making before, when I asked you what you
-had for lunch. For in that case, I was referring at once to
-anything and to one thing; while in this case I seem to be
-referring at once to one thing and to nothing. I am
-referring to one thing in granting that I am the person
-behind the podium right now, yet in asking why this is the
-case, I also seem to be referring the person behind the
-podium is me, I am the person behind this podium; yet in
-asking why  you might have had for lunch, and the one thing
-you had for lunch. But in this case, I seem to be referring
-at once to the one thing I am, using pronouns to refer at
-once to anything you might have for lunch, and to one thing.
-But in this case, I seem to be using pronouns to refer at
-once to one thing and to nothing.
-
-The "I" could only refer to one person in the room, namely,
-the one person behind the podium. Yet I am still asking why
-the reference works, as if the pronoun "I" could refer to no
-one in the room, or even to no one at all, as if I could be
-no one rather than someone, or nothing rather than something. Or to take a step
-back, how I am using pronouns like "I" or "mine" or "me"
-when I ask these questions?  What I am asking for here might
-be understood through another brief analysis of the pronouns
-I'm using.  Or to take a step back for a moment, what am
-I doing with my pronouns in these questions? Shift from
-someone else might have replaced me at the podium, to
-someone else might have erased me at podium. As if what
-needs to be explained is why I am someone rather than no
-one, and not simply why I am someone rather than someone
-else. be no one rather than someone. The answer doesn't
-explain why I'm the someone at the podium even if it
-explains why I'm not someone else. I seem to be
-distinguishing myself in these questions even from the
-someone at the podium, having granted to my answer that I am
-not someone else. not simply from anyone *not* at the
-podium, can ask these questions not thinking I might be
-someone else, say, in the audience; I can even ask it One
-point of view treats "someone else" as if it were distinct
-from the someone at the podium; but the other point of view
-treats "someone else" as if it might include the someone at
-the podium. But in what sense, exactly,  I ask myself why
-the someone behind this podium is me rather than someone
-else, it seems I can treat the someone behind the podium as
-if he, too, might be someone else; and wonder, then, why
-he's not. But to treat him as if too he might be someone
-else, even just to wonder why he's not, is to leave no one
-for me to be, as if I might be no one rather than someone. 
-
-
-an include the 
-
-My biography treats me as if I must be the someone at the podium rather
-than someone else, but in my autobiography, as it were, I can even
-make this left From this point of view, let us call it the first-person of view,
-the someone at the podium might *also* be someone else, leaving
-no one for me to be, as if I were one point of view, let us call it the third-person point of
-view, my question is answered, and I see why I am at the podium
-rather than someone else. But from another point
-of view, let us call it the first-person point of view, my question
-goes unanswered, since I don't see why the someone at the podium is
-me, as if I were treating can still ask why this someone at the podium
-is me. no one else
-at the podium and I can grant that there is
-the someone I am at the podium, rather than someone else. the answer
-to my question explains why there is no one else at the
-podium but the someone I am. But from a first person is someone at the podium
-rather than someone else. my question
-is answered, and I can grant as there is someone rather someone
-else behind the podium. 
-The implication of my pronouns here suggests that my
-presence at the podium is being explained well enough from
-a third-person point of view, but not at all from
-a first-person point of view. In formulating these
-questions, it looks as if I am using the pronouns "I" and
-"me" as if they referred to me in a way that escapes the
-pronouns "him" or "he". . hese questions return us to the
-puzzle of pronouns, and why I wonder, in this case, ince
-they seem to be distinguishing and what I mean, in these
-questions, when I distinguish the pronoun . For when I ask
-these questions Use handwritten note here about my presence
-at the podium from the third vs the first point of view. Or
-to put this question one more way: why is the person behind
-this podium me *and no one else*? (Distinguish this from the
-someone else formulation.) Here discuss how the question
-about why I am the person behind this podium has
-a doubleness. It's not enough to distinguish me from anyone
-else by giving my own biography, as it were. For this
-doesn't account for why its mine. (Say that my question has
-a doubleness, contained in the pronoun "I": for in one
-sense, the sense of my elaborate answer, it is no different
-from the pronoun "he", under a particular proper name, and
-why I am here rather than someone else, in the sense that he
-is here rather than someone else. But in another sense it is
-unique, and it is about why I am this person and no one
-else. Need to clarify this.)
+reflecting I can ask this, evidently, from the point of view
+upon the world that I share with no one else; from the point
+of view, that is, where the pronoun "I" refers to me and no
+one else. Prosaically, the point of view where I can ask you
+what you had for lunch today, and having my pronouns be
+clear. But more deeply it is the point of view from which
+there is nothing, in a sense, but today, even nothing but
+now.  And from this point of view, I can make the podium in
+front of me vanish simply by closing my eyes, and it so
+becomes possible, even intelligible, to suppose the podium
+might be nothing rather than something, or even to suppose
+everything to be nothing rather than something. and to ask
+myself, then, why it is something rather than nothing.
+Where the Big Bang is nothing, my grandparents are nothing,
+my parents are nothing, even my etc. From a beginning in
+birth that no one else can share, to an end in death that no
+one else can know. From the point of view we share upon the
+world, it is hard to know how I might make the podium
+nothing rather than something. But from the point of view
+I share with no one else, it seems as easy as closing my
+eyes.   
 
 But then the question "Why is there something rather than
 nothing?" would seem to have no answer, at least when
@@ -1211,7 +1142,7 @@ in which the description can be about me.) Link to
 intelligibility. 
 
 
-## Part One [one]
+## Part One 
 
 Once a week, from late August to early May, for the past
 seventeen years, I have had to do something that I have
@@ -1333,7 +1264,7 @@ the simplest we could give
 
 [Back to top][top]
 
-##  Part Two [two]
+##  Part Two 
 
 
 [Back to top][top]
