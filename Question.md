@@ -291,16 +291,29 @@ In still other words, this point of view is what makes
 anything I might encounter in the world, like the podium in
 front of me, *not* something rather than something else, but
 indeed something rather than nothing. And I can make
-the podium vanish, in this sense, simply
+the podium vanish, from this point of view, simply
 by closing my eyes. Or lose the world altogether, once they
 close for good.
 
 Ask why I'm the source of this presence, is to ask about
-the source of the presence. We have an answer to question
+the source of the presence, the source of my own point of view
+upon the world. To ask why I'm something rather
+than nothing, is to ask why my point of view upon the world
+is something rather than nothing, but then to ask why the
+world my point of view contains is something rather than nothing.
+
+We have an answer to question
 of shift, even if no answer to question of what answer
 would be, even the kind of answer. 
 Why is inexplicable, in asking to make present to me the
-origin of presence. 
+origin of presence. I am asking for the source of this
+presence to present itself, as if it weren't a source, or could 
+somehow be made a source
+of itself. But the other possibility: the presence
+has no source, because it is a source. could ever
+be what n be what it
+originates. as if it might be at once
+an origin and an outcome. To
 
 Beginning: make sense in advance of what follows it, but
 at the same time as asking for what follows. How are
