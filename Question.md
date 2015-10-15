@@ -223,9 +223,15 @@ mean that the question is not really a question at all?
 
 So, why *is* there something rather than nothing? Or suppose
 I ask myself this question, and then start to wonder why
-I feel compelled to ask. Here is one way to think about what
-might compel me. When I ask why there is something rather
-than nothing, I don't mean to ask merely why there is
+I feel compelled to ask. One way I might feel compelled,
+I think, is when I ask it from the position, or point of
+view, that I took when I asked you what you had for lunch.
+The point of view, then, that allowed me to address you with
+the pronoun "you", and allows me in distinction to "you", to
+use the pronoun "me", or "I", to refer to myself. 
+
+Here is what I mean. When I ask why there is something
+rather than nothing, I don't mean to ask merely why there is
 something rather than something *else*. I might ask myself,
 for example, why there is a podium in front of me rather
 than something else, like a table, or a chair, or even just
@@ -233,14 +239,14 @@ the air in the hall. But it seems different to ask myself
 why there is a podium in front of me rather than nothing at
 all. So what might lead me from the first kind of question
 to the second? What might lead me, that is, to suppose it
-possible, intelligible, that something in the world
-like the podium might be nothing, rather than merely
+possible, or even just intelligible, that something in the
+world like the podium might be nothing, rather than merely
 something else? Can I even use the word "nothing", and *not*
 mean something? When I use it, what am I supposed to think
 of? Or am I not supposed to think of anything? But then am
 I thinking at all?   
 
-Suppose, however, I now ask myself why the someone behind
+Suppose, however, that I ask myself why the person behind
 this podium tonight is me, rather than someone else. In
 one sense, the answer is easy to give. It was *my* lecture
 scheduled for tonight, after all, rather than someone
@@ -251,64 +257,78 @@ to my birth, my parents' birth, my grandparents', all the
 way back to the Big Bang, if you like. But even this
 extensive an answer seems to leave something in my question
 unaddressed. For why am *I* the person that this answer puts
-so convincingly behind the podium tonight? Why is his point
+so convincingly behind the podium? Why is his point
 of view *my* point of view? Why is *his* lecture *mine*? Why
 is he *me*?  
 
-The someone behind this podium, we can grant, is definitely
+The person behind this podium, we can grant, is definitely
 me rather than someone else. But it seems I can still ask
-*why* this someone is me; as if he, too, might be someone
+*why* this person is me; as if he, too, might be someone
 else, not in the sense that he replaced me, but instead in
 the sense that he erased me, leaving me nowhere rather than
 somewhere, no one rather than someone, nothing rather than
-something. That is, when I ask myself why the someone behind
+something. That is, when I ask myself why the person behind
 this podium is me *even if* I am no one else, I seem to be
 asking why *I myself* am something rather than nothing. And
 there is a reason for my asking this, leaving the prospects
-of any answer aside. For I am asking this question from what
-we call the "first-person" perspective, where my use of the
-pronoun "I" makes it refer to me and no one else, and thus
-reflects a point of view upon the world I share with no one
-else, the point of view I might simply call my own. Of
-course, you also possess your own point of view in this
-sense---each of you, I mean. And this is why you can use the
-pronoun "I" just like I can, to mean you and no one else.
-Yet since each of us then shares this point of view with no
-one else, the view itself is something, it seems, that could
-never be something else. In other words, my own point of
-view upon the world, since I share this with no one else,
-can only be something or nothing, rather than something
-else. And the reason I can ask myself why *I* am something
-rather than nothing, then, is that I am asking this question
-not only *from* my own point of view, but *about* it, and
-why this view is something rather than nothing in being
-*mine*, and mine, so far as I can tell, unaccountably.    
+of any answer aside. And it brings me back to my use of the
+pronoun "me", or "I", and the point of view upon the world
+it reflects. Because my use of this pronoun makes it refer
+to me and no one else, it reflects a point of view upon the
+world I share with no one else. It is the point of view
+I might simply call my own. Of course, you also possess your
+own point of view in this sense---each of you, I mean. And
+this is why you can use the pronoun "I" just like I can, to
+mean you and no one else. Yet since each of us then shares
+this point of view with no one else, the view itself seems
+to be something that could never be something else. That is,
+my own point of view upon the world, since I share this with
+no one else, can only be something or nothing. And the
+reason I can ask myself why *I* am something rather than
+nothing, then, is that I am asking this question not only
+*from* my own point of view, but *about* this point of view,
+and why this point of view is something rather than nothing
+in being *mine*, and mine, so far as I can tell,
+inexplicably.    
 
 But this is also the reason, it seems, that I can ask why
 there is something rather than nothing more generally, and
 why I might feel compelled to ask. For this point of view
-upon the world that is unaccountably mine, might be said to
+upon the world that is inexplicably mine, might be said to
 *contain* the world, as if in a frame; even if I am
-otherwise *contained* in the world as an inhabitant. In
-other words, the world is made *present* to me through this
-point of view; and the world has a *presence*, then, that we
-can distinguish from its existence. But presence, in this
-sense, is presence rather than absence, or something rather
-than nothing.  So my own point of view upon the world is
-what makes anything I might encounter in it, like the podium
-in front of me, present rather than absent, something rather
+otherwise *contained* in the world as an inhabitant. That
+is, the world is made *present* to me through this point of
+view; and the world has a *presence*, then, that we can
+distinguish from its existence. But presence, in this sense,
+is presence rather than absence, or something rather than
+nothing.  So my own point of view upon the world is what
+makes anything I might encounter in it, like the podium in
+front of me, present rather than absent, something rather
 than nothing. And I can make the podium vanish, in this
-sense, simply by closing my eyes. Or lose the world
-altogether, once they close for good. So why I ever *gained*
-the world in this sense, why I ever found myself with eyes
-to open, is one way to think about the meaning of my asking
-myself, and feeling compelled to ask myself, why there is
-something rather than nothing. 
+sense, simply by closing my eyes. Or once they close for
+good, lose the world altogether. So why I ever *gained* the
+world in this sense, why I ever found myself with eyes to
+open, is one way to think about how I might ask myself, and
+feel compelled to ask myself, why there is something rather
+than nothing. 
 
-, even if the question puts the
-answer out of reach. 
+But even if this explains how the question might be
+intelligibly and seriously asked, it gives us no answer to
+the question. Indeed, I suspect it rather gives us another
+glimpse into why the question may put the answer beyond our
+reach. For if we take something rather than nothing to refer
+to presence rather than absence, then asking *why* there is
+something rather than nothing is to ask for the source of
+presence to present itself, as if the source were not a 
+source, or somehow the source of itself. 
 
-<!--Should mention point of view of my lunch question-->
+But I think there is another possibility, that allows us
+to reconsider how questions are possible, and especially
+the kind of question we ask at the college. as a way of
+concluding my lecture, one that allows me to say something
+more constructive about how questions are possible rather
+than paradoxical. (Start from here; bring other stuff in
+about being an origin, then move to being an answer.)
 
 is question. seemingly profound question, how
 I might be compelled to ask why there is something rather
@@ -324,16 +344,6 @@ The question makes sense from the point of view that is my
 own. Mention prosaic to seemingly profound. Then transition
 to question of its being really profound?
 
-(Revise from here.) But it is this same
-first-person view, then, that allows me and even compels me
-to wonder why the podium is something rather than nothing,
-or why more generally anything is something rather than
-nothing. For everything *is* something rather than nothing
-only from a point of view upon the world insofar my point of
-view What leads me, then, to suppose it possible,
-intelligible, that something in the world like the podium
-might be nothing, is the sense in which anything, or
-everything, indeed becomes nothing
 
 Ask why I'm the source of this presence, is to ask about
 the source of the presence, the source of my own point of view
