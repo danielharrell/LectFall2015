@@ -256,7 +256,7 @@ point of view? Why is *his* lecture *mine*? Why is he *me*?
 
 The someone behind this podium, we can grant, is definitely
 me rather than someone else. But it seems I can still ask
-*why* this someone is me, as if he, too, might be someone
+*why* this someone is me; as if he, too, might be someone
 else, not in the sense that he replaced me, but instead in
 the sense that he erased me, leaving me nowhere rather than
 somewhere, no one rather than someone, nothing rather than
@@ -268,22 +268,48 @@ kind of answer the question might be asking for. But it
 seems I can ask it still, from what we call the
 "first-person" perspective, where the pronoun "I" refers to
 me and no one else, and thereby reflects a point of view
-upon the world that I share with no one else. And of course
-that each of you share with no one else, whenever you use
-the pronoun "I". Indeed, since each of us shares this point
-of view with no one else, it seems to be a point of view
-that can never be something else: it is either something or
-nothing. So to ask why I am something rather than nothing
-makes the question *about* this very point of view, and why
-I have it at all.
+upon the world that I share with no one else. Of course, you
+also possess it---each of you, I mean---but again only in
+sharing it with no one else, which is why you can use the
+pronoun "I" just like I can, to mean you and you alone. And
+since each of us then has a point of view upon the world
+shared with no one else, it seems to be a point of view that
+could never *be* something else: it is either something or
+nothing for each of us. So when I ask myself why I am
+something rather than nothing, in being behind this podium
+right now, I am asking the question not only *from* this
+point of view, but *about* this point of view, and why *it*
+is something rather than nothing in being *mine*.    
 
-It is the point of view from which I might wonder why I find
-myself in the world now rather than long ago. (Mention
-podium, link shutting of eyes to shutting out the world,
-making everything nothing rather than something. Then say
-that it's the same point of view from which I ask you what
-you had for lunch, with the pronouns "you" and "today", reference
-by not be name or date.) Open eyes, shut eyes. 
+What is more, the point of view upon the world I share with
+no one else might be said to *contain* the world, as if in
+a frame; even if I am otherwise *contained* by the world as
+an inhabitant. This point of view, in other words, is what
+gives the world its presence rather than its existence. 
+In still other words, this point of view is what makes
+anything I might encounter in the world, like the podium in
+front of me, *not* something rather than something else, but
+indeed something rather than nothing. And I can make
+the podium vanish, in this sense, simply
+by closing my eyes. Or lose the world altogether, once they
+close for good.
+
+
+It is the point of view from which
+I might make the podium vanishAnd it is in terms of
+presence, I think, that I might start to wonder . is the
+point of view that might be said to *contain* the world, as
+if in a frame; even if it is contained by the world . But
+there is another feature of this point of view upon the
+world besides my sharing it with no one else.  It is the
+point of view from which I might wonder why I find myself in
+the world now rather than long ago. (Mention podium, link
+shutting of eyes to shutting out the world, making
+everything nothing rather than something. Then say that it's
+the same point of view from which I ask you what you had for
+lunch, with the pronouns "you" and "today", reference by not
+be name or date.) Open eyes, shut eyes. Presence rather than
+existence.
 
 reflecting I can ask this, evidently, from the point of view
 upon the world that I share with no one else; from the point
