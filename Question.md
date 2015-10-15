@@ -322,28 +322,55 @@ something rather than nothing is to ask for the source of
 presence to present itself, as if the source were not a 
 source, or somehow the source of itself. 
 
-But I think there is another possibility, that allows us
-to reconsider how questions are possible, and especially
-the kind of question we ask at the college. as a way of
-concluding my lecture, one that allows me to say something
-more constructive about how questions are possible rather
-than paradoxical. (Start from here; bring other stuff in
-about being an origin, then move to being an answer.)
+But I think there is another possibility, one that allows us
+to reconsider how questions are possible. The possibility is
+this: the question why there is something rather than
+nothing has no answer, because the presence of the world
+*has* no source. Or put another way, my own point of view
+upon the world *has* no origin. And the reason for this is
+that my own point of view upon the world *is* an origin,
+rather than having one. This point of view, then, is not an
+outcome of the world, that might ever be traced 
+traced to an origin; it is rather an origin in itself. 
 
-is question. seemingly profound question, how
-I might be compelled to ask why there is something rather
-than nothing, the question of why is there something rather
-than nothing to begin with, , to begin with, then, in the
-point of view that is unaccountably mine, is one way, at
-least, to think about
+I'm not sure if what I just said makes sufficient sense,
+so let me put the possibility a different way, through an example.
+Suppose you happened upon me earlier today, and having
+lapsed in your attention to the Friday Night Lecture, you idly
+ask me who the lecturer is. Now, the answer I would likely give
+is: "I am." But if I wanted to tease you, I might reply: "Oh, Mr Harrell
+is." In one sense these answers are the same, but in another sense, I think,
+they are different, and the way we might put the difference is that
+when I refer to myself as Mr Harrell in answering your question, I might
+be said to *have* the answer; but when I refer to myself as "I", I might
+be said to *be* the answer. 
 
-And this makes And since I gained the world altogether
-So it this point of view, is my own point of view upon the
-world, To ask why there is something or nothing, then, is
-The question makes sense from the point of view that is my
-own. Mention prosaic to seemingly profound. Then transition
-to question of its being really profound?
+tied to my use of the pronoun in one but the other, , I'll be the ecturenot
+having kept up with the Friday Night Lecture slate, you but before my lecture,
+and you asked me who was giving the lecture tonight.
 
+My question treats my point of view upon the world, as an
+outcome rather than an origin. But what if it were an
+origin? What if my point of view upon the world were not
+something I have, but something I am?  (Move to question to
+my about my lecture.) is question. seemingly profound
+question, how I might be compelled to ask why there is
+something rather than nothing, the question of why is there
+something rather than nothing to begin with, , to begin
+with, then, in the point of view that is unaccountably mine,
+is one way, at least, to think about 
+
+there is no explaining
+the origin of my point of view upon the world, insofar as it
+is mine alone, because in this respect, my point of view
+*is* an origin, rather than having one. Or let me say this
+again still more elaborately: my point of view *as mine* is
+not an outcome of the world, which might be explained in
+being traced back to an origin; rather, it is an origin in
+itself. Because my point of view *is* an origin, I am in
+a position not simply to explain the world, or find answers
+in it, but to wonder about the world, and ask questions of
+it. 
 
 Ask why I'm the source of this presence, is to ask about
 the source of the presence, the source of my own point of view
@@ -470,84 +497,7 @@ is not Klein's conclusion, and I think that here too he is
 right. Here is one way to think about why. The way I surpass
 all explanation in this context is the way I *am free*
 of all explanation---or more simply put, the way I am
-free. Or to say this more exactly if elaborately: there is
-no explaining the origin of my point of view upon the world,
-insofar as it is mine alone, because in this respect, my
-point of view *is* an origin, rather than having
-one. Or let me say this again still more elaborately: my
-point of view *as mine* is not an outcome of the world,
-which might be explained in being traced back to an
-origin; rather, it is an origin in itself. And a crucial
-sign of this is indicated by Klein in what he calls the
-roots of all my questioning. For because my point of view
-*is* an origin, I am in a position not simply to
-explain the world, or find answers in it, but to wonder
-about the world, and ask questions of it. The reason that
-the presence of the world can then be put into permanent
-question, the reason we can wonder "Why is this
-so?" of anything at all, is not because the world is
-radically contingent, but rather because it is radically
-originating. And the world is perhaps most essentially
-originating, in a way that makes a place for liberal
-education, in the very possibility of questions that are
-permanent rather than provisional---which is to say,
-questions we can ask of the world that remain questions even
-when answered.
-
-Let me try to spell all this out one last way before moving
-on. There is, we can suppose, a way that the world is simply
-there for us, or present to us. And this establishes what we
-might call a horizon of acquaintance with things, within
-which they are always already present, and in that sense
-unquestionable. This is not to deny the existence of
-questions within such a horizon, but rather to say that any
-such question has some answer in front of it, that relies on
-the very presence of what is being questioned. And because
-of this presence, the answer can in effect supplant the
-question, in what we might regard as the continual advance
-in knowledge that we can make within this horizon, just
-insofar as our questions about the world *have* answers.  We
-could even identify this horizon, I think, with everything
-there is to *learn* about the world. And if this were the
-only horizon available to us, liberal education would be, in
-a literal sense of the word, *mathematical*, where we learn
-the things that *can* be learned.
-
-But this is not, it turns out, the only horizon available to
-us. And this changes---or converts---the idea of liberal
-education radically, from having a mathematical orientation
-to having a philosophical one. For the very presence of the
-world, again, can become utterly strange, where we wonder
-*why* it is there for us, and what gives it the very
-presence it has, the very presence that establishes our
-horizon of acquaintance. This experience of strangeness and
-wonder is only possible, I think, where there is a larger
-horizon available to us---if "horizon" is still the
-word---that encompasses our horizon of acquaintance. And
-within this larger horizon, we could say that things are
-inherently questionable, which is to say, that things are
-present to us only insofar as they are questionable. This is
-not to deny the existence of answers within such a horizon,
-but rather to say that any such answer has some question
-behind it, that relies on the very questionability of what
-is present. And because of this questionability, the answer
-is prevented from supplanting the question. What the answer
-does instead, we could say, is address the question. And
-within this horizon, then, there is no advance, in the usual
-sense, in our knowledge of things, but rather a deepening of
-it. We might think of this deepening as a continual
-clarification, within this horizon, of why, and to what
-extent, our knowledge of things *is* knowledge. And this
-clarification is possible just insofar as our answers have
-questions about the world behind them, to which they *are*
-the answers. We could even identify this horizon, I think,
-with everything there is to *wonder* about the world, or
-*ask* about the world, that makes us learn, in making us
-want to learn, and in that way able to learn. And since this
-is a second horizon available to us that encompasses the
-first, liberal education is no longer mathematical, but
-again philosophical, where we might say, if paradoxically,
-that we learn the things that *can't* be learned.
+free. Or to say this more exactly if elaborately: 
 
 That such things can't be learned is acknowledged by Klein,
 I think, when he mentions that he is not at all certain to
