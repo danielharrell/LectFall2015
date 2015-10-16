@@ -309,15 +309,22 @@ feel compelled to ask myself, why there is something rather
 than nothing. 
 
 But what, now, about the prospect of any answer to this
-question? After all, if we take something rather than
-nothing to refer to presence rather than absence, then
-asking *why* there is something rather than nothing seems to
-be asking for the source of presence to present
-itself somehow, as if it were no longer a source. Or to put the
-paradox in different terms: the question seems to be asking
-for the origin of my own point of view upon the world to
-become part of that point of view, as if it were no longer
-an origin. So we seem to be stuck  
+question? Sadly, it doesn't look any better than before.
+After all, if we take something rather than nothing to refer
+to presence rather than absence, then asking *why* there is
+something rather than nothing, at least if I expect to find
+an answer, seems to be asking for the *source* of presence
+to present itself to me, as if it were no longer a source.
+Or to put the paradox in different terms: asking my question
+in the expectation of an answer is like asking for the
+origin of my own point of view upon the world to become
+*part* of that point of view, as if it were no longer an
+origin. So we seem to be stuck in paradox, and stuck with
+the same question about questions that concluded the first
+part of my lecture. If a question is so incomplete as to ask
+for an answer that will never be found, then how can it
+still be complete enough to *be* a question? How are
+questions without answers in this sense even possible?
 
 Here mention how the question of my first part
 still remains. Then move on to solution. [Mention how I am
