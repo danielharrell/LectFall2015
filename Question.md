@@ -328,22 +328,51 @@ questions without answers in this sense even possible?
 
 But I think there might be another possibility. What if
 there *were* no source of presence, because presence itself
-is a source. Or what if there *were* no origin of my own
+is a source? Or what if there *were* no origin of my own
 point of view upon the world, because the point of view
-itself *is* an origin. Or what if I could never *find* an
+itself *is* an origin? Or what if I could never *find* an
 answer to the question why there is something rather than
 nothing, because, in some sense, I myself *am* the answer?
 Or what if a question *could* be so incomplete as to ask for
-an answer that will never be found, but still be complete
+an answer that will never be found, yet still be complete
 enough to *be* a question, in being the start, the origin,
 the source, of the answer it was asking for? What if
 questions without answers were possible, in other words,
 because questions without answers are beginnings? 
 
+Or to try to clarify this possibility through an example,
+suppose at some point this week you wanted to know, but
+didn't know, who the Friday Night lecturer was. If you asked
+anyone else who knew, they would say "Mr Harrell is". But if
+you came to me, I would say "I am". And while the answers
+are the same in one sense, their grammar reflects
+a difference in another sense. And one way to put this
+difference, I think, is that the first answer, the one that
+refers to me as Mr Harrell, is an answer anyone might have,
+or possess. But the second answer, the one that refers to me
+by the pronoun "I", is an answer only I can give. And while
+in one sense I might be said to possess it; in another
+sense, and I think this is a more exact sense, I don't
+*have* the answer, because I *am* the answer. 
 
-I can
-never *find* an answer to this question, because, in some sense,
-I myself *am* the answer? In other words, theHere mention how the question of my first part
+So the possibility I'm suggesting is that when we ask
+questions with answers in no one's possession, the reason
+they are nowe think of those
+questions as if *we* spell out the
+implications. questions. Let me try to spell them out. (From
+here, move on to asking me who is giving the lecture, then
+to brief analysis of interrogative pronoun, not taking the
+place of noun, but of another pronoun, the first person
+pronoun, "I", or "me", or "we". the pronoun I, or we. then
+to way of thinking about opening question of seminar as
+being asked for the very first time, we don't possess it but
+conversation is not an attempt to find the answer, but
+rather our way of embodying an answer. and answered as if in
+heeding a call, rather than being old questions without
+answers. then to questions as calls and answers as heedings
+of the call.) I can never *find* an answer to this question,
+because, in some sense, I myself *am* the answer? In other
+words, theHere mention how the question of my first part
 still remains. Then move on to solution. [Mention how I am
 the answer. Then move on to what is a question question.
 Also check notes for other things, like heeding the call.]
