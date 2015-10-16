@@ -20,8 +20,8 @@ College on October 16, 2015...
 ## Introduction [intro]
 
 Tonight, I want to ask a question about questions. What are
-they? What did I just do in asking that one, for
-example? Or that one? Or this one?
+they? What did I just do in asking that one? Or that one? Or
+this one?
 
 The questions I just asked show they are easy enough to
 form. And form them we do, in ways that range from the
@@ -48,18 +48,18 @@ are.  One might even wonder if there is anything left in
 a question to think about, once we grasp, and can ponder,
 what the question is asking about.
 
-But perhaps there *is* something left to think about. For
-while questions may be invisible in one sense, they are
-altogether visible in another. We give questions their own
-punctuation mark; their own syntax; their own intonation;
-and even their own verb, making a question something
-I *ask*, rather than simply something I say. It even sounds
-odd to say that questions are *said*, rather than asked. But
-what is it, then, that might make asking different from
-saying? What did I just do, for example, in raising
-a question about this difference rather than making an
-assertion about it? And what would make my question
-different from my answer, if I had any answer to give? 
+But perhaps there *is* something left to think about.
+Questions may be invisible in one sense, but they are altogether
+visible in another. We give questions their own punctuation
+mark; their own syntax; their own intonation; and even their
+own verb, making a question something I *ask*, rather than
+simply something I say. It even sounds odd to say that
+questions are *said*, rather than asked. But what is it,
+then, that might make asking different from saying? What did
+I just do in raising a question about this
+difference rather than making an assertion about it? And
+what would make my question different from my answer, if
+I had any answer to give? 
 
 And *do* I have any answer to give? I ask this last
 question, because I confess I can't make up my mind about
@@ -67,36 +67,33 @@ the lecture to follow, and what to make of where it goes.
 I do know I've divided it into two parts. In the first part,
 I will use my example of a clearly prosaic question---what
 did you have for lunch today?---to describe something about
-questions that I find essential, yet puzzling, even
-paradoxical. <!--Make sure to mention that my pronomial
-analysis of "What did you have for lunch today? can be
-applied to questions more generally, as their essential
-feature--> Then, in the second part of the lecture, I will
-use my example of a seemingly profound question---why is
-there something rather than nothing?---to try to resolve the
-paradox, though I will ask a question or two about this, to conclude my
-lecture, that suggests I have failed.  <!--The lecture also
-has an epilogue, which I'll read if I'm still within the
-hour by then.-->
+questions I find essential, yet puzzling, even paradoxical.
+<!--Make sure to mention that my pronomial analysis of "What
+did you have for lunch today? can be applied to questions
+more generally, as their essential feature--> Then, in the
+second part of the lecture, I will use my example of
+a seemingly profound question---why is there something
+rather than nothing?---to try to resolve the paradox. But
+I will end the lecture with a question that suggests I have
+failed.  <!--The lecture also has an epilogue, which I'll
+read if I'm still within the hour by then.-->
 
 [Back to top] [top]
 
 ## Part One [one]
 
-So, what did you have for lunch today? Or suppose I ask you
-this, and you reply: I had pizza for lunch today. What makes
-my sentence *the question* in this exchange? We can assume
-I spoke my sentence with the intonation we associate with
-questions; and that if I wrote my sentence down, I would put
-a question-mark at the end. I use the verb "to do" in my
-sentence, presumably to help produce the inversion of
-subject and verb that belongs to the syntax of questions, at
-least in English. But there is another word I use in my
-sentence, the first word "what", as if to announce that what
-follows this word will belong to a question rather than an
-answer. Let us suppose, then, what makes my sentence *the
-question* in our exchange has something essential to do with
-my use of the word "what". So how am I using it? 
+So what did you have for lunch today? Or suppose I ask you
+this, and you reply: I had pizza. What makes my sentence
+*the question* in this exchange? We can assume I spoke my
+sentence with the right intonation; and that if I wrote my
+sentence down, I would put a question-mark at the end.
+I also used the verb "to do", to help invert my subject and
+verb. But there is one more thing I did, another word
+I used. I began my sentence with "what", as if to announce
+a question rather than an answer. Perhaps what makes my
+sentence *the question* in our exchange, then, has something
+essential to do with my use of the word "what". So how am
+I using it? 
 
 I am using it, evidently, to ask you *what* you had for
 lunch. And the grammatical role it plays in my sentence
@@ -105,26 +102,28 @@ And this means, we might presume, that it is taking the
 place of a noun. But what noun? Again, we might presume this
 would be whatever noun, or noun-phrase, identifies what you
 had for lunch. In this case, then, the noun would be
-"pizza." But there is already a problem with this analysis,
-or at least a puzzle. It gives a fair enough explanation,
-I think, of how you might use the pronoun "what" in your
-answer; for example, if you were to say: "what I had for
-lunch today was pizza". But since my question precedes your
-answer, and prompts your answer, it presumably makes sense
-in advance of your answer, no matter the answer, even if the
-answer were "I had nothing for lunch today; I was too busy
-to eat." But this suggests that when *I* use the pronoun
-"what", in my question, it cannot take the place of *any*
-noun, lest my question imply your answer. 
+"pizza." 
+
+But there is already a problem with this analysis, or at
+least a puzzle. It gives a fair enough explanation, I think,
+of how you might use the pronoun "what" in your answer; for
+example, if you were to say: "what I had for lunch today was
+pizza". But since my question precedes your answer, and
+prompts your answer, it presumably makes sense in advance of
+your answer, no matter the answer, even if the answer were
+"I had nothing for lunch today; I was too busy to eat." But
+this suggests that when I use the pronoun "what" in my
+question, it cannot take the place of *any* noun, lest my
+question imply your answer. 
 
 But then am I *not* using the word "what" in my question as
 a pronoun? There is a problem with this possibility, too.
 For even if my question makes sense in advance of any
-answer, and cannot then imply an answer, it still asks for
+answer, it still asks for
 an answer; and in this case for the very answer you give
 about what you had for lunch. Indeed, in this direction, we
 might say that the noun "pizza" is too general, rather than
-too specific, to have been replaced in advance by the
+too specific, to have been replaced by the
 pronoun "what" in my question. After all, in asking you what
 you had for lunch, I am asking you about the very piece of
 pizza you had for lunch, all other pizza aside. 
@@ -138,58 +137,57 @@ sense as *asking* for your answer, then this pronoun will
 have to represent *exactly* what you had for lunch, as if
 its reference to your lunch were definite, even unique. And
 since I only have to ask the question once, we can assume
-that the pronoun "what" is somehow making both references at
+that the word "what" is somehow making both references at
 once, as if it could take the place of any lunch you might
 have had, and the one lunch you actually had, at the very same
-time. But what kind of pronoun is this?
+time. But what kind of pronoun is that?
 
-There is another pronoun like this in my question, as it
-happens, related to the first. For my question is about what
-*you* had for lunch. And this means, evidently, that I can
-use the pronoun "you", without any dependence on a name it
-might have replaced, to address my question to each of you,
-as if my reference to you both included and excluded anyone
-else, at least in the audience. And this seems something
-like the way I can use the pronoun "what", again without any
-dependence on a noun it might have replaced, to ask my
-question about *what* you had for lunch, as if my reference
-to your lunch both included and excluded anything else, at
-least that was edible and available. And there is yet
-another word in my question, the word "today", that seems to
-make the same double reference, as if it too were the same
-kind of pronoun. <!--Perhaps put "today" in nearby
-formulation of question?--> For there is no date, evidently,
-that the word "today" takes the place of; and this allows it
-to refer to any day, in referring to just one.   
+There is another pronoun like this in my question, related
+to the first. For my question is about what *you* had for
+lunch. Evidently, I can use the pronoun "you", without any
+dependence on a name it might have replaced, to address my
+question to each of you, as if my reference to you both
+included and excluded anyone else, at least in the audience.
+And this seems something like the way I can use the pronoun
+"what", again without any dependence on a noun it might have
+replaced, to ask my question about *what* you had for lunch,
+as if my reference to your lunch both included and excluded
+anything else, at least that was edible and available. And
+there is yet another word in the most explicit form of my
+question, the word "today", that seems to make the same
+double reference, as if it too were the same kind of
+pronoun. <!--Perhaps put "today" in nearby formulation of
+question?--> For there is no date that the word "today" need
+take the place of; and this allows it to refer to any day,
+even in referring to just one.   
 
 But let me pause at this point in my account. For I can see
-at least two issues with it. One is simply that it might be
-wrong, in part or whole, about the use of pronouns in my
-question. Another issue is that the account focuses on one
-question, and what puzzles me about *its* use of pronouns,
+at least two issues with it. One is that it might be wrong,
+in part or whole, about the use of pronouns in my question.
+Another issue is that the account focuses on one question,
 but says nothing about questions more generally. So let me
 now try to describe what puzzles me about questions more
-generally, without appeal to any pronouns, before moving on
-to the second part of my lecture, to try to solve the puzzle.  
+generally, and without appeal to any pronouns, before moving
+on to the second part of my lecture.  
 
 Again, my question was, "What did you have for lunch today?"
 And when I began my account of what puzzled me about it,
 I said that the question had to make sense in two ways at
 once: it had to make sense, first, *in advance of* any
-answer; but it *also* had to make sense *as asking for* an
+answer;  and it *also* had to make sense *as asking for* an
 answer. But I might have said this much of *any* question,
 and this much is enough to puzzle me.  For by making sense
 in advance of any answer, a question seems to be complete;
 yet by making sense as asking for an answer, a question
-seems to be incomplete. And if it makes sense in both
-ways at once, then a question seems somehow complete
-and incomplete at once. But this sounds paradoxical
-rather than possible. So how is it possible? How are *questions*
+seems to be incomplete. And if it makes sense in both ways
+at once, then a question seems somehow complete and
+incomplete at once. But this sounds paradoxical rather than
+possible. So how is it possible? How are *questions*
 possible?   
 
-And in particular, how is the kind of question we ask at
-the college possible? For the kind of question I asked you
-about your lunch, we might say, is a question for me, but not for
+And in particular, how is the kind of question we ask at the
+college possible? For the kind of question I asked you about
+your lunch, we might say, is a question for me, but not for
 you; and it asks for an answer possessed by you, but not by
 me. But the kind of question we ask the college---for
 example, in the opening question of a seminar---is more
@@ -199,55 +197,55 @@ none of us, which is *why* the conversation begins. But
 questions without answers in this sense might well be
 dismissed as hopeless, pointless, useless, meaningless---as
 if these were questions for none of us rather than all of
-us, precisely in asking for answers possessed by none of us.
-And this, then, is the paradox. For if a question is so
+us, in asking for answers possessed by none of us.
+This, then, is the paradox. For if a question is so
 incomplete as to ask for an answer in no one's possession,
 then how can it still be complete enough to *be* a question?
-Again, how is this kind of question even possible?
+How is this kind of question even possible?
 
-The epitome of such a question, perhaps, is my example of
-a seemingly profound question: Why is there something rather
-than nothing? For any answer to this question---be it
-a cause, or at least a reason---would seem to involve
-something rather than nothing, which the question then
-obliges us to explain in yet another answer, leading to an
-infinite regress of answers, as if the question were asking
-for an answer only to swallow it, so that no one could ever
-possess it. But does this mean that the question is truly
-profound? Even the deepest question there is? Or does it
-mean that the question is not really a question at all? 
+The epitome of such a question is my example of a seemingly
+profound question: Why is there something rather than
+nothing? For any answer to this question---be it cause or
+reason---would seem to involve something rather than
+nothing, which the question then obliges us to explain, in
+yet another answer, leading to an infinite regress of
+answers, as if the question were asking for an answer only
+to swallow it, so that no one could ever possess it. But
+does this mean that the question is truly profound? Even the
+deepest question there is? Or does it mean that the question
+is not really a question at all? 
 
 [Back to top] [top]
 
 ## Part Two [two]
 
-So, why *is* there something rather than nothing? Or leaving
-aside for the moment any prospect of an answer, why would
-I ever ask myself this question? One reason, I think,
-involves the very point of view from which I asked you
-earlier what you had for lunch. This is the point of view
-that allowed me to address you with the pronoun "you": the
-point of view, then, that allows me to use the pronoun "I",
-or "me", to address myself. 
+So why *is* there something rather than nothing? Or leaving
+aside any prospect of an answer, why would I ever ask myself
+this question? One reason, I think, involves the very point
+of view from which I asked you earlier what you had for
+lunch. This is the point of view that allowed me to address
+you with the pronoun "you", and the point of view, then,
+that allows me to use the pronoun "I", or "me", to address
+myself. 
 
-Here is how we might think about this. When I ask why there
-is something rather than nothing, I don't mean to ask merely
+Here is one way to think about this. When I ask why there is
+something rather than nothing, I don't mean to ask merely
 why there is something rather than something *else*. It is
-one thing, for example, to ask myself why there is a podium
-in front of me rather than something else, like a table, or
-a chair, or even just the air in the hall. But it seems
-another thing to ask myself why there is a podium in front of me
-rather than nothing at all. But what might lead me from the
-first kind of question to the second? What might lead me,
-that is, to suppose it possible, or even just intelligible,
-that something in the world like the podium might be
-nothing, rather than merely something else? Can I even use
-the word "nothing" and *not* mean something?    
+one thing to ask myself why there is a podium in front of me
+rather than something else, like a table, or a chair, or
+even just the air in the hall. But it seems another thing to
+ask myself why there is a podium in front of me rather than
+nothing at all. But what might lead me from the first kind
+of question to the second? What might lead me, that is, to
+suppose it possible, or even intelligible, that
+something in the world like the podium might be nothing,
+rather than merely something else? Can I even use the word
+"nothing" and *not* mean something?    
 
-Suppose, however, that I ask myself why the person *behind*
+But suppose I ask myself why the person *behind*
 this podium is me, rather than someone else. In one
 sense, the answer is easy to give. It was *my* lecture
-scheduled for tonight, after all, rather than someone
+scheduled for tonight rather than someone
 else's. And *my* decision to give a lecture that led to the
 scheduling. The answer to my question might continue in this
 vein, going back in time to my appointment at the college,
@@ -255,7 +253,7 @@ to my birth, my parents' birth, my grandparents', all the
 way back to the Big Bang, if you like. But even this
 much an answer seems to leave something in my question
 unaddressed. For why am *I* the person that this answer puts
-so convincingly behind the podium? Why is his point of view
+so conclusively behind the podium? Why is his point of view
 *my* point of view? Why is *his* lecture *mine*? Why is he
 *me*?  
 
@@ -268,31 +266,31 @@ no one rather than someone, nothing rather than something.
 So when I ask myself why the person behind this podium is me
 *even if* I *am* no one else, I seem to be asking why *I
 myself* am something rather than nothing. And the reason
-I can ask this, it seems, has something to do with my use of
-the first-person pronoun in this case, and the point of view
-upon the world it reflects. Because my use of it allows it
-to refer to me and no one else, it reflects a point of view
+I can ask this is related to my use of the first-person
+pronoun in my question, and the point of view upon the world
+it reflects. Because my use of it allows the pronoun to
+refer to me and no one else, it reflects a point of view
 upon the world that I share with no one else. It is the
-point of view I might simply call my own. Of course, you
+point of view I can call my own. Of course, you
 also possess your own point of view in this sense---each of
 you, I mean. And this is why you too can use the pronoun "I"
 to mean you and no one else. 
 
 Yet since each of us shares this point of view with no one
 else, the view itself seems to be something that could never
-be something else. That is, my own point of view upon the
+*be* something else. That is, my own point of view upon the
 world, since I share this with no one else, can only be
-something or nothing. And the reason, then, that I can ask
-myself why *I* am something rather than nothing, is that
-I am asking this question not only *from* my own point of
-view, but *about* this point of view, and why it is
-something rather than nothing in being *mine*.    
+something or nothing. And the reason I can ask myself why
+*I* am something rather than nothing, it seems, is that I am
+asking this question not only *from* my own point of view,
+but *about* this point of view, and why the view is something
+rather than nothing in being *mine*.    
 
 But this is also the reason, then, that I can ask why there
 is something rather than nothing more generally. For my own
 point of view upon the world might be said to *contain* the
 world, as if in a frame; even if I am otherwise *contained*
-in the world as an inhabitant. That is, the world is made
+in the world as an inhabitant. The world is made
 *present* to me through this point of view; and the world
 has a *presence*, then, that we can distinguish from its
 existence. But presence, in this sense, is presence rather
@@ -308,39 +306,33 @@ one way to think about how I might come to ask myself, and
 feel compelled to ask myself, why there is something rather
 than nothing. 
 
-But what, now, about the prospect of any answer to this
-question? Sadly, it doesn't look any better than before.
-After all, if we take something rather than nothing to refer
-to presence rather than absence, then asking *why* there is
-something rather than nothing, at least if I expect to find
-an answer, seems to be asking for the *source* of presence
-to present itself to me, as if it were no longer a source.
-Or to put the paradox in different terms: asking my question
-in the expectation of an answer is like asking for the
-origin of my own point of view upon the world to become
-*part* of that point of view, as if it were no longer an
-origin. So we seem to be stuck in paradox, and stuck with
-the same question about questions that concluded the first
-part of my lecture. For if a question is so incomplete as to
-ask for an answer that will never be found, then how can it
-still be complete enough to *be* a question? How are
-questions without answers in this sense even possible?
+Even so, it seems I have no hope of finding any answer. For
+if we take something rather than nothing to refer to
+presence rather than absence, then asking *why* there is
+something rather than nothing, at least if I hope to find an
+answer, is like asking for the *source* of presence to
+present itself to me, as if it were no longer a source. Or
+like asking for the origin of my own point of view upon the
+world to become *part* of that point of view, as if it were
+no longer an origin. So we again seem stuck in paradox, and
+stuck with the same question about questions that concluded
+the first part of my lecture. For again, if a question is so
+incomplete as to ask for an answer in no one's possession,
+then how can it still be complete enough to *be* a question?
+How are questions without answers in this sense even
+possible?
 
-But I think there might be another possibility. What if
-there *were* no source of presence, because presence itself
-is a source? Or what if there *were* no origin of my own
-point of view upon the world, because the point of view
-itself *is* an origin? Or what if I could never *find* an
-answer to the question why there is something rather than
-nothing, because, in some sense, I myself *am* the answer?
-Or what if a question *could* be so incomplete as to ask for
-an answer that will never be found, yet still be complete
-enough to *be* a question, in being the start, the origin,
-the source, of the answer it was asking for? What if
-questions without answers were possible, in other words,
-because questions without answers are beginnings? 
+But there is another way to think about this. What if I can
+never *find* an answer to this question, because in some
+sense I *am* the answer. What if there *were* no origin of
+my own point of view upon the world, because the point of
+view itself *is* an origin? What if a question *could* ask
+for an answer in no one's possession and still *be*
+a question, in being the source of the answer it was asking
+for? What if questions without answers were possible,
+because questions without answers are beginnings?  
 
-Let me try to clarify this possibility through an example.
+I can try to clarify my "what-ifs" through an example.
 Suppose at some point this week you wanted to know, but
 didn't know, who the Friday Night lecturer was. If you asked
 anyone else who knew, they would say "Mr Harrell is". But if
@@ -348,55 +340,65 @@ you came to me, I would say "I am". The answers are the same
 in one sense, but their grammar still reflects a difference.
 And one way to put this difference, I think, is that the
 first answer, the one that refers to me as Mr Harrell, is an
-answer anyone might have, or possess. But the second answer,
+answer anyone might have, or give. But the second answer,
 the one that refers to me by the pronoun "I", is an answer
 only I can give. And while in one sense I might be said to
-possess it; in another sense, and I think this is a more
-exact sense, I don't *have* the answer, because I *am* the
-answer. 
+have it; in another sense, and I think this is a more exact
+sense, I don't *have* the answer, because I *am* the answer. 
 
-On this possibility, then, we are also the answers to questions
-that can become questions for all of us, because being the answers
-to those questions is what it means for the answers to be possessed
-by none of us. when we encounter the kind of question that asks
-for an answer possessed by none of us, and can thus become a question
-for all of us, can
-become a question for *all* of us, not having the answers to questions
-we can ask means that we *are* the answers, as if the interrogative
-pronoun in those questions were taking the place of a first-person
-pronoun. personal
-pronoun, in the first person. points to I am also the answer to questions
-I can ask where no one has the answer,  , such as why there is something rather than nothing,
-or what is a question, The possibility I am thinking of, then, is that when we ask
-the kind of question that can become one for all of us, with
-an answer possessed by none of us, we conceive the
-lack of possession not in terms of ignorance but instead in
-terms of To push this possibility a step further, let's suppose
-we now consider a question the very question of my lecture: "what is
-a question?" Since there is no expert to consult, or Google
-search to perform, that would answer this question for me,
-we can take this, I think, to be an 
-What I'm suggesting, then, is that So the possibility I'm suggesting is that when we ask
-questions with answers in no one's possession, the reason
-they are nowe think of those
-questions as if *we* spell out the
-implications. questions. Let me try to spell them out. (From
-here, move on to asking me who is giving the lecture, then
-to brief analysis of interrogative pronoun, not taking the
-place of noun, but of another pronoun, the first person
-pronoun, "I", or "me", or "we". the pronoun I, or we. then
-to way of thinking about opening question of seminar as
-being asked for the very first time, we don't possess it but
-conversation is not an attempt to find the answer, but
-rather our way of embodying an answer. and answered as if in
-heeding a call, rather than being old questions without
-answers. then to questions as calls and answers as heedings
-of the call.) I can never *find* an answer to this question,
-because, in some sense, I myself *am* the answer? In other
-words, theHere mention how the question of my first part
-still remains. Then move on to solution. [Mention how I am
-the answer. Then move on to what is a question question.
-Also check notes for other things, like heeding the call.]
+MyThis is one example, then, where lacking the answer means
+being the answer. Mention other pronouns being like "who",
+referring to personal pronouns. Mention seeming paradox
+but not real paradox. The answer is something
+I do, rather than something I find or make or even give, at least
+if "give" implies a separation of the answer from the giver. The answer,
+instead, is something I do, and it makes answering a
+question like answering a call or summons. (Bring up stuff from
+notes about heeding call.)It is something like this that am also the answer then, on
+this possibility, when I don't have the answer to On this
+possibility, then, we are also the answers to questions that
+can become questions for all of us, because being the
+answers to those questions is what it means for the answers
+to be possessed by none of us. when we encounter the kind of
+question that asks for an answer possessed by none of us,
+and can thus become a question for all of us, can become
+a question for *all* of us, not having the answers to
+questions we can ask means that we *are* the answers, as if
+the interrogative pronoun in those questions were taking the
+place of a first-person pronoun. personal pronoun, in the
+first person. points to I am also the answer to questions
+I can ask where no one has the answer,  , such as why there
+is something rather than nothing, or what is a question, The
+possibility I am thinking of, then, is that when we ask the
+kind of question that can become one for all of us, with an
+answer possessed by none of us, we conceive the lack of
+possession not in terms of ignorance but instead in terms of
+To push this possibility a step further, let's suppose we
+now consider a question the very question of my lecture:
+"what is a question?" Since there is no expert to consult,
+or Google search to perform, that would answer this question
+for me, we can take this, I think, to be an What I'm
+suggesting, then, is that So the possibility I'm suggesting
+is that when we ask questions with answers in no one's
+possession, the reason they are nowe think of those
+questions as if *we* spell out the implications. questions.
+Let me try to spell them out. (From here, move on to asking
+me who is giving the lecture, then to brief analysis of
+interrogative pronoun, not taking the place of noun, but of
+another pronoun, the first person pronoun, "I", or "me", or
+"we". the pronoun I, or we. then to way of thinking about
+opening question of seminar as being asked for the very
+first time, we don't possess it but conversation is not an
+attempt to find the answer, but rather our way of embodying
+an answer. and answered as if in heeding a call, rather than
+being old questions without answers. then to questions as
+calls and answers as heedings of the call.) I can never
+*find* an answer to this question, because, in some sense,
+I myself *am* the answer? In other words, theHere mention
+how the question of my first part still remains. Then move
+on to solution. [Mention how I am the answer. Then move on
+to what is a question question. Also check notes for other
+things, like heeding the call.]
 
 But I think there is another possibility, one that allows us
 to reconsider how questions are possible. The possibility is
