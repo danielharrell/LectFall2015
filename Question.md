@@ -300,7 +300,7 @@ encounter in it, like the podium in front of me, present
 rather than absent, or something rather than nothing. And
 I can make the podium vanish, in this sense, simply by
 closing my eyes. And once they close for good, I can lose
-the world altogether. So why I ever *gained* the world in
+tthe world altogether. So why I ever *gained* the world in
 this sense, why I ever found myself with eyes to open, is
 one way to think about how I might come to ask myself, and
 feel compelled to ask myself, why there is something rather
@@ -346,20 +346,34 @@ only I can give. And while in one sense I might be said to
 have it; in another sense, and I think this is a more exact
 sense, I don't *have* the answer, because I *am* the answer. 
 
-MyThis is one example, then, where lacking the answer means
-being the answer. Mention other pronouns being like "who",
+This is one example, then, where lacking the answer means
+being the answer. But something similar, I think, is
+happening in questions where no one has an answer. Take the
+question of my lecture: "what is a question?" And let us
+assume there is no expert on questions to consult, no Google
+search we could do, no answer "out there" to find, to put
+this question to rest. But what answer, then, could the
+question be asking for? This is where I think it makes
+a kind of sense to say that lacking the answer means being
+the answer. Or to try to make this more intelligible, and
+particular, when we ask a question that can become
+a question for all of us, before the conversation begins, say before a conversation, and it
+asks for an answer possessed by onat the answer is not
+something I find The answer is something I do, rather than
+something I find or make or even give, at least if "give"
+implies a separation of the answer from the giver. The
+answer, instead, is something I do, and it makes answering
+a question like answering a call or summons. (Bring up stuff
+from notes about heeding call.)It is something like this
+that am also the answer then, on this possibility, when
+I don't have the answer to On this possibility, then, we are
+also the answers to questions that can become questions for
+all of us, because being the answers to those questions is
+what it means for the answers to be possessed by none of us.
+
+MyMention other pronouns being like "who",
 referring to personal pronouns. Mention seeming paradox
-but not real paradox. The answer is something
-I do, rather than something I find or make or even give, at least
-if "give" implies a separation of the answer from the giver. The answer,
-instead, is something I do, and it makes answering a
-question like answering a call or summons. (Bring up stuff from
-notes about heeding call.)It is something like this that am also the answer then, on
-this possibility, when I don't have the answer to On this
-possibility, then, we are also the answers to questions that
-can become questions for all of us, because being the
-answers to those questions is what it means for the answers
-to be possessed by none of us. when we encounter the kind of
+but not real paradox.  when we encounter the kind of
 question that asks for an answer possessed by none of us,
 and can thus become a question for all of us, can become
 a question for *all* of us, not having the answers to
