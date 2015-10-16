@@ -221,16 +221,14 @@ mean that the question is not really a question at all?
 
 ## Part Two [two]
 
-So, why *is* there something rather than nothing? Or suppose
-I ask myself this question, and then start to wonder why
-I ask it, and what answer I might be asking
-for. One reason I might ask it, leaving all prospect of
-an answer aside, comes from asking  
-it from the position, or point of view, that I took when
-I asked you what you had for lunch. The point of view, then,
-that allowed me to address you with the pronoun "you", and
-allows me in distinction to "you", to use the pronoun "me",
-or "I", to refer to myself. 
+So, why *is* there something rather than nothing? Or leaving
+aside for a moment any prospect of an answer, why would
+I ever ask myself this question? One reason, I think,
+involves the very position, or point of view, from which
+I asked you earlier what you had for lunch. The point of
+view, then, that allowed me to address you with the pronoun
+"you", and allows me in distinction to "you", to use the
+pronoun "me", or "I", to refer to myself. 
 
 Here is what I mean. When I ask why there is something
 rather than nothing, I don't mean to ask merely why there is
@@ -314,6 +312,7 @@ open, is one way to think about how I might ask myself, and
 feel compelled to ask myself, why there is something rather
 than nothing. 
 
+
 But even if this explains how the question might be
 intelligibly and seriously asked, it gives us no answer to
 the question. Indeed, I suspect it rather gives us another
@@ -323,6 +322,8 @@ to presence rather than absence, then asking *why* there is
 something rather than nothing is to ask for the source of
 presence to present itself, as if the source were not a 
 source, or somehow the source of itself. 
+Here mention how the question of my first part still remains. 
+Then move on to solution. 
 [Mention how I am the answer. Then move on to what is a question
 question. Also check notes for other things, like heeding the call.]
 
