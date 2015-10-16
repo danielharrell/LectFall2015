@@ -340,13 +340,13 @@ the source, of the answer it was asking for? What if
 questions without answers were possible, in other words,
 because questions without answers are beginnings? 
 
-Or to try to clarify this possibility through an example,
-suppose at some point this week you wanted to know, but
+Let me try to clarify this possibility through an example.
+Suppose at some point this week you wanted to know, but
 didn't know, who the Friday Night lecturer was. If you asked
 anyone else who knew, they would say "Mr Harrell is". But if
 you came to me, I would say "I am". And while the answers
 are the same in one sense, their grammar reflects
-a difference in another sense. And one way to put this
+a difference. And one way to put this
 difference, I think, is that the first answer, the one that
 refers to me as Mr Harrell, is an answer anyone might have,
 or possess. But the second answer, the one that refers to me
@@ -355,7 +355,7 @@ in one sense I might be said to possess it; in another
 sense, and I think this is a more exact sense, I don't
 *have* the answer, because I *am* the answer. 
 
-So the possibility I'm suggesting is that when we ask
+What I'm suggesting, then, is that So the possibility I'm suggesting is that when we ask
 questions with answers in no one's possession, the reason
 they are nowe think of those
 questions as if *we* spell out the
