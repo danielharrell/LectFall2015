@@ -356,9 +356,47 @@ this question to rest. But what answer, then, could the
 question be asking for? This is where I think it makes
 a kind of sense to say that lacking the answer means being
 the answer. Or to try to make this more intelligible, and
-particular, when we ask a question that can become
-a question for all of us, before the conversation begins, say before a conversation, and it
-asks for an answer possessed by onat the answer is not
+particular: when we ask the kind of question that can become
+one for all of us, before the conversation begins, and it
+asks for an answer possessed by none of us, which is why the
+conversation begins, the answer *is* the conversation, as if
+answering a question were like answering a call or summons.
+And to dismiss questions without answers in this sense as
+hopeless, or pointless, or useless, or meaningless, is to be
+heedless of the call. 
+
+In case this sounds too much like a platitude for the good
+of seminar, I have a more heretical way of describing the
+integrity of questions without answers. For suppose it true
+that questions without answers are possible, because
+questions without answers are beginnings. This suggests that
+such questions, in *being* beginnings, have no past. They
+can never be asked again, without being asked anew. But then
+for any book of the past that we read, there is no way
+*back* to the author's meaning or intent, at least when you
+read that book in light of any question that has truly
+become a question for you, even if the author has asked it
+too. Since questions like this can only be asked again in
+being asked anew, everything you do with the book in this
+light becomes a part of *your* answer to the question, not
+the author's. And since this was as true for the author in
+relation to other authors as it is for the author and you,
+it would seem as if no author could ever disagree with
+another; and it would be mistaken, then, to suppose that
+disagreement among answers distinguishes the kinds
+of question we ask at the college. 
+
+But I now want to ask two more questions, to end my lecture.
+
+
+admit of such
+disagreement. be to be deeply misleading, if not mistaken,
+to suppose that the kinds of question we ask at the college
+are perennial ones about which the authors of our books have
+disagreed. , and the kindsas if the author's answer were
+beside the point. 
+
+onat the answer is not
 something I find The answer is something I do, rather than
 something I find or make or even give, at least if "give"
 implies a separation of the answer from the giver. The
