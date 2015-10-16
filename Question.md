@@ -50,15 +50,15 @@ what the question is asking about.
 
 But perhaps there *is* something left to think about. For
 while questions may be invisible in one sense, they are
-altogether visible in another. We give questions
-their own punctuation mark; their own syntax; their own
-intonation; and even their own verb, making a question
-something I *ask*, rather than simply something I say. It
-even sounds odd to say that questions are said, rather
-than asked. But what is it, then, that might make asking
-different from saying? What did I just do, for example, in
-raising a question about this difference rather than making
-an assertion about it? And what would make my question
+altogether visible in another. We give questions their own
+punctuation mark; their own syntax; their own intonation;
+and even their own verb, making a question something
+I *ask*, rather than simply something I say. It even sounds
+odd to say that questions are *said*, rather than asked. But
+what is it, then, that might make asking different from
+saying? What did I just do, for example, in raising
+a question about this difference rather than making an
+assertion about it? And what would make my question
 different from my answer, if I had any answer to give? 
 
 And *do* I have any answer to give? I ask this last
@@ -73,11 +73,11 @@ analysis of "What did you have for lunch today? can be
 applied to questions more generally, as their essential
 feature--> Then, in the second part of the lecture, I will
 use my example of a seemingly profound question---why is
-there something rather than nothing?---to try to solve the
-puzzle, resolve the paradox; but with a suspicion that at
-best I've only deepened it, and at worst, gotten myself
-stuck. <!--The lecture also has an epilogue, which I'll read
-if I'm still within the hour by then.-->
+there something rather than nothing?---to try to resolve the
+paradox, though I will ask a question to conclude the
+lecture that suggests I have failed.  <!--The lecture also
+has an epilogue, which I'll read if I'm still within the
+hour by then.-->
 
 [Back to top] [top]
 
@@ -94,9 +94,9 @@ subject and verb that belongs to the syntax of questions, at
 least in English. But there is another word I use in my
 sentence, the first word "what", as if to announce that what
 follows this word will belong to a question rather than an
-answer. Let us suppose, then, what makes my sentence
-*the question* in our exchange has something essential to do
-with my use of the word "what". So how am I using it? 
+answer. Let us suppose, then, what makes my sentence *the
+question* in our exchange has something essential to do with
+my use of the word "what". So how am I using it? 
 
 I am using it, evidently, to ask you *what* you had for
 lunch. And the grammatical role it plays in my sentence
@@ -114,7 +114,7 @@ answer, and prompts your answer, it presumably makes sense
 in advance of your answer, no matter the answer, even if the
 answer were "I had nothing for lunch today; I was too busy
 to eat." But this suggests that when *I* use the pronoun
-"what" in my question, it cannot take the place of *any*
+"what", in my question, it cannot take the place of *any*
 noun, lest my question imply your answer. 
 
 But then am I *not* using the word "what" in my question as
@@ -223,12 +223,14 @@ mean that the question is not really a question at all?
 
 So, why *is* there something rather than nothing? Or suppose
 I ask myself this question, and then start to wonder why
-I feel compelled to ask. One way I might feel compelled,
-I think, is when I ask it from the position, or point of
-view, that I took when I asked you what you had for lunch.
-The point of view, then, that allowed me to address you with
-the pronoun "you", and allows me in distinction to "you", to
-use the pronoun "me", or "I", to refer to myself. 
+I ask it, and what answer I might be asking
+for. One reason I might ask it, leaving all prospect of
+an answer aside, comes from asking  
+it from the position, or point of view, that I took when
+I asked you what you had for lunch. The point of view, then,
+that allowed me to address you with the pronoun "you", and
+allows me in distinction to "you", to use the pronoun "me",
+or "I", to refer to myself. 
 
 Here is what I mean. When I ask why there is something
 rather than nothing, I don't mean to ask merely why there is
@@ -321,6 +323,8 @@ to presence rather than absence, then asking *why* there is
 something rather than nothing is to ask for the source of
 presence to present itself, as if the source were not a 
 source, or somehow the source of itself. 
+[Mention how I am the answer. Then move on to what is a question
+question. Also check notes for other things, like heeding the call.]
 
 But I think there is another possibility, one that allows us
 to reconsider how questions are possible. The possibility is
@@ -333,17 +337,24 @@ rather than having one. This point of view, then, is not an
 outcome of the world, that might ever be traced 
 traced to an origin; it is rather an origin in itself. 
 
-I'm not sure if what I just said makes sufficient sense,
-so let me put the possibility a different way, through an example.
-Suppose you happened upon me earlier today, and having
-lapsed in your attention to the Friday Night Lecture, you idly
-ask me who the lecturer is. Now, the answer I would likely give
-is: "I am." But if I wanted to tease you, I might reply: "Oh, Mr Harrell
-is." In one sense these answers are the same, but in another sense, I think,
-they are different, and the way we might put the difference is that
-when I refer to myself as Mr Harrell in answering your question, I might
-be said to *have* the answer; but when I refer to myself as "I", I might
-be said to *be* the answer. 
+I have another way of thinking about this possibility, that
+doesn't rely on the terms I've used so far. Suppose you
+happened upon me earlier today, and having lapsed in your
+attention to the Friday Night Lecture, you idly ask me who
+the lecturer is. Now, the answer I would likely give is: "I
+am." But if I wanted to tease you, I might reply: "Oh, Mr
+Harrell is." In one sense these answers are the same, but in
+another sense, I think, they are different, and the way we
+might put the difference is that when I refer to myself as
+Mr Harrell in answering your question, I might be said to
+*have* the answer; but when I refer to myself as "I",
+I might be said to *be* the answer.
+
+Make sure the underline the unanswerable character of
+question. In questions for all of us, we are put in the
+position of being the answers, rather than possessing them.
+We don't have answers, we are answers. We embody them rather
+than possess them.
 
 tied to my use of the pronoun in one but the other, , I'll be the ecturenot
 having kept up with the Friday Night Lecture slate, you but before my lecture,
