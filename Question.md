@@ -321,12 +321,29 @@ origin of my own point of view upon the world to become
 *part* of that point of view, as if it were no longer an
 origin. So we seem to be stuck in paradox, and stuck with
 the same question about questions that concluded the first
-part of my lecture. If a question is so incomplete as to ask
-for an answer that will never be found, then how can it
+part of my lecture. For if a question is so incomplete as to
+ask for an answer that will never be found, then how can it
 still be complete enough to *be* a question? How are
 questions without answers in this sense even possible?
 
-Here mention how the question of my first part
+But I think there might be another possibility. What if
+there *were* no source of presence, because presence itself
+is a source. Or what if there *were* no origin of my own
+point of view upon the world, because the point of view
+itself *is* an origin. Or what if I could never *find* an
+answer to the question why there is something rather than
+nothing, because, in some sense, I myself *am* the answer?
+Or what if a question *could* be so incomplete as to ask for
+an answer that will never be found, but still be complete
+enough to *be* a question, in being the start, the origin,
+the source, of the answer it was asking for? What if
+questions without answers were possible, in other words,
+because questions without answers are beginnings? 
+
+
+I can
+never *find* an answer to this question, because, in some sense,
+I myself *am* the answer? In other words, theHere mention how the question of my first part
 still remains. Then move on to solution. [Mention how I am
 the answer. Then move on to what is a question question.
 Also check notes for other things, like heeding the call.]
