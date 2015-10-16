@@ -344,17 +344,38 @@ Let me try to clarify this possibility through an example.
 Suppose at some point this week you wanted to know, but
 didn't know, who the Friday Night lecturer was. If you asked
 anyone else who knew, they would say "Mr Harrell is". But if
-you came to me, I would say "I am". And while the answers
-are the same in one sense, their grammar reflects
-a difference. And one way to put this
-difference, I think, is that the first answer, the one that
-refers to me as Mr Harrell, is an answer anyone might have,
-or possess. But the second answer, the one that refers to me
-by the pronoun "I", is an answer only I can give. And while
-in one sense I might be said to possess it; in another
-sense, and I think this is a more exact sense, I don't
-*have* the answer, because I *am* the answer. 
+you came to me, I would say "I am". The answers are the same
+in one sense, but their grammar still reflects a difference.
+And one way to put this difference, I think, is that the
+first answer, the one that refers to me as Mr Harrell, is an
+answer anyone might have, or possess. But the second answer,
+the one that refers to me by the pronoun "I", is an answer
+only I can give. And while in one sense I might be said to
+possess it; in another sense, and I think this is a more
+exact sense, I don't *have* the answer, because I *am* the
+answer. 
 
+On this possibility, then, we are also the answers to questions
+that can become questions for all of us, because being the answers
+to those questions is what it means for the answers to be possessed
+by none of us. when we encounter the kind of question that asks
+for an answer possessed by none of us, and can thus become a question
+for all of us, can
+become a question for *all* of us, not having the answers to questions
+we can ask means that we *are* the answers, as if the interrogative
+pronoun in those questions were taking the place of a first-person
+pronoun. personal
+pronoun, in the first person. points to I am also the answer to questions
+I can ask where no one has the answer,  , such as why there is something rather than nothing,
+or what is a question, The possibility I am thinking of, then, is that when we ask
+the kind of question that can become one for all of us, with
+an answer possessed by none of us, we conceive the
+lack of possession not in terms of ignorance but instead in
+terms of To push this possibility a step further, let's suppose
+we now consider a question the very question of my lecture: "what is
+a question?" Since there is no expert to consult, or Google
+search to perform, that would answer this question for me,
+we can take this, I think, to be an 
 What I'm suggesting, then, is that So the possibility I'm suggesting is that when we ask
 questions with answers in no one's possession, the reason
 they are nowe think of those
